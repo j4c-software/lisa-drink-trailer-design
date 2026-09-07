@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Decisions Log
 
-**Revision:** 2.5 — September 7, 2026
+**Revision:** 2.6 — September 7, 2026
 **Status:** CANONICAL DECISION RECORD  
 **Rule:** A decision becomes authoritative only when recorded here and incorporated into the applicable canonical specification.
 
@@ -64,6 +64,7 @@
 | 2026-09-07 | SUPERSEDED | Prior record selecting exterior-lighting study Option 1, the shielded dome downlight. Mike clarified that the approved fixture was the second study. |
 | 2026-09-07 | LOCKED | Select exterior-lighting study Option 2 as the concept and presentation direction: two matching compact oval caged bulkhead lights in matte charcoal, approximately 5 inches wide × 8 inches tall, with vertically ribbed frosted glass and soft glare-controlled 2700–3000 K illumination. The study controls visual direction only; exact listed exterior-rated product, photometrics, wiring, mounting and structural clearances remain **VERIFY**, with no procurement or fabrication release. |
 | 2026-09-07 | LOCKED | Mike approved `COVER-EX-01-twilight-rear-seating-approved.png` for presentation use. Preserve the accepted trailer design, place loose seating behind the trailer to keep the service-side queue apron clear, and use the later deep-blue twilight setting with the approved warm oval bulkhead lighting. Sign artwork and technical dimensions remain separate verification/layout tasks. |
+| 2026-09-07 | LOCKED | Adopt `10-PARAMETRIC-MODELING-PLAN.md` as the canonical concept-to-construction geometry workflow. Because the donor trailer has not yet been purchased or measured, build a provisional parameter-driven master shell from the representative Circle J platform, explicitly classifying dimensions as VERIFIED REFERENCE, ESTIMATED, DESIGN ASSUMPTION or UNKNOWN. Future geometry-controlled plans, elevations, sections and presentation views are to be derived from one approved master model rather than independently interpreted illustrations. Existing approved SVG drawings remain concept references, not fabrication drawings. After purchase, replace provisional shell parameters with a VIN-specific physical survey before construction-document release. |
 
 ## Open and verification-required decisions
 
@@ -80,6 +81,8 @@
 | 2026-09-06 | OPEN | Resolve accessibility dimensions against actual deployed grade and agency requirements. |
 | 2026-09-06 | OPEN | Establish the exact allowable depth and structural attachment of Options B and C’s shallow back-bars while preserving the locked aisle and egress. |
 | 2026-09-06 | OPEN | Verify undercounter fit for the water-service bay, separated chemical locker and staff waste/recycling/broken-glass containers in each option; Option C is the most constrained. |
+| 2026-09-07 | OPEN | Create and approve the Master Dimensional Parameter Register for the provisional shell and conversion geometry before constructing the parametric master. |
+| 2026-09-07 | OPEN | Select the modeling stack against the requirements in `10-PARAMETRIC-MODELING-PLAN.md`; evaluate code-driven parametric approaches before purchasing a commercial CAD subscription. |
 
 ## Superseded rules
 
