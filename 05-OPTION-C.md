@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option C
 
-**Revision:** 1.4 — September 7, 2026  
+**Revision:** 1.5 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES — CONDITIONAL  
 **Name:** Two-Bartender Window Bar — Twin-Wing Backbar
 
@@ -110,6 +110,8 @@ These layouts control all Option C technical graphics and renderings. Every deri
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+**View convention:** C1 is viewed from inside the trailer looking toward the curb wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
 
 **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED**
 
