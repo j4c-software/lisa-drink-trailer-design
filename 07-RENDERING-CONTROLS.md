@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Rendering Controls
 
-**Revision:** 1.8 — September 7, 2026  
+**Revision:** 1.9 — September 7, 2026  
 **Status:** LOCKED CONTROLS; CONTROLLED RENDERING AUTHORIZED WITH ASSET-SPECIFIC HOLDS
 
 ## Release gate
@@ -48,7 +48,7 @@ Create an original conceptual visualization of a restored vintage Circle J two-h
 - One 14–16-inch-deep customer ledge with medium-tone sealed-wood appearance over a commercial exterior substrate
 - Restrained removable branding and one removable menu near the order end
 - Realistic landscaped wedding/private-event courtyard at early evening
-- Clear customer apron, order-left/pickup-right flow, two portable standing cocktail tables and seating for approximately 8–12 nearby guests
+- Clear customer apron, customer-facing order-right/pickup-left flow, two portable standing cocktail tables and seating for approximately 8–12 nearby guests
 - At least one wheelchair-usable table position and an unobstructed accessible route
 - Two freestanding market umbrellas serving the seating area; nothing attached to the trailer
 - No permanent stools, barrels, antlers, roof signs, exposed customer-side utilities, customer trash below pickup or concession-trailer graphics
@@ -110,7 +110,7 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 |---|---|---|
 | `COVER-EX-01` | Approved `EX-01` angle; 3:2 landscape; trailer dominant with clean negative space for title | Operating exterior with warm glow but interior equipment visually non-specific so no option is favored; no identifiable option backwall |
 | `A/B/C-EX-01` | Front-curb three-quarter, approximately 35 mm equivalent, 5 ft 2 in eye height; full body, tongue, wheels and hatch in frame | Operating state; option-specific work relationship may be visible through hatch; identical courtyard, weather, exposure, seating and customer density |
-| `A/B/C-EX-02` | Nearly square to service opening, approximately 35–40 mm equivalent; camera far enough back to show ledge, apron, queue edge and seating | Operating state; order-left, interaction center and pickup-right readable; A/B use one bartender, C uses two; accessible transaction area unobstructed |
+| `A/B/C-EX-02` | Nearly square to service opening, approximately 35–40 mm equivalent; camera far enough back to show ledge, apron, queue edge and seating | Operating state; customer-facing order-right, interaction center and pickup-left readable; A/B use one bartender, C uses two; accessible transaction area unobstructed |
 | `B/C-EX-03` | Rear-street three-quarter at same eye height and tonal treatment as `EX-01` | Operating utility side; working proxy staff door labeled later **VERIFY**, divided utility panel, tongue box and stabilizers visible; no hoses across paths |
 | `A/B/C-IN-01` | Centered at rear portal, approximately 22–24 mm equivalent, 5 ft eye height, corrected verticals; 3:2 landscape | Operating state; both long walls and front partition legible; preserve 32-inch aisle. Option A shows the continuous infilled street wall and roof escape hatch. |
 | `A/B/C-IN-02` | Centered immediately behind front partition, same lens, eye height, exposure and crop as `IN-01` | Operating state; rear egress visible; defining opposite wall legible. Option A shows no street-side door. |
@@ -124,8 +124,8 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 | Common cover exterior | 1 | **AUTHORIZED** |
 | Option A exterior/customer/detail images | 4 (`EX-01`, `EX-02`, `DT-01`, `DT-02`) | **AUTHORIZED; street-side door is absent or finish-matched infill** |
 | Option A interior perspectives | 2 (`IN-01`, `IN-02`) | **AUTHORIZED; show continuous infill, rear staff entrance and reserved roof escape hatch** |
-| Option B exterior/customer/interior/detail images | 7 | **AUTHORIZED except `EX-02` flow-direction hold; proxy staff-door position remains VERIFY** |
-| Option C exterior/customer/interior/detail images | 7 | **AUTHORIZED except `EX-02` flow-direction hold; required conditional labeling; proxy staff-door position remains VERIFY** |
+| Option B exterior/customer/interior/detail images | 7 | **AUTHORIZED; proxy staff-door position remains VERIFY** |
+| Option C exterior/customer/interior/detail images | 7 | **AUTHORIZED with required conditional labeling; proxy staff-door position remains VERIFY** |
 | Plans and four elevations per option | 15 precision graphics: three plans plus twelve elevations | **READY FOR TECHNICAL GRAPHIC PRODUCTION; not image generation** |
 
 Page 22 may reuse the approved same-angle option images and plans specifically for direct comparison. Page 23 uses the selected option's approved view only after the recommendation is set.
@@ -185,7 +185,7 @@ Complete and retain this checklist for every generated candidate. A single faile
 
 ### Operations, travel and customer experience
 
-- [ ] Order-left and pickup-right read correctly from the customer side
+- [ ] Order-right and pickup-left read correctly from the customer side
 - [ ] Accessible transaction area and route are unobstructed in exterior views
 - [ ] Customer apron, queue and seating do not conflict
 - [ ] Loose event furniture reads as portable and unattached
@@ -252,7 +252,7 @@ If an approved design cannot be rendered without violating a control, stop and r
 
 - Label exterior presentation images only **Conceptual Exterior**.
 - Use the approved clean vintage hospitality exterior and common exterior design for all three options.
-- Depict a realistic event setting with nearby coordinated seating, a visible accessible route and an understandable order-left/pickup-right flow.
+- Depict a realistic event setting with nearby coordinated seating, a visible accessible route and an understandable customer-facing order-right/pickup-left flow.
 - Show deployable furniture, menu, waste station, lighting and shade as loose event equipment, not permanently attached construction.
 - Keep utility connections and staff support away from the customer queue and accessible route.
 - Do not depict the comparable Circle J reference as the actual acquired trailer.
