@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Presentation Specification
 
-**Revision:** 1.9 — September 7, 2026  
+**Revision:** 2.0 — September 7, 2026  
 **Status:** LOCKED PRESENTATION PLAN; CONTROLLED VISUAL PRODUCTION AUTHORIZED  
 **Format:** US Letter, 8.5 × 11 inches
 
@@ -31,7 +31,7 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 | ID | View | Locked composition |
 |---|---|---|
 | `EX-01` | Service-side exterior hero | Front-curb three-quarter, approximately 35 mm equivalent, eye height about 5 ft 2 in, early-evening event setting; whole trailer, tongue and service hatch legible |
-| `EX-02` | Customer-at-window | Near-square service-side view, approximately 35–40 mm equivalent; order-left, interaction center, pickup-right, accessible transaction area and nearby seating visible |
+| `EX-02` | Customer-at-window | Near-square service-side view, approximately 35–40 mm equivalent; customer-facing order-right, interaction center, pickup-left, accessible transaction area and nearby seating visible |
 | `EX-03` | Street/utility-side exterior | Rear-street three-quarter; staff door, divided utility service, tongue box, stabilizers and non-customer circulation visible; all unverified door positions labeled **VERIFY** |
 | `IN-01` | Rear-to-front interior | Camera centered at rear portal, approximately 22–24 mm equivalent, verticals corrected; work line, window, opposite wall and front partition visible |
 | `IN-02` | Front-to-rear interior | Camera centered immediately behind the front partition, same lens/eye height as `IN-01`; service line and rear egress visible |
@@ -60,19 +60,19 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 | 3 | **Every option is built around the same five priorities** | One composed visual linking customer welcome, efficient service, sanitation, travel security and vintage character | Five short priority labels only. Include 60 × 30-in maximum opening, 14–16-in ledge, 32-in nominal aisle and commercial-equipment basis. |
 | 4 | **Option A keeps the service window visually open** | Option A `IN-01` hero with a small `PL-01` inset | Name: **Opposite-Wall Service Bar**. Three short differentiators: open window wall; opposite-wall production; six-inch outboard storage. |
 | 5 | **The exterior remains an inviting bar—not a concession window** | Option A `EX-01` plus small `DT-01` ledge/hatch detail | **Conceptual Exterior**. Call out warm layered light, restrained branding, removable menu and accessible transaction zone. |
-| 6 | **Guests see the bartender and the room beyond** | Option A `EX-02` in realistic early-evening setting with queue, cocktail tables and seating | Order-left/pickup-right labels; clear service apron; seating 6–10 ft away. Keep customer count visually uncrowded. |
+| 6 | **Guests see the bartender and the room beyond** | Option A `EX-02` in realistic early-evening setting with queue, cocktail tables and seating | Customer-facing order-right/pickup-left labels; clear service apron; seating 6–10 ft away. Keep customer count visually uncrowded. |
 | 7 | **A separates customer presentation from production** | Large Option A `PL-01` with one workflow trace and compact underfloor utility inset | Equipment arithmetic, 32-in aisle, break area, tanks and travel zone. Show engineered street-door infill, rear staff entrance and reserved roof escape hatch. |
 | 8 | **The opposite wall carries the complete working bar** | Option A `IN-02` plus `EL-01`/`EL-02` strips | Identify hand sink, two-compartment sink, cocktail station, refrigerator, glass storage and bottle display. Two-compartment configuration remains conditional on written acceptance. |
 | 9 | **Option A offers the clearest customer view with a dedicated equipment wall** | Material palette plus `DT-02` travel-state detail and two-column advantages/limitations | Advantages: open view, hospitality presence, outboard light storage and uninterrupted equipment wall. Limitations: engineered door infill, roof escape approval and longest cross-aisle reach. No recommendation language. |
 | 10 | **Option B makes one bartender's movement short and intuitive** | Option B `IN-01` hero with small `PL-01` inset | Name: **Single-Bartender Linear Gallery**. Three differentiators: under-window service line; one-direction workflow; asymmetrical backbar. |
 | 11 | **A standard bar relationship puts service directly at the window** | Option B `EX-01` plus small `DT-01` detail | **Conceptual Exterior**. Show the same common exterior while allowing the under-window line to read through the opening. |
-| 12 | **One bartender owns the interaction from order through pickup** | Option B `EX-02` with one bartender and realistic nearby seating | Order-left, production-center and pickup-right; accessible transaction and menu visibility. Do not imply two-person capacity. |
+| 12 | **One bartender owns the interaction from order through pickup** | Option B `EX-02` with one bartender and realistic nearby seating | Customer-facing order-right, production-center and pickup-left; accessible transaction and menu visibility. Do not imply two-person capacity. |
 | 13 | **B minimizes steps and backtracking for solo service** | Large Option B `PL-01` with a single continuous workflow trace | Equipment arithmetic, 32-in aisle, utility zones and door interruption to Linear Gallery. Note 75–100 guests / approximately 200 beverages. |
 | 14 | **The Linear Gallery turns storage into a calm horizontal backdrop** | Option B `IN-02` plus enlarged `EL-02` Linear Gallery elevation | Call out continuous warm-light datum, working-bottle display, adjacent enclosed glass storage and lightweight rail. No floor cabinet or second counter. |
 | 15 | **Option B favors familiar workflow over peak throughput** | Material/detail composition plus `DT-02` travel state and advantages/limitations | Advantages: simplest workflow, familiar bar feel, lowest staffing demand. Limitations: one-bartender peak and backbar/door fit remains **VERIFY**. Avoid selection language. |
 | 16 | **Option C creates two equal production stations** | Option C `IN-01` hero with small `PL-01` inset | Name: **Two-Bartender Twin-Wing Backbar**. Three differentiators: dual stations; centered shared sink; symmetrical backbar. Display required conditional statement. |
 | 17 | **The same welcoming exterior supports a higher-energy service model** | Option C `EX-01` plus small `DT-01` detail | **Conceptual Exterior** and required Option C conditional statement. Keep exterior setting identical to A/B. |
-| 18 | **Two bartenders can engage guests without sharing one production point** | Option C `EX-02` with two bartenders and identical customer-setting geometry | Show Station A and Station B zones, order-left/pickup-right and exterior runner path without crowding. Required conditional statement. |
+| 18 | **Two bartenders can engage guests without sharing one production point** | Option C `EX-02` with two bartenders and identical customer-setting geometry | Show Station A and Station B zones, customer-facing order-right/pickup-left and exterior runner path without crowding. Required conditional statement. |
 | 19 | **A centered sink divides two compact, matched work zones** | Large Option C `PL-01` with two short workflow traces | Show 12 + 18 + 24 + 18 + 18 = 90 in; splash separation, utility zones and compact waste/plumbing fit marked **VERIFY**. Required conditional statement. |
 | 20 | **The Twin-Wing Backbar gives each bartender a defined support zone** | Option C `IN-02` plus enlarged `EL-02` Twin-Wing elevation | Identify glass wing A, central reserve display, glass wing B and separate tool rails. No second counter. Required conditional statement. |
 | 21 | **Option C delivers the greatest throughput—with the most approvals** | Material/detail composition plus `DT-02` and advantages/limitations | Advantages: balanced two-person service and 100–125-guest operating range. Limitations: compact sink approval, drainboard/drying solution and tight systems fit. Required conditional statement. |
@@ -105,7 +105,7 @@ Before releasing rendering, confirm:
 6. Source/reference rights are known for every externally obtained photograph.
 7. The rendering hold is explicitly released by Mike. **COMPLETE — September 7, 2026; asset-specific blocks remain**
 
-`A/B/C-EX-02` remain blocked until the customer-side order/pickup direction is reconciled with the locked physical front/rear workflow. This does not block the cover, interior, detail or non-customer-facing exterior assets.
+`A/B/C-EX-02` are released for controlled candidate production with customer-facing **ORDER right / PICKUP left**, preserving the front/tongue order end, rear pickup end and approved elevations.
 
 ## Locked 24-page structure
 
