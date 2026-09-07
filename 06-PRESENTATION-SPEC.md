@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Presentation Specification
 
-**Revision:** 1.8 — September 7, 2026  
+**Revision:** 1.9 — September 7, 2026  
 **Status:** LOCKED PRESENTATION PLAN; CONTROLLED VISUAL PRODUCTION AUTHORIZED  
 **Format:** US Letter, 8.5 × 11 inches
 
@@ -48,6 +48,7 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 - Generate or draw each option's `EX-01`, `EX-02`, `IN-01`, `IN-02` and `PL-01` from identical camera/view definitions.
 - Option-specific differences come only from the Master and Option files. Exterior paint, setting, weather, time, seating and customer count remain the same.
 - Interior `IN-01` and `IN-02` views use the same camera height, lens, crop and exposure across A, B and C.
+- In every `IN-01` rear-to-front view, curb/service wall is image-right and street/opposite wall is image-left. In every `IN-02` front-to-rear view, curb/service wall is image-left and street/opposite wall is image-right. Do not mirror these views.
 - Orthographic plans and elevations use the same scale and datum. Show Option A's engineered street-door infill and reserved roof escape hatch; do not disguise Option C's conditional sink basis.
 
 ## Locked 24-page content and visual-production map
@@ -103,6 +104,8 @@ Before releasing rendering, confirm:
 5. All plans/elevations reconcile with current equipment arithmetic, doors, utilities and aisle controls.
 6. Source/reference rights are known for every externally obtained photograph.
 7. The rendering hold is explicitly released by Mike. **COMPLETE — September 7, 2026; asset-specific blocks remain**
+
+`A/B/C-EX-02` remain blocked until the customer-side order/pickup direction is reconciled with the locked physical front/rear workflow. This does not block the cover, interior, detail or non-customer-facing exterior assets.
 
 ## Locked 24-page structure
 
