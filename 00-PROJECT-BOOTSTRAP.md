@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Project Bootstrap
 
-**Revision:** 1.5 — September 7, 2026  
+**Revision:** 1.6 — September 7, 2026  
 **Status:** REQUIRED ENTRY POINT FOR EVERY NEW CHAT
 
 ## Mandatory bootstrap rule
@@ -48,7 +48,7 @@ The public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sol
 | `00-PROJECT-BOOTSTRAP.md` | Deterministic startup and authority rules |
 | `01-MASTER-DESIGN-SPEC.md` | All shared geometry, equipment, utilities, workflow, materials and operating requirements |
 | `02-DECISIONS-LOG.md` | Dated approved, conditional, superseded and open decisions |
-| `03-OPTION-A.md` | Approved differences for rear-wall service Option A |
+| `03-OPTION-A.md` | Approved differences for opposite-wall service Option A |
 | `04-OPTION-B.md` | Approved differences for single-bartender Option B |
 | `05-OPTION-C.md` | Approved differences for conditional two-bartender Option C |
 | `06-PRESENTATION-SPEC.md` | Locked 24-page presentation structure and visual rules |
