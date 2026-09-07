@@ -31,7 +31,7 @@ The approved files in `drawings/concept/` are the sole authority. Option markdow
    - Check handedness and front/tongue direction.
    - Check equipment count, order and relative module widths.
    - Check window, door and clear-egress locations.
-   - Check plan envelope against 114 × 56 inches and 24/90 zoning.
+   - Check plan envelope against 114 × 56 inches, the controlling 90-inch work zone and any wish-list front remainder up to 24 inches.
    - Reject and rerun any mismatch before presentation use.
 
 ## Final outputs

@@ -7,10 +7,25 @@ This directory contains the three `PL-01` concept plans and twelve `EL-01` throu
 
 It also contains the provisional Phase 1 shell-definition drawings used for purchase-selection study before a donor trailer is acquired:
 
-- `provisional/PH1-SH-PL-01-shell-plan.svg` — unmodified reference-shell plan with photo-estimated running gear and opening envelopes;
-- `provisional/PH1-SH-EL-01-existing-shell-elevations.svg` — curb, street, front and rear exterior elevations of the unmodified reference shell.
+- `provisional/PH1-SH-PL-01-shell-plan.svg` — provisional concept-shell plan with photo-estimated running gear and explicitly unverified opening arrangement;
+- `provisional/PH1-SH-EL-01-existing-shell-elevations.svg` — curb, street, front and rear exterior concept-shell elevations;
+- `provisional/PH1-SH-SE-01-shell-cutaway.svg` — transverse and longitudinal cutaways comparing the approved exterior and finished-clear interior planning envelopes while keeping assembly build-ups unresolved.
+
+The Phase 1 opening convention is curb/passenger W1 + D1 + W3 and street/driver W1 + W2 + W4. D1 is drawn at 30 inches nominal outer width by holding its tongue-side jamb and extending toward the wheels; its actual side, position and clear opening remain unknown. W1 is drawn at one-half W2's width on both sides, with a visible gap between W1 and D1. The passenger-side elevation is intentionally shown with the tongue facing right; the plan retains its standard tongue-left datum. These are visualization choices only and do not verify donor openings or revise the approved Option A/B/C rules.
+
+The shell plan distinguishes D1 from the window openings and indicates outward opening for D1 and both rear door leaves. Swing direction is conceptual until actual hinges, leaves and clearances are measured.
+
+The curb- and street-side elevations show the fender as an open, continuous tandem-wheel arch. Its front and rear legs terminate at the same height, and the inner opening preserves visible clearance above and beside both tires, matching the close reference view of photo 001. Exact radii and clearances remain photo-estimated.
+
+The removable spare wheel visible in the reference photographs is intentionally omitted from the provisional exterior elevations. Its observed location remains documented in the reference-photo survey.
 
 The Phase 1 shell sheets are supporting evidence only. They contain listed reference dimensions, photo estimates and unresolved geometry; they are not approved master-model outputs or fabrication drawings.
+
+Mike approved Phase 1 Gate 1 on September 7, 2026, for purchase-selection mockups only. The approval accepts the documented design assumptions and photo estimates while retaining all donor-specific chassis, wheel-well, structural, roof, assembly and actual-opening geometry as unknown. It does not authorize purchase without inspection, fit-based procurement, cutting, fabrication, permitting or construction documentation.
+
+The cutaway does not assign thicknesses to the floor and roof. It shows the approved-for-Gate-1-planning 76-inch clear height inside the approved 84-inch exterior height; allocation of the combined 8-inch difference remains unknown pending a donor survey and assembly definition. The 2-inch nominal sidewall allowance is an estimate derived from the approved planning widths of 60 inches exterior and 56 inches interior.
+
+The cutaway's 24-inch front segment is the remainder produced by the 114-inch test interior after protecting the 90-inch work zone. It is a wish-list employee-support target, not a required minimum; it may shrink or be omitted when candidate measurements, operations, clearances or egress require the space.
 
 The Option files remain the authoritative geometry until Mike approves these vector derivatives. Any conflict is corrected in the drawings; it does not change the Option files.
 

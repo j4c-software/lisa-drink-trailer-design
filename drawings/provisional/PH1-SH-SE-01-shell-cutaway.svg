@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Phase 1 Provisional Shell Cutaway</title>
+  <desc id="desc">Transverse and longitudinal cutaway diagrams comparing the approved 120 by 60 by 84 inch exterior body envelope with the approved-for-Gate-1-planning 114 by 56 by 76 inch finished interior envelope. Floor and roof build-ups, roof curvature and structural geometry remain unknown.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#68706d"/>
+    </marker>
+    <pattern id="unknown" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#9a4d43" stroke-width="2" opacity="0.26"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#fffdf8"/>
+  <rect x="36" y="36" width="1528" height="928" rx="8" fill="none" stroke="#2e3232" stroke-width="2"/>
+
+  <text x="78" y="92" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#315b50">PHASE 1 • PROVISIONAL SHELL CUTAWAY</text>
+  <text x="78" y="128" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2e3232">EXTERIOR + FINISHED-CLEAR INTERIOR ENVELOPES APPROVED • ASSEMBLY BUILD-UPS UNKNOWN</text>
+  <line x1="78" y1="150" x2="1522" y2="150" stroke="#b56f4c" stroke-width="5"/>
+
+  <!-- Transverse cutaway -->
+  <text x="330" y="205" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#315b50">SECTION A–A • TRANSVERSE CUTAWAY</text>
+  <text x="330" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">LOOKING TOWARD REAR • DIAGRAMMATIC ROOF PROFILE</text>
+
+  <!-- 60 W x 84 H exterior; 5 px/in -->
+  <path d="M180 700 V330 Q180 280 230 280 H430 Q480 280 480 330 V700 Z" fill="#f4efe5" stroke="#2e3232" stroke-width="6"/>
+  <rect x="190" y="300" width="280" height="380" fill="#fffdf8" stroke="#315b50" stroke-width="3" stroke-dasharray="12 7"/>
+  <rect x="190" y="300" width="280" height="380" fill="url(#unknown)" opacity="0.12"/>
+  <line x1="190" y1="680" x2="470" y2="680" stroke="#315b50" stroke-width="4"/>
+
+  <text x="330" y="430" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#315b50">APPROVED FINISHED</text>
+  <text x="330" y="458" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#315b50">CLEAR INTERIOR</text>
+  <text x="330" y="492" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#315b50">APPROVED FOR GATE 1 PLANNING</text>
+  <text x="330" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">ROOF / FLOOR BUILD-UPS</text>
+  <text x="330" y="547" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">NOT YET ALLOCATED</text>
+
+  <!-- Transverse dimensions -->
+  <line x1="180" y1="754" x2="480" y2="754" stroke="#2e3232" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="180" y1="700" x2="180" y2="770" stroke="#68706d" stroke-width="2"/>
+  <line x1="480" y1="700" x2="480" y2="770" stroke="#68706d" stroke-width="2"/>
+  <text x="330" y="744" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#2e3232">60&quot; EXTERIOR WIDTH • APPROVED</text>
+
+  <line x1="190" y1="650" x2="470" y2="650" stroke="#315b50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="330" y="640" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#315b50">56&quot; CLEAR WIDTH • APPROVED</text>
+
+  <line x1="120" y1="280" x2="120" y2="700" stroke="#2e3232" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="120" y1="280" x2="180" y2="280" stroke="#68706d" stroke-width="2"/>
+  <line x1="120" y1="700" x2="180" y2="700" stroke="#68706d" stroke-width="2"/>
+  <text x="98" y="490" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#2e3232" transform="rotate(-90 98 490)">84&quot; EXTERIOR HEIGHT • APPROVED</text>
+
+  <line x1="525" y1="300" x2="525" y2="680" stroke="#315b50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="470" y1="300" x2="540" y2="300" stroke="#68706d" stroke-width="2"/>
+  <line x1="470" y1="680" x2="540" y2="680" stroke="#68706d" stroke-width="2"/>
+  <text x="550" y="490" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#315b50" transform="rotate(90 550 490)">76&quot; CLEAR HEIGHT • APPROVED</text>
+
+  <line x1="180" y1="350" x2="190" y2="350" stroke="#b56f4c" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="210" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#b56f4c">2&quot; NOM. SIDEWALL</text>
+  <text x="210" y="362" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9a4d43">ESTIMATED • EACH SIDE</text>
+
+  <!-- Longitudinal cutaway -->
+  <text x="1035" y="205" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#315b50">SECTION B–B • LONGITUDINAL CUTAWAY</text>
+  <text x="1035" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">CURB SIDE REMOVED • FRONT / TONGUE AT LEFT</text>
+
+  <!-- 120 L x 84 H exterior; same 5 px/in -->
+  <path d="M690 700 V330 Q690 280 740 280 H1290 V700 Z" fill="#f4efe5" stroke="#2e3232" stroke-width="6"/>
+  <path d="M705 680 V350 Q705 300 755 300 H1275 V680 Z" fill="#fffdf8" stroke="#315b50" stroke-width="3" stroke-dasharray="12 7"/>
+  <path d="M705 680 V350 Q705 300 755 300 H1275 V680 Z" fill="url(#unknown)" opacity="0.10"/>
+  <line x1="705" y1="680" x2="1275" y2="680" stroke="#315b50" stroke-width="4"/>
+
+  <!-- 24 + 90 division within 114 clear length -->
+  <line x1="825" y1="300" x2="825" y2="680" stroke="#b56f4c" stroke-width="3" stroke-dasharray="10 7"/>
+  <text x="765" y="412" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#b56f4c">UP TO 24&quot;</text>
+  <text x="765" y="438" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#9a4d43">WISH-LIST NOOK</text>
+  <text x="765" y="460" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#68706d">MAY SHRINK / OMIT</text>
+  <text x="1050" y="420" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#315b50">90&quot; WORK ZONE</text>
+  <text x="1050" y="448" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#9a4d43">CONTROLLING LENGTH</text>
+
+  <!-- Rear opening shown in section -->
+  <line x1="1290" y1="340" x2="1290" y2="700" stroke="#fffdf8" stroke-width="12"/>
+  <line x1="1290" y1="340" x2="1290" y2="700" stroke="#b56f4c" stroke-width="7"/>
+  <text x="1268" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c" transform="rotate(-90 1268 520)">72&quot; REAR CLEAR HEIGHT • PROVISIONAL</text>
+
+  <!-- Longitudinal dimensions -->
+  <line x1="690" y1="754" x2="1290" y2="754" stroke="#2e3232" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="690" y1="700" x2="690" y2="770" stroke="#68706d" stroke-width="2"/>
+  <line x1="1290" y1="700" x2="1290" y2="770" stroke="#68706d" stroke-width="2"/>
+  <text x="990" y="744" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#2e3232">120&quot; EXTERIOR BODY LENGTH • APPROVED</text>
+
+  <line x1="705" y1="260" x2="1275" y2="260" stroke="#315b50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="705" y1="260" x2="705" y2="350" stroke="#68706d" stroke-width="2"/>
+  <line x1="1275" y1="260" x2="1275" y2="300" stroke="#68706d" stroke-width="2"/>
+  <text x="990" y="252" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#315b50">114&quot; FINISHED CLEAR LENGTH • APPROVED</text>
+
+  <line x1="705" y1="610" x2="825" y2="610" stroke="#b56f4c" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="825" y1="610" x2="1275" y2="610" stroke="#b56f4c" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="765" y="600" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#b56f4c">24&quot; MAX. TARGET</text>
+  <text x="1050" y="600" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#b56f4c">90&quot;</text>
+
+  <!-- Decision notes -->
+  <rect x="100" y="810" width="1400" height="72" rx="8" fill="url(#unknown)" stroke="#9a4d43" stroke-width="2" stroke-dasharray="10 7"/>
+  <text x="800" y="838" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#9a4d43">VERTICAL DIFFERENCE: 84&quot; EXTERIOR − 76&quot; CLEAR = 8&quot; COMBINED</text>
+  <text x="800" y="860" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">Floor and roof/ceiling shares are not assigned. Protect the 90&quot; work zone; the front remainder is wish-list space only.</text>
+  <text x="800" y="878" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#68706d">Roof radius, structure, wheel wells and actual assemblies remain UNKNOWN.</text>
+
+  <line x1="78" y1="902" x2="1522" y2="902" stroke="#2e3232" stroke-width="1"/>
+  <text x="78" y="934" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#9a4d43">GATE 1 APPROVED • PURCHASE-SELECTION MOCKUPS ONLY • NOT FOR FABRICATION</text>
+  <text x="1522" y="934" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#68706d">UNKNOWN GEOMETRY ACCEPTED • VERIFY DONOR</text>
+</svg>

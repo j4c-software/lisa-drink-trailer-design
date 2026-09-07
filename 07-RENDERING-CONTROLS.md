@@ -68,7 +68,7 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 - Warm 2700–3000 K customer/display light and sealed 3000–3500 K high-CRI work light
 - One controlled softly illuminated bottle-display feature
 - Enclosed or positively retained glass storage
-- Open 24-inch employee break/support nook with no partition, curtain or overhead track
+- Wish-list open employee break/support nook, up to 24 inches when verified space permits, with no partition, curtain or overhead track; do not depict 24 inches as a guaranteed minimum
 - Rear double doors preserved as clear egress: primary staff entry/exit for Option A and secondary egress for Options B/C
 - High dry electrical panel on the open front employee-support wall
 - No pendant lights, chandelier, rotating fan, hanging stemware, loose decorative bottles, residential cabinetry or hidden sanitation equipment

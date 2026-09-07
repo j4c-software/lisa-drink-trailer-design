@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
-  <title id="title">Phase 1 Provisional Trailer Shell Plan</title>
-  <desc id="desc">Plan of the provisional Circle J trailer shell showing the 120 by 60 inch exterior body with estimated rounded front corners, 114 by 56 inch interior clear envelope, nominal 48 inch tongue, provisional rear-door opening, and photo-estimated tandem-axle and fender geometry. The front curvature and running-gear proportions follow stock 54738 as visual references only; structural geometry remains unknown.</desc>
+  <title id="title">Phase 1 Provisional Concept Shell Plan</title>
+  <desc id="desc">Plan of the provisional Circle J concept shell showing the 120 by 60 inch exterior body, 114 by 56 inch interior clear envelope, nominal 48 inch tongue, provisional rear-door opening, and photo-estimated running gear. The concept opening arrangement is curb-side W1, 30-inch nominal D1 and W3, with street-side W1, W2 and W4. W1 is one-half W2 width. D1 extends toward the wheels from its held tongue-side jamb. Actual openings and structural geometry remain unknown.</desc>
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#68706d"/>
@@ -13,8 +13,8 @@
   <rect width="1600" height="1000" fill="#fffdf8"/>
   <rect x="36" y="36" width="1528" height="928" rx="8" fill="none" stroke="#2e3232" stroke-width="2"/>
 
-  <text x="78" y="92" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#315b50">PHASE 1 • PROVISIONAL TRAILER SHELL PLAN</text>
-  <text x="78" y="128" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2e3232">REPRESENTATIVE CIRCLE J TWO-HORSE STRAIGHT-LOAD ENVELOPE • PHOTO-ESTIMATED RUNNING GEAR</text>
+  <text x="78" y="92" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#315b50">PHASE 1 • PROVISIONAL CONCEPT SHELL PLAN</text>
+  <text x="78" y="128" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2e3232">CONCEPT OPENING ARRANGEMENT • PHOTO-ESTIMATED RUNNING GEAR • ACTUAL OPENINGS UNKNOWN</text>
   <line x1="78" y1="150" x2="1522" y2="150" stroke="#b56f4c" stroke-width="5"/>
 
   <!-- Direction labels -->
@@ -31,9 +31,9 @@
   <text x="335" y="458" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#68706d">A-FRAME SHAPE</text>
   <text x="335" y="480" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#9a4d43">ESTIMATED</text>
 
-  <!-- Photo-estimated fender envelopes, approximately 54–120 inches aft of the front body datum and 78 inches overall -->
-  <rect x="889" y="199" width="475" height="65" rx="30" fill="#ded8cd" stroke="#68706d" stroke-width="3"/>
-  <rect x="889" y="696" width="475" height="65" rx="30" fill="#ded8cd" stroke="#68706d" stroke-width="3"/>
+  <!-- Photo-estimated fender envelopes, approximately 47–120 inches aft of the front body datum and 78 inches overall -->
+  <rect x="838" y="199" width="526" height="65" rx="30" fill="#ded8cd" stroke="#68706d" stroke-width="3"/>
+  <rect x="838" y="696" width="526" height="65" rx="30" fill="#ded8cd" stroke="#68706d" stroke-width="3"/>
 
   <!-- Exterior and finished interior envelopes: scale 7.2 px/in -->
   <path d="M 1364 264 H 560 C 527 264 500 291 500 324 V 636 C 500 669 527 696 560 696 H 1364 Z" fill="#f4efe5" stroke="#2e3232" stroke-width="6"/>
@@ -41,11 +41,14 @@
   <text x="525" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#9a4d43">ROUNDED FRONT CORNERS • RADIUS UNKNOWN</text>
   <line x1="525" y1="254" x2="532" y2="283" stroke="#9a4d43" stroke-width="2"/>
 
-  <!-- Photo-estimated outer opening envelopes; these are not clear or structural rough openings -->
-  <path d="M 560 264 H 608 M 658 264 H 810" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
-  <text x="690" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">SMALL WINDOWS ≈X 0–15 / 22–43 • PHOTO EST.</text>
-  <path d="M 608 696 H 774" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
-  <text x="691" y="672" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">DOOR FRAME ≈X 15–38 • ≈22&quot; W × 72&quot; H • PHOTO EST.</text>
+  <!-- Concept-only outer opening arrangement; exact clear and structural openings remain unknown -->
+  <path d="M 520 264 H 596 M 1033 264 H 1350" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
+  <path d="M 608 264 H 824" fill="none" stroke="#315b50" stroke-width="12" stroke-linecap="butt"/>
+  <line x1="716" y1="250" x2="716" y2="184" stroke="#315b50" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="716" y="174" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#315b50">D1 OPENS OUTWARD</text>
+  <text x="782" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">CURB CONCEPT: W1 + 30&quot; NOM. D1 + W3 • CLEAR OPENING VERIFY</text>
+  <path d="M 520 696 H 596 M 658 696 H 810 M 1033 696 H 1350" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
+  <text x="807" y="672" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">DRIVER CONCEPT: W1 + W2 + W4 • OPENINGS VERIFY</text>
 
   <!-- Photo-estimated axle centers; lines stop at the body so unknown internal wheel-well geometry is not implied -->
   <line x1="990" y1="190" x2="990" y2="264" stroke="#b56f4c" stroke-width="3" stroke-dasharray="9 6"/>
@@ -56,7 +59,7 @@
   <text x="1105" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#b56f4c">≈32&quot; AXLE SPACING • PHOTO EST.</text>
   <text x="990" y="218" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#68706d">FRONT AXLE ≈68&quot;</text>
   <text x="1220" y="218" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#68706d">REAR AXLE ≈100&quot;</text>
-  <text x="1125" y="746" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#68706d">FENDER ENVELOPE ≈54–120&quot; • TIRE OD ≈29&quot;</text>
+  <text x="1101" y="746" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#68706d">FENDER ENVELOPE ≈47–120&quot; • TIRE OD ≈29&quot;</text>
 
   <!-- Rear door opening: provisional 48-inch clear width in plan -->
   <line x1="1364" y1="307" x2="1364" y2="653" stroke="#fffdf8" stroke-width="12"/>
@@ -66,6 +69,7 @@
   <circle cx="1364" cy="307" r="5" fill="#b56f4c"/>
   <circle cx="1364" cy="653" r="5" fill="#b56f4c"/>
   <path d="M 1372 408 H 1410 M 1372 552 H 1410" fill="none" stroke="#b56f4c" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="1400" y="240" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#315b50">OPENS OUTWARD</text>
   <text x="1320" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" font-weight="700" fill="#b56f4c">REAR CLEAR: 48&quot; W × 72&quot; H • PROVISIONAL</text>
   <text x="1320" y="626" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#9a4d43">VISIBLE PORTAL ≈50&quot; W × 78&quot; H • PHOTO EST.</text>
   <text x="1320" y="647" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#9a4d43">TWO ≈25&quot; LEAVES • OUTWARD SWING</text>
@@ -115,6 +119,6 @@
 
   <!-- Status and notes -->
   <line x1="78" y1="890" x2="1522" y2="890" stroke="#2e3232" stroke-width="1"/>
-  <text x="78" y="922" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#9a4d43">DRAFT • GATE 1 PENDING • PURCHASE-SELECTION ENVELOPE ONLY • NOT FOR FABRICATION</text>
+  <text x="78" y="922" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#9a4d43">GATE 1 APPROVED • PURCHASE-SELECTION MOCKUPS ONLY • NOT FOR FABRICATION</text>
   <text x="1522" y="922" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#68706d">DESIGN ASSUMPTIONS UNTIL DONOR SURVEY</text>
 </svg>

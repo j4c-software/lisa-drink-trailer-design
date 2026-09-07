@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Decisions Log
 
-**Revision:** 2.6 — September 7, 2026
+**Revision:** 2.8 — September 7, 2026
 **Status:** CANONICAL DECISION RECORD  
 **Rule:** A decision becomes authoritative only when recorded here and incorporated into the applicable canonical specification.
 
@@ -24,7 +24,7 @@
 | 2026-09-06 | LOCKED | Provide a 14–16-inch-deep customer ledge in operating mode; fold or remove and positively latch it for travel. |
 | 2026-09-06 | LOCKED | Preserve one 24-inch production line and a 32-inch nominal clear aisle; prohibit two full-depth opposing counters. |
 | 2026-09-06 | SUPERSEDED | Convert the front changing/tack area into a separated micro employee break/support area. |
-| 2026-09-07 | LOCKED | Remove the front partition from Options A, B and C; retain the 24-inch employee break/support nook as an open area visible from the work aisle. |
+| 2026-09-07 | SUPERSEDED | Remove the front partition from Options A, B and C; retain the 24-inch employee break/support nook as an open area visible from the work aisle. Superseded only as to the fixed 24-inch depth by Mike's later wish-list direction; if any nook is provided, it remains open with no partition. |
 | 2026-09-06 | LOCKED | Use only real, listed, off-the-shelf operational equipment; trailer-specific cabinetry and supports may be fabricated. |
 | 2026-09-06 | LOCKED | Retain a separate 12-inch hand sink in every option unless written health-authority approval changes the requirement. |
 | 2026-09-06 | CONDITIONAL | Options A and B use the 36-inch two-compartment sink as the locked concept basis. Procurement/fabrication requires written acceptance of the two-compartment procedure; otherwise redesign the 90-inch line for the required configuration. |
@@ -65,6 +65,12 @@
 | 2026-09-07 | LOCKED | Select exterior-lighting study Option 2 as the concept and presentation direction: two matching compact oval caged bulkhead lights in matte charcoal, approximately 5 inches wide × 8 inches tall, with vertically ribbed frosted glass and soft glare-controlled 2700–3000 K illumination. The study controls visual direction only; exact listed exterior-rated product, photometrics, wiring, mounting and structural clearances remain **VERIFY**, with no procurement or fabrication release. |
 | 2026-09-07 | LOCKED | Mike approved `COVER-EX-01-twilight-rear-seating-approved.png` for presentation use. Preserve the accepted trailer design, place loose seating behind the trailer to keep the service-side queue apron clear, and use the later deep-blue twilight setting with the approved warm oval bulkhead lighting. Sign artwork and technical dimensions remain separate verification/layout tasks. |
 | 2026-09-07 | LOCKED | Adopt `10-PARAMETRIC-MODELING-PLAN.md` as the canonical concept-to-construction geometry workflow. Because the donor trailer has not yet been purchased or measured, build a provisional parameter-driven master shell from the representative Circle J platform, explicitly classifying dimensions as VERIFIED REFERENCE, ESTIMATED, DESIGN ASSUMPTION or UNKNOWN. Future geometry-controlled plans, elevations, sections and presentation views are to be derived from one approved master model rather than independently interpreted illustrations. Existing approved SVG drawings remain concept references, not fabrication drawings. After purchase, replace provisional shell parameters with a VIN-specific physical survey before construction-document release. |
+| 2026-09-07 | WORKING | For the Phase 1 provisional concept-shell drawings only, show D1 on the curb/passenger side at 30 inches nominal outer width, holding its tongue-side jamb and extending the added width toward the wheels. Place W2 on the street/driver side, show W1 on both sides at one-half W2 width and flip the passenger-side elevation so its tongue faces right for the intended camera-like view. D1's actual side, position, construction and clear opening remain unknown. This visualization arrangement does not revise the locked Option A/B/C door, service-window or egress rules. |
+| 2026-09-07 | LOCKED | For Phase 1 Gate 1 review, Mike approved the provisional 120 × 60 × 84-inch exterior body envelope. This approves item 1 only as a purchase-selection modeling assumption; the finished interior envelope and Gate 1 as a whole remain pending. |
+| 2026-09-07 | LOCKED | Treat the former 24-inch front employee-support nook as a wish-list target, not a required allocation. The 90-inch work zone controls; any verified interior length remaining ahead of it may support an open nook up to 24 inches, but the nook may shrink or be omitted rather than displacing required operations, clearances or egress. |
+| 2026-09-07 | LOCKED | For Phase 1 Gate 1 review, Mike approved the provisional 114 × 56 × 76-inch finished-clear interior envelope using the transverse and longitudinal cutaway. The 80-inch clear-height case remains a secondary range test; floor and roof/ceiling build-up shares remain unassigned pending donor survey. |
+| 2026-09-07 | LOCKED | For Phase 1 Gate 1 review, Mike approved the provisional 48 × 72-inch rear-door opening, the concept side-door/window arrangement and outward swing indications, and the photo-estimated running-gear/fender silhouette. These remain purchase-selection assumptions rather than verified donor geometry or fabrication authorization. |
+| 2026-09-07 | LOCKED | Mike approved item 7 and completed Phase 1 Gate 1. The provisional envelope is approved for purchase-selection mockups only, with donor-specific chassis, internal wheel-well, structural-member, roof-profile, floor/ceiling assembly and actual-opening geometry explicitly retained as `UNKNOWN`. Gate 1 does not authorize donor purchase without inspection, fit-based procurement, structural cutting, fabrication, permitting or construction documentation. |
 
 ## Open and verification-required decisions
 

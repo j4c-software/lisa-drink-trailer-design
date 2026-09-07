@@ -75,7 +75,7 @@ Use sources in this order:
 | Interior clear width | **4 ft 8 in (56 in)** | Governing layout width |
 | Interior clear height | **6 ft 4 in–6 ft 8 in** | Maintain at least 74 in clear over aisle |
 | Rear-door opening | **48–54 in W × 72–76 in H** | Fit design to 48 × 72 in until measured |
-| Front tack-area depth | **24 in** | Open employee support nook; no partition |
+| Front employee-support area | **Up to 24 in desired** | Wish-list remainder after the required work zone; no minimum depth and no partition |
 | Floor/deck height above grade | **18–24 in** | Use 24 in for step/access studies |
 | Main work counter | **24 in D × 36 in H** | Standard catalog equipment; either opposite the window (Option A opposite-wall service) or directly beneath it (Options B/C standard-bar service) |
 | Clear employee aisle | **30–34 in** | Never less than 30 in |
@@ -438,9 +438,9 @@ The former horse compartment is the complete production, sanitation, storage and
 - GFCI-protected receptacles, correctly sized distribution and shore-power connection; add battery/inverter or generator only if the approved operating model requires it
 - Insulation, mechanical ventilation and cooling adequate for staff, equipment heat and a closed metal shell
 
-### 6B. Front changing/tack area — micro employee break/support area
+### 6B. Front changing/tack area — wish-list employee break/support area
 
-The existing front changing/tack area is reserved as an open micro employee break/support nook visible from the work aisle. It is not overflow beverage preparation or general equipment storage. Every layout must include:
+When verified trailer length remains after the required work zone is accommodated, use up to 24 inches of the existing front changing/tack area as an open micro employee break/support nook visible from the work aisle. The 24-inch depth is a wish-list target, not a minimum requirement, and may shrink or disappear rather than displacing required operations, clearances or egress. If provided, it is not overflow beverage preparation or general equipment storage and should include, in priority order as space permits:
 
 - No partition, curtain or overhead track between the nook and beverage operations
 - Compact built-in seat or fold-down jump seat

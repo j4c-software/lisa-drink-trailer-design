@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Locked Reference Trailer Photo and Plan Survey
 
-**Revision:** 0.2 — September 7, 2026
+**Revision:** 0.6 — September 7, 2026
 **Status:** SUPPORTING EVIDENCE — NOT DESIGN AUTHORITY / NOT A FIELD SURVEY
 **Reference:** 1989 Circle J two-horse straight-load bumper-pull, Horse Trailer Trader stock 54738
 **Purpose:** Record observable shell, running-gear, opening and structural cues for the provisional Phase 1 model without misrepresenting raster photographs as measured donor geometry
@@ -18,17 +18,19 @@ This survey separates:
 
 Perspective, lens distortion, low resolution, occlusion and unknown measurement conventions materially limit the estimates. No value in this survey is field-verified. Photo-estimated values may guide a provisional visualization layer, but they may not support purchase acceptance, equipment fit, structural design, cutting, fabrication or permitting.
 
-Third-party photographs and the secondary Pinterest plan were inspected from their original URLs. They are not copied into the repository or approved for presentation reuse.
+The five Horse Trailer Trader photographs are preserved as reference copies in `references/photos/horse-trailer-trader-54738/`, with their original URLs and provenance retained below. They remain supporting evidence and are not approved as presentation artwork. The secondary Pinterest plan was inspected from its original URL and is not copied into the repository.
+
+The photographed reference shows a street/driver-side door. The Phase 1 provisional concept drawings intentionally use a different, explicitly unverified opening arrangement: D1 on the curb/passenger side at 30 inches nominal outer width, W2 on the street/driver side and W1 on both sides. The 30-inch D1 is extended toward the wheels from a held tongue-side jamb. That working drawing convention does not reinterpret the photographs or establish the future donor trailer's door side, position, construction or clear opening.
 
 ## 2. Photo index and walk-around sequence
 
 | Photo | Listing view | Principal evidence |
 |---|---|---|
-| [001](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_001.jpg) | Near-orthographic curb/passenger-side profile; tongue left, rear right | Body-length scaling, axle centers, axle spacing, tire diameter, longitudinal fender envelope, curb-side windows, roof/body seam and lower frame relationship |
-| [002](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_002.jpg) | Close oblique street/driver-side view looking toward the rear | Existing forward side/escape door, large upper opening, door swing, wall rails, rear portal and fender relationship |
-| [003](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_003.jpg) | Front three-quarter view | Broad front face, rounded front corners, curved roof cap, front windows, A-frame relationship and side-to-front transitions |
-| [004](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_004.jpg) | Rear view with double doors closed | Approximate body-to-fender width ratio, rear portal, split rear doors, roof/rear corner radii, hinges, lights, license plate and spare-tire projection |
-| [005](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_005.jpg) | Rear view with both doors open | Interior width character, center stall divider, roof bows, interior wall framing cues, floor/mat condition and rear-door swing envelope |
+| [001](references/photos/horse-trailer-trader-54738/1989_Circle_J_001.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_001.jpg)) | Near-orthographic curb/passenger-side profile; tongue left, rear right | Body-length scaling, axle centers, axle spacing, tire diameter, longitudinal fender envelope, curb-side windows, roof/body seam and lower frame relationship |
+| [002](references/photos/horse-trailer-trader-54738/1989_Circle_J_002.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_002.jpg)) | Close oblique street/driver-side view looking toward the rear | Existing forward side/escape door, large upper opening, door swing, wall rails, rear portal and fender relationship |
+| [003](references/photos/horse-trailer-trader-54738/1989_Circle_J_003.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_003.jpg)) | Front three-quarter view | Broad front face, rounded front corners, curved roof cap, front windows, A-frame relationship and side-to-front transitions |
+| [004](references/photos/horse-trailer-trader-54738/1989_Circle_J_004.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_004.jpg)) | Rear view with double doors closed | Approximate body-to-fender width ratio, rear portal, split rear doors, roof/rear corner radii, hinges, lights, license plate and spare-tire projection |
+| [005](references/photos/horse-trailer-trader-54738/1989_Circle_J_005.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_005.jpg)) | Rear view with both doors open | Interior width character, center stall divider, roof bows, interior wall framing cues, floor/mat condition and rear-door swing envelope |
 
 ## 3. Listed reference facts
 
@@ -73,8 +75,12 @@ The profile is the least oblique of the five photos. Scaling was performed again
 | Rear axle center aft of front body datum | 100 inches | ±3 inches | Representative visualization only |
 | Axle spacing | 32 inches | ±2 inches | Difference is more stable than either absolute center |
 | Tire outside diameter | 29 inches | Approximately 28–31 inches | Tire specification remains UNKNOWN |
-| Fender leading edge aft of front body datum | 54 inches | ±5 inches | Edge is curved and partly obscured |
+| Fender leading edge aft of front body datum | Approximately 47 inches | ±5 inches | Corrected from 54 inches after reviewing the enhanced close view; the fender visibly begins ahead of the front tire rather than tangent to it |
 | Fender trailing edge aft of front body datum | Approximately 120 inches | ±3 inches | Visually reaches the rear body region |
+| Tire-to-fender clearance, ahead of front tire | Approximately 6.5 inches | ±3 inches | Derived from the 47-inch fender lead, 68-inch axle center and 29-inch tire proxy; visualization only |
+| Tire-to-fender clearance, behind rear tire | Approximately 5.5 inches | ±3 inches | Derived from the 120-inch fender end, 100-inch axle center and 29-inch tire proxy; visualization only |
+| Visible tire-to-inner-fender crown clearance | Approximately 1 inch | ±1 inch | The tire is closely tucked beneath the inner fender arch; retain a visible gap without implying suspension clearance |
+| Shell-top-to-fender / fender-to-ground split | Approximately 62% / 38% | ±4 percentage points | Profile-image proportion using the roof crown, outer fender crown and tire contact line; the relationship is not 50/50 |
 | Visible tongue projection, front body to coupler region | Approximately 34–40 inches | ±6 inches | Does not override the 48-inch conservative design assumption |
 
 The same 120-inch profile scale supports provisional outer-opening envelopes. These are wall-face projections, not clear openings or structural rough openings.
@@ -108,14 +114,14 @@ The same 120-inch profile scale supports provisional outer-opening envelopes. Th
 
 - Options B and C must treat the retained street-side door as a real interruption, not a small symbolic notch in a continuous backbar.
 - The door swing, latch, threshold, step, grab handle and interior release need their own operating and egress volumes.
-- The photograph cannot establish whether the door falls wholly inside the 24-inch front support zone, crosses the 24/90-inch boundary or occupies the main work zone. That position remains a candidate-measurement priority.
+- The photograph cannot establish whether the door falls wholly inside the desired front support remainder, crosses the target boundary near X = 24 inches in the 114-inch test shell, or occupies the controlling main work zone. That position remains a candidate-measurement priority.
 - Option A's permanent infill assumption requires a measured door/frame map and engineered replacement load path; the photo does not support a flush cosmetic infill alone.
 
 ### Photo-scaled door envelope
 
 Mapping the visible street-side wall to the listed 120-inch body suggests an outer door-frame envelope from approximately X 15 to X 38 inches aft of the front body datum. The corresponding visible envelope is approximately 22 ±4 inches wide and 72 ±4 inches high. The small upper door-window aperture appears approximately 5–7 inches wide × 9–11 inches high.
 
-These are deliberately low-confidence outer-envelope estimates from a highly oblique image. They do not establish clear opening, rough opening, threshold height, frame section, door thickness or swing clearance. The estimate suggests that the door likely crosses the canonical X = 24-inch front-nook/work-zone boundary, making it a direct constraint for Options B and C.
+These are deliberately low-confidence outer-envelope estimates from a highly oblique image. They do not establish clear opening, rough opening, threshold height, frame section, door thickness or swing clearance. In the 114-inch test shell, the estimate suggests that the door likely crosses the target X = 24-inch front-remainder/work-zone boundary. That boundary is not required and must move with verified interior length, but the door remains a direct constraint for Options B and C.
 
 ## 6. Photo 003 — front three-quarter view
 
@@ -213,7 +219,7 @@ The user-supplied [Pinterest pin 290763719708099062](https://ar.pinterest.com/pi
 
 ### Running-gear comparison
 
-The Pinterest drawing cannot check wheel placement. It shows a side-mounted spare tire but omits the road wheels, fenders, axle centerlines, track width and wheel wells. The current approximately 68-inch and 100-inch axle centers, approximately 32-inch spacing and approximately 54–120-inch fender envelope remain derived only from Circle J listing photos 001 and 004.
+The Pinterest drawing cannot check wheel placement. It shows a side-mounted spare tire but omits the road wheels, fenders, axle centerlines, track width and wheel wells. The current approximately 68-inch and 100-inch axle centers, approximately 32-inch spacing and approximately 47–120-inch fender envelope remain derived only from Circle J listing photos 001 and 004 and the enhanced close view of photo 001.
 
 ## 10. Consolidated comparison with the Phase 1 register
 
@@ -229,7 +235,7 @@ The Pinterest drawing cannot check wheel placement. It shows a side-mounted spar
 | Axle spacing | Approximately 32 | Approximately 32 PHOTO-ESTIMATED | Use only in the reference-geometry layer |
 | Tire outside diameter | Approximately 29 | Approximately 28–31 PHOTO-ESTIMATED | Use 29 nominal for visualization; tire specification remains UNKNOWN |
 | Overall width over fenders | 84 maximum clearance envelope | Approximately 78 PHOTO-ESTIMATED | Show both: 78 reference estimate and 84 design-clearance maximum |
-| Fender longitudinal envelope | Approximately 54–120 | Approximately 54–120 PHOTO-ESTIMATED | Use only in the reference-geometry layer |
+| Fender longitudinal envelope | Approximately 47–120 | Approximately 47–120 PHOTO-ESTIMATED | Use only in the reference-geometry layer; corrected to retain visible tire-to-fender clearance |
 | Interior wheel-well envelope | TBD | Not visible well enough | Remain UNKNOWN |
 | Street-side door position/size | TBD | Outer frame approximately X 15–38 and 22 ±4 W × 72 ±4 H PHOTO-ESTIMATED | Show only in reference-estimate layer; clear opening remains UNKNOWN and blocks B/C backbar release |
 | Rear opening | 48 × 72 conservative | Visible portal approximately 50 W × 78 H; two approximately 25-inch leaves PHOTO-ESTIMATED | Retain conservative clear-opening assumption; model leaves and outward swing separately |

@@ -1,20 +1,20 @@
 # Lisa Drink Trailer — Master Dimensional Parameter Register
 
-**Revision:** 0.2 — September 7, 2026
-**Status:** DRAFT — AWAITING GATE 1 AND GATE 2 APPROVAL
+**Revision:** 0.6 — September 7, 2026
+**Status:** GATE 1 APPROVED — AWAITING GATE 2 APPROVAL
 **Purpose:** Provisional dimensional source for purchase-selection modeling and conversion coordination before the donor trailer is acquired and measured
 
 ## 1. Authority and permitted use
 
 This register implements the immediate next action in `10-PARAMETRIC-MODELING-PLAN.md`. It translates the current canonical written design into explicit parameters without changing any approved requirement.
 
-This draft is not yet canonical and does not override the Master Design Spec, Option A/B/C files or Decisions Log. If this register conflicts with those files, the canonical file wins and the conflict must be resolved before approval.
+This register is the approved Gate 1 provisional-envelope basis but does not override the Master Design Spec, Option A/B/C files or Decisions Log. If this register conflicts with those files, the canonical file wins and the conflict must be resolved before Gate 2 approval.
 
-Until Gate 1 and Gate 2 approval, this register may be used only to:
+Until Gate 2 approval, this register may be used only to:
 
 - audit dimensional completeness and consistency;
 - evaluate modeling systems;
-- construct non-released test geometry; and
+- construct purchase-selection mockups and non-released test geometry; and
 - identify measurements required for candidate-trailer screening.
 
 It may not be used to authorize purchase, structural cutting, equipment procurement, cabinetry release, fabrication, permitting or construction documentation.
@@ -82,7 +82,7 @@ These values describe only the documented reference trailer. They are retained s
 | REF-008 | Axle spacing | Approximately 32 | ESTIMATED | Difference of REF-006 and REF-007 | Photo-derived visualization input; allow at least ±2 inches pending direct measurement |
 | REF-009 | Tire outside diameter | Approximately 29 | ESTIMATED | REF-54738 photos 001 and 004 | Visual range approximately 28–31 inches; tire specification remains unknown |
 | REF-010 | Overall width over fenders | Approximately 78 | ESTIMATED | REF-54738 rear photo 004 scaled against 60-inch body width | Reference estimate only; SH-005 retains the 84-inch maximum clearance envelope |
-| REF-011 | Fender longitudinal envelope aft of front body datum | Approximately 54–120 | ESTIMATED | REF-54738 photo 001 | Photo-derived outer envelope; internal wheel-well geometry remains unknown |
+| REF-011 | Fender longitudinal envelope aft of front body datum | Approximately 47–120 | ESTIMATED | REF-54738 photo 001 and enhanced close view | Photo-derived outer envelope corrected to preserve the visible clearance ahead of the front tire; internal wheel-well geometry remains unknown |
 | REF-012 | Visible tongue projection from front body datum to coupler region | Approximately 34–40 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Perspective-limited; SH-009 retains 48 inches as the conservative clearance-planning assumption |
 | REF-013 | Curb-side front-corner small-window longitudinal envelope | Approximately X 0–15 | ESTIMATED | REF-54738 photos 001 and 003 scaled against REF-001 | Visible outer opening envelope only; wraps the curved front corner; approximately 15 W × 9–10 H |
 | REF-014 | Curb-side forward small-window longitudinal envelope | Approximately X 22–43 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Visible outer opening envelope only; approximately 21 W × 9–10 H |
@@ -92,6 +92,8 @@ These values describe only the documented reference trailer. They are retained s
 | REF-018 | Twin front-face windows | Approximately 20 W × 10 H each | ESTIMATED | REF-54738 photo 003 scaled against REF-002 | Perspective-limited outer opening envelopes; lateral offsets and clear sizes remain unknown |
 | REF-019 | Rear portal visible opening envelope | Approximately 50 W × 78 H | ESTIMATED | REF-54738 photos 004 and 005 scaled against REF-002/REF-003 | Approximately ±3 inches; visible envelope is not a verified clear opening or structural rough opening |
 | REF-020 | Rear double-door leaf face envelope | Approximately 25 W × 78 H each | ESTIMATED | REF-54738 photo 004 | Approximately ±2 W and ±3 H per leaf; center overlap, stops, seals and hardware reduce usable clearance |
+| REF-021 | Visible tire-to-inner-fender clearances | Approximately 6.5 ahead, 5.5 behind and 1 at crown | ESTIMATED | REF-54738 photo 001 and enhanced close view | Visualization proportions derived using the 29-inch tire proxy; do not use as suspension-travel or fabrication clearance |
+| REF-022 | Shell-top-to-fender / fender-to-ground visual split | Approximately 62% / 38% | ESTIMATED | REF-54738 photo 001 | Perspective-image proportion only; replaces the visually incorrect 50/50 relationship in the provisional elevation |
 
 The photo-derived values above were scaled manually from perspective raster images on September 7, 2026. They establish representative proportions only and are not suitable for purchase acceptance, interference approval or fabrication.
 
@@ -130,10 +132,10 @@ The photo-derived values above were scaled manually from perspective raster imag
 
 | ID | Model parameter | Provisional model input | Allowed/design range | Status | Source | Replacement trigger / note |
 |---|---|---:|---:|---|---|---|
-| LZ-001 | Front employee-support nook depth | 24 | 24 | DESIGN ASSUMPTION | MDS 1A; OA/OB/OC | Open to work aisle; no partition |
+| LZ-001 | Front employee-support nook depth | 24 target | 0–24 desired | DESIGN ASSUMPTION | MDS 1A; DL 2026-09-07 | Wish-list remainder only; open to work aisle with no partition when provided; may shrink or be omitted |
 | LZ-002 | Main work-zone length | 90 | 90 | DESIGN ASSUMPTION | MDS 6E; OA/OB/OC | Supports opening piers and exact equipment schedules |
-| LZ-003 | Total allocated interior length | 114 | 114 | DESIGN ASSUMPTION | LZ-001 + LZ-002 | Equals IN-001; no unallocated longitudinal tolerance |
-| LZ-004 | Front work-zone boundary from interior front datum | 24 | 24 | DESIGN ASSUMPTION | Derived | Start datum for service opening and equipment sequence |
+| LZ-003 | Minimum allocated work length | 90 | 90 | DESIGN ASSUMPTION | LZ-002 | Work zone controls; remaining verified interior length may become wish-list support space |
+| LZ-004 | Front work-zone boundary from interior front datum | Available remainder; 24 target in 114-inch test shell | 0–24 desired | DESIGN ASSUMPTION | `IN-001 - LZ-002` | Variable start datum for service opening and equipment sequence; not a required 24-inch boundary |
 | LZ-005 | Rear work-zone boundary from interior front datum | 114 | 114 | DESIGN ASSUMPTION | Derived | Coincides nominally with rear finished datum |
 
 ### 5.4 Required shell assertions
@@ -142,7 +144,7 @@ The first parametric implementation must stop with an error rather than regenera
 
 | Assertion | Required expression | Purpose |
 |---|---|---|
-| AS-001 | `LZ-001 + LZ-002 = IN-001` | Keeps the front nook and main work zone tied to the finished interior length |
+| AS-001 | `LZ-002 <= IN-001`; `LZ-001 = min(24, max(0, IN-001 - LZ-002))` | Protects the 90-inch work zone first and treats the front nook only as a wish-list remainder |
 | AS-002 | `2 × IN-005 + IN-002 = SH-002` only while walls are modeled as vertical proxies | Makes the inferred wall allowance explicit; disable and replace after wall sections are known |
 | AS-003 | `CV-001 + CV-003 = IN-002` | Enforces the locked 24-inch counter plus 32-inch aisle arrangement |
 | AS-004 | `CV-003 >= 30` at every operating projection and door position | Enforces minimum regulatory aisle width |
@@ -167,7 +169,7 @@ Unknown objects must be represented as disabled or visibly unresolved model laye
 | CH-006 | Wheel-well length | TBD | UNKNOWN | Candidate measurement and field survey |
 | CH-007 | Wheel-well interior projection | TBD | UNKNOWN | Candidate measurement and field survey |
 | CH-008 | Wheel-well height above finished floor | TBD | UNKNOWN | Candidate measurement and field survey |
-| CH-009 | Fender envelope | X approximately 54–120 from front body datum; approximately 78 overall width | ESTIMATED | REF-010 and REF-011; candidate measurement and field survey required |
+| CH-009 | Fender envelope | X approximately 47–120 from front body datum; approximately 78 overall width | ESTIMATED | REF-010 and REF-011; candidate measurement and field survey required |
 | CH-010 | Frame-rail positions/sections | TBD | UNKNOWN | Structural map required before underfloor placement |
 | CH-011 | Cross-member positions/sections | TBD | UNKNOWN | Structural map required before penetrations or tanks |
 | CH-012 | Floor construction and thickness | TBD | UNKNOWN | Physical inspection required |
@@ -179,11 +181,12 @@ Unknown objects must be represented as disabled or visibly unresolved model laye
 |---|---|---:|---:|---|---|---|
 | OP-001 | Rear-door clear width | 48 | 48–54 | DESIGN ASSUMPTION | MDS 1A; compare REF-019/REF-020 | Fit design to 48 until measured; photo-visible portal is approximately 50 inches wide but does not establish clear width |
 | OP-002 | Rear-door clear height | 72 | 72–76 | DESIGN ASSUMPTION | MDS 1A; compare REF-019/REF-020 | Fit design to 72 until measured; photo-visible portal is approximately 78 inches high but does not establish clear height |
-| OP-003 | Street-side donor-door position | TBD | Reference proxy outer frame approximately X 15–38 | UNKNOWN | MDS 6H; OA/OB/OC; compare REF-016 | B/C retain and protect; A permanently infills if present; candidate position must be measured |
-| OP-004 | Street-side donor-door clear width | TBD | Reference proxy outer frame approximately 22 ±4 | UNKNOWN | MDS 6H; compare REF-016 | Outer photo envelope is not a clear-opening dimension; controls B/C backbar breaks and egress |
-| OP-005 | Street-side donor-door clear height | TBD | Reference proxy outer frame approximately 72 ±4 | UNKNOWN | MDS 6H; compare REF-016 | Outer photo envelope is not a clear-opening dimension; controls B/C backbar bridge zone |
-| OP-006 | Existing curb-side openings | TBD | Reference proxy envelopes REF-013 through REF-015 | UNKNOWN | MDS 4.3 | Map every candidate opening before service-window design; photo estimates do not authorize cutting or reuse |
+| OP-003 | Donor side-door side and position | TBD | Reference proxy shows street-side outer frame approximately X 15–38; Phase 1 concept drawing places D1 curb-side | UNKNOWN | MDS 6H; OA/OB/OC; compare REF-016 | Concept placement is a visualization convention only; candidate side and position must be measured; Option rules remain separately locked |
+| OP-004 | Donor side-door clear width | TBD | Reference proxy outer frame approximately 22 ±4 | UNKNOWN | MDS 6H; compare REF-016 | Outer photo envelope is not a clear-opening dimension; exact door side and clear opening remain unknown |
+| OP-005 | Donor side-door clear height | TBD | Reference proxy outer frame approximately 72 ±4 | UNKNOWN | MDS 6H; compare REF-016 | Outer photo envelope is not a clear-opening dimension; exact clear height remains unknown |
+| OP-006 | Existing side openings | TBD | Reference proxy envelopes REF-013 through REF-016 | UNKNOWN | MDS 4.3 | Map every candidate opening before service-window design; photo estimates do not authorize cutting or reuse |
 | OP-007 | Existing roof openings | TBD | TBD | UNKNOWN | PMP 3 | Coordinate HVAC and Option A escape hatch |
+| OP-008 | Phase 1 concept opening arrangement | Curb: W1, 30-inch nominal outer-width D1, W3; street: W1, W2, W4; W1 shown at one-half W2 width on both sides | Actual door side/position, clear opening and all opening construction remain TBD | DESIGN ASSUMPTION | DL 2026-09-07 working direction | Hold D1's tongue-side jamb and extend nominal width toward wheels; drawing convention only, not donor evidence or an Option A/B/C revision |
 | ST-001 | Wall-post/rib positions | TBD | TBD | UNKNOWN | PMP 3; MDS 4.4 | No structural opening release without field map |
 | ST-002 | Roof-bow positions | TBD | TBD | UNKNOWN | PMP 3; MDS 4.4 | Controls HVAC and escape hatch |
 | ST-003 | Front bulkhead structure | TBD | TBD | UNKNOWN | MDS 4.4 | Controls electrical panel and employee nook |
@@ -201,7 +204,7 @@ Unknown objects must be represented as disabled or visibly unresolved model laye
 | CV-004 | Second full-depth counter allowance | 0 | 0 | DESIGN ASSUMPTION | MDS 1A, 6E | Prohibited in every option |
 | CV-005 | Service-opening width | 60 | 60 maximum | DESIGN ASSUMPTION | MDS 1A, 6E | Reduce if measured structure requires |
 | CV-006 | Service-opening height | 30 | 30 maximum | DESIGN ASSUMPTION | MDS 1A, 6E | Full open use not approved by health authority |
-| CV-007 | Service-opening longitudinal zone | X = 39 to 99; center X = 69 | Centered in 90-inch work zone | DESIGN ASSUMPTION | MDS 6E; derived from LZ-004, CV-005 and CV-008 | Provisional only; relocate/reduce after structure map if required |
+| CV-007 | Service-opening longitudinal zone | X = `LZ-004 + 15` to `LZ-004 + 75`; target X = 39 to 99 in 114-inch test shell | Centered in 90-inch work zone | DESIGN ASSUMPTION | MDS 6E; derived from LZ-004, CV-005 and CV-008 | Moves with the variable front remainder; relocate/reduce after structure map if required |
 | CV-008 | Front solid wall pier | 15 | 15 nominal | DESIGN ASSUMPTION | MDS 6E | Not a verified structural pier |
 | CV-009 | Rear solid wall pier | 15 | 15 nominal | DESIGN ASSUMPTION | MDS 6E | Not a verified structural pier |
 | CV-010 | Service-opening sill elevation | TBD | Coordinate to 36–40 service counter | UNKNOWN | MDS 6E | Set only after clear height/header band is verified |
@@ -373,7 +376,7 @@ These findings do not revise the design. They identify issues that must be accep
 
 | Finding | Severity | Observation | Required resolution |
 |---|---|---|---|
-| F-001 | CONTROLLED | The 114-inch finished interior length equals the 24-inch front nook plus the 90-inch work zone exactly. There is no unallocated longitudinal zone. | Use the finished-face datums and AS-001. Any measured shortfall fails the fit test and requires design review. |
+| F-001 | CONTROLLED | The 90-inch work zone is the controlling longitudinal allocation. A 114-inch test shell leaves up to 24 inches ahead of it, but that remainder is a wish-list employee-support area rather than a required zone. | Use the finished-face datums and AS-001. Reduce or omit the nook before reducing required operations, clearances or egress; a work-zone shortfall still requires design review. |
 | F-002 | HIGH | Each A/B equipment schedule totals exactly 90 inches, and the Option C module schedule also totals exactly 90 inches. Catalog widths, end panels, fillers, side clearances, plumbing offsets and shell irregularity have no allocated tolerance. | Create a module-tolerance strategy and test low/high catalog envelopes before Gate 2. Do not resize operational equipment silently. |
 | F-003 | CONTROLLED | The 56-inch interior width equals one 24-inch counter plus the 32-inch nominal aisle exactly. Any backsplash build-out, handle projection, wall irregularity or opposite-wall lower element can reduce the aisle. | Measure counter depth from finished wall to maximum operating projection and enforce AS-003, AS-004 and AS-009. Any intrusion fails the fit test. |
 | F-004 | HIGH | B/C retain a street-side door, but its position and dimensions are unknown while both backbar compositions depend on it. | Hold final backbar widths, mounting and symmetry until a candidate door is measured. |
@@ -425,13 +428,15 @@ These measurements support purchase screening only. A complete physical survey r
 
 ### Gate 1 — provisional envelope
 
-**Current recommendation:** NOT YET APPROVED.
+**Status:** APPROVED September 7, 2026, by Mike.
+
+**Approved basis:** Mike approved the provisional 120 × 60 × 84-inch exterior body envelope; the 114 × 56 × 76-inch conservative finished-clear interior envelope using the cutaway; the revised longitudinal rule protecting the 90-inch work zone while treating up to 24 inches of front remainder as wish-list space; the provisional 48 × 72-inch rear-door opening; the concept side-opening arrangement; and the photo-estimated running-gear/fender silhouette. Mike also explicitly accepted that donor-specific chassis, internal wheel-well, structural-member, roof-profile, floor/ceiling assembly and actual-opening geometry remain `UNKNOWN` for purchase-selection mockups.
 
 The envelope is sufficiently explicit to construct a provisional test shell and evaluate modeling tools, but the following must be accepted as deliberate purchase-selection assumptions before the shell is approved for candidate mockups:
 
 - 120 × 60 × 84-inch exterior body envelope;
 - 114 × 56 × 76-inch conservative finished-clear interior envelope, with an 80-inch high case retained only as a secondary range test;
-- 24-inch front nook plus 90-inch work zone with no unallocated longitudinal tolerance;
+- 90-inch controlling work zone, with any front remainder treated as a wish-list employee-support area up to 24 inches rather than a required allocation;
 - provisional 48 × 72-inch rear-door opening; and
 - all chassis, wheel-well, structural-member, roof-profile and side-door geometry remaining `UNKNOWN`.
 
@@ -456,7 +461,7 @@ Before Gate 2 approval:
 
 | Gate | Status | Approved by | Date | Scope / conditions |
 |---|---|---|---|---|
-| Gate 1 — provisional envelope | PENDING | — | — | Purchase-selection mockups only |
+| Gate 1 — provisional envelope | APPROVED | Mike | 2026-09-07 | Purchase-selection mockups only; all documented assumptions and `UNKNOWN` geometry retained; no fabrication or purchase release |
 | Gate 2 — conversion parameters | PENDING | — | — | Required before option geometry construction |
 
 Approval of this register does not verify the future donor trailer and does not release procurement, cutting, fabrication, permitting or construction documentation.
