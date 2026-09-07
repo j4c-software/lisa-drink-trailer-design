@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Option A elevation placement study</title>
+<style>
+  @page { size: 11in 8.5in; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #c8c3b9; }
+  body { font-family: Aptos, Arial, sans-serif; color: #2e3232; }
+  .page {
+    width: 11in; height: 8.5in; margin: 0 auto; padding: .44in .55in .42in;
+    background: #f4efe5; position: relative; overflow: hidden; page-break-after: always;
+  }
+  .page:last-child { page-break-after: auto; }
+  .rule { height: 4px; background: #b56f4c; margin-top: .12in; }
+  h1 { margin: 0; font: 700 35pt/1.03 Georgia, serif; color: #315b50; letter-spacing: -.3pt; }
+  .sub { margin-top: .08in; font-size: 16pt; line-height: 1.2; color: #4b514f; }
+  .page7-grid { display: grid; grid-template-columns: 6.72in 2.95in; gap: .23in; margin-top: .22in; height: 5.75in; }
+  .plan { width: 100%; height: 100%; object-fit: contain; background: #fffdf8; border: 1px solid #c9c1b3; }
+  .side { display: grid; grid-template-rows: 1fr 1fr; gap: .18in; }
+  figure { margin: 0; min-height: 0; position: relative; background: #fffdf8; border: 1px solid #c9c1b3; overflow: hidden; }
+  figure img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  figure figcaption { position: absolute; left: .13in; bottom: .12in; padding: .05in .09in; background: rgba(244,239,229,.94); color: #315b50; font-size: 13pt; font-weight: 700; }
+  .status { position: absolute; left: .55in; right: .55in; bottom: .18in; display: flex; justify-content: space-between; align-items: baseline; border-top: 1px solid #8b908d; padding-top: .08in; font-size: 10.5pt; color: #555b59; }
+  .status strong { color: #9a4d43; letter-spacing: .4pt; }
+  .hero-placeholder { margin-top: .22in; height: 3.62in; position: relative; overflow: hidden; background: #d8cbb8; border: 1px solid #a79e91; }
+  .hero-placeholder::before { content: ""; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(49,91,80,.18), rgba(181,111,76,.18)); }
+  .hero-copy { position: absolute; left: .38in; bottom: .32in; width: 5.8in; }
+  .hero-copy .id { font-size: 13pt; font-weight: 700; color: #9a4d43; letter-spacing: .5pt; }
+  .hero-copy h2 { margin: .06in 0 0; font: 700 24pt/1.1 Georgia, serif; color: #315b50; }
+  .hero-copy p { margin: .08in 0 0; font-size: 15pt; line-height: 1.25; max-width: 5.5in; }
+  .elevation-strips { display: grid; grid-template-columns: 1fr 1fr; gap: .2in; margin-top: .18in; height: 2.2in; }
+  .strip { position: relative; overflow: hidden; background: #fffdf8; border: 1px solid #c9c1b3; }
+  .strip img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .strip .label { position: absolute; left: .12in; top: .1in; padding: .045in .08in; background: rgba(244,239,229,.94); font-size: 12pt; font-weight: 700; color: #315b50; }
+  .strip .detail { position: absolute; left: .12in; bottom: .09in; padding: .04in .08in; background: rgba(46,50,50,.84); color: #fffdf8; font-size: 10.5pt; }
+  @media print { html, body { background: none; } .page { margin: 0; } }
+</style>
+</head>
+<body>
+  <section class="page">
+    <h1>A separates customer presentation from production</h1>
+    <div class="sub">Option A · Interior layout and workflow</div>
+    <div class="rule"></div>
+    <div class="page7-grid">
+      <img class="plan" src="assets/A-PL-01.png" alt="Option A plan view">
+      <div class="side">
+        <figure>
+          <img src="../../renders/candidates/option-a-elevations/A-EL-03-illustration-render-candidate-03-open-break-daylight-landscape.png" alt="Open front employee break area">
+          <figcaption>Open employee support area</figcaption>
+        </figure>
+        <figure>
+          <img src="../../renders/candidates/option-a-elevations/A-EL-04-illustration-render-candidate-01-daylight.png" alt="Rear double doors">
+          <figcaption>Primary staff entry and egress</figcaption>
+        </figure>
+      </div>
+    </div>
+    <div class="status"><span><strong>VERIFY</strong> Engineered street-door infill and roof-escape approval</span><span>7</span></div>
+  </section>
+
+  <section class="page">
+    <h1>The opposite wall carries the complete working bar</h1>
+    <div class="sub">Option A · Interior design and equipment</div>
+    <div class="rule"></div>
+    <div class="hero-placeholder">
+      <div class="hero-copy">
+        <div class="id">IN-02 · PRIMARY VISUAL</div>
+        <h2>Front-to-rear interior perspective</h2>
+        <p>This view will show the equipment wall, open service wall and rear doors together after the interior perspective passes review.</p>
+      </div>
+    </div>
+    <div class="elevation-strips">
+      <div class="strip">
+        <img src="../../renders/candidates/option-a-elevations/A-EL-01-illustration-render-candidate-02-daylight.png" alt="Service-wall elevation">
+        <div class="label">EL-01 · SERVICE WALL</div>
+        <div class="detail">Open hatch and four-door outboard storage</div>
+      </div>
+      <div class="strip">
+        <img src="../../renders/candidates/option-a-elevations/A-EL-02-illustration-render-candidate-01-daylight.png" alt="Equipment-wall elevation">
+        <div class="label">EL-02 · EQUIPMENT WALL</div>
+        <div class="detail">Hand sink, wash line, cocktail station and refrigerator</div>
+      </div>
+    </div>
+    <div class="status"><span><strong>CONDITIONAL</strong> Two-compartment sink basis requires written acceptance</span><span>8</span></div>
+  </section>
+</body>
+</html>

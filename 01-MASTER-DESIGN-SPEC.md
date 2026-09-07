@@ -2,7 +2,7 @@
 
 **Document role:** Authoritative shared design specification for every Lisa Drink Trailer workstream  
 **Status:** APPROVED CONCEPT BASIS — PRE-ACQUISITION / PRE-MEASUREMENT  
-**Revision:** 3.9 — September 7, 2026  
+**Revision:** 4.2 — September 7, 2026
 **Selected platform:** Mid-1980s Circle J two-horse, straight-load, bumper-pull trailer  
 **Geographic basis:** California, with San Francisco operation assumed until changed  
 
@@ -75,7 +75,7 @@ Use sources in this order:
 | Interior clear width | **4 ft 8 in (56 in)** | Governing layout width |
 | Interior clear height | **6 ft 4 in–6 ft 8 in** | Maintain at least 74 in clear over aisle |
 | Rear-door opening | **48–54 in W × 72–76 in H** | Fit design to 48 × 72 in until measured |
-| Front tack-area depth | **24 in** | Partition assumed removable |
+| Front tack-area depth | **24 in** | Open employee support nook; no partition |
 | Floor/deck height above grade | **18–24 in** | Use 24 in for step/access studies |
 | Main work counter | **24 in D × 36 in H** | Standard catalog equipment; either opposite the window (Option A opposite-wall service) or directly beneath it (Options B/C standard-bar service) |
 | Clear employee aisle | **30–34 in** | Never less than 30 in |
@@ -184,7 +184,7 @@ Do not include fixed trailer-mounted stools, permanent exterior bottle/glass she
 | Hatch frame/supports | Simple dark powder-coated appearance; concealed or visually restrained supports |
 | Branding | One restrained removable primary logo panel; no permanent event-specific wording |
 | Menu | One removable framed or magnetic display near the order end |
-| Exterior fixtures | Concealed hatch lighting plus two small vintage-inspired exterior sconces where structure permits |
+| Exterior fixtures | Concealed hatch lighting plus two matching compact oval caged bulkhead lights in matte charcoal, approximately 5 inches wide × 8 inches tall, with vertically ribbed frosted glass and soft glare-controlled 2700–3000 K illumination; exact listed exterior-rated product and mounting remain **VERIFY** |
 | Seating character | Coordinated café tables with a small upholstered lounge cluster |
 | Seating capacity shown | Approximately 8–12 nearby guests without crowding the service approach |
 | Standing tables | Two portable cocktail tables between the queue and seating zone |
@@ -440,16 +440,16 @@ The former horse compartment is the complete production, sanitation, storage and
 
 ### 6B. Front changing/tack area — micro employee break/support area
 
-The existing front changing/tack area is reserved as a physically separated, off-stage micro employee break/support area. It is not overflow beverage preparation or general equipment storage. Every layout must include:
+The existing front changing/tack area is reserved as an open micro employee break/support nook visible from the work aisle. It is not overflow beverage preparation or general equipment storage. Every layout must include:
 
-- Solid or sliding cleanable partition from beverage operations
+- No partition, curtain or overhead track between the nook and beverage operations
 - Compact built-in seat or fold-down jump seat
 - Small personal shelf/counter
 - Lockable employee cubbies and coat hooks
 - USB-C charging and a standard protected receptacle
 - Employee drinking-water/bottle storage
 - First-aid kit and compact administrative/paperwork storage
-- Mirror and basic privacy for changing
+- Mirror; the nook is not a private changing enclosure
 - Independent or shared conditioned ventilation and low-glare task lighting
 - Optional compact employee-only refrigerated compartment only if the final space, electrical and weight budgets permit it
 
@@ -494,7 +494,7 @@ These functional requirements are locked. Exact appliance models, sink count/con
 
 ### 6E. Single large bar-window control
 
-All layout concepts use one lift-up bar window on the curb/passenger side. The maximum concept rough opening is **60 inches wide × 30 inches high**, centered within the 90-inch main work-zone wall. This retains nominal **15-inch solid wall piers** between the opening and the front work-zone partition and between the opening and the rear portal.
+All layout concepts use one lift-up bar window on the curb/passenger side. The maximum concept rough opening is **60 inches wide × 30 inches high**, centered within the 90-inch main work-zone wall. This retains nominal **15-inch solid wall piers** between the opening and the front work-zone boundary and between the opening and the rear portal.
 
 - Treat 60 inches as a maximum, not a minimum; reduce it if actual post locations, steel condition or engineering require.
 - Do not enlarge or cut the opening until the actual wall/roof structural map is complete.
@@ -558,7 +558,7 @@ The customer view through the wide window shall remain composed: a clean foregro
 | Water heater, pump, strainer and filter | Enclosed leak-managed plumbing bay directly below or beside the applicable warewashing module | Removable service panel, isolation valves, drainage/winterization access and separation from electrical/food storage required |
 | Shore-power inlet and main disconnect | Weather-protected street-side utility zone | Keep away from potable fill, waste outlet, customer queue and wet plumbing; final 30-A/50-A selection follows load calculation |
 | Battery and inverter/charger | Lockable ventilated charcoal-painted tongue box | Limit battery/inverter role; VERIFY tongue weight, ventilation, protection and cable routing before selection |
-| Interior distribution panel | High, dry and guarded on the operational side of the front partition/bulkhead | Maintain required access without intruding into the employee break area or wet zones |
+| Interior distribution panel | High, dry and guarded on the open front employee-support wall | Maintain required access without intruding into the employee break area or wet zones |
 | POS power/data | Forward/order end of the service opening | Protected dry receptacle/USB-C, secure cable route and removable travel dock; connectivity remains VERIFY |
 | HVAC | Low-profile roof position near the body centerline and close to the axle group | VERIFY roof structure, hatch/header clearance, height, condensate route, heat load and weight balance |
 | Relief/exhaust ventilation | High on the street-side or roof, toward the rear of the work zone | Avoid the customer opening and staff faces; exact product and penetration remain VERIFY |

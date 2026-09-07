@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option B
 
-**Revision:** 1.6 — September 7, 2026  
+**Revision:** 1.7 — September 7, 2026
 **Status:** CANONICAL OPTION DIFFERENCES  
 **Name:** Single-Bartender Window Bar — Linear Gallery
 
@@ -50,7 +50,7 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 - Use the enclosed base at the 12-inch hand-sink end for the dedicated liquid-tight chemical compartment, separated from plumbing and clean storage.
 - Use the remaining verified volume below the drainboard for lidded trash/recycling pull-outs and a small rigid broken-glass container; exact catalog bins remain VERIFY.
 - Route sink, ice-well and refrigeration drainage through the floor to the centered underfloor waste system; all exterior service remains on the street side.
-- Place the dry electrical distribution panel high on the operational face of the front partition; do not place it in the Linear Gallery or wet line.
+- Place the dry electrical distribution panel high on the open front employee-support wall; do not place it in the Linear Gallery or wet line.
 - Place the extinguisher at the retained street-side staff door and the emergency light above the rear double doors.
 - Break, stop or bridge the shallow Linear Gallery around the verified staff-door opening without reducing door clearance or egress.
 - Secure removable transit cases low over the axle zone during travel and remove them from the aisle before operation.
@@ -65,7 +65,7 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 
 These layouts control all Option B technical graphics and renderings.
 
-**Drawing approval:** All five Option B SVG concept drawings (`B-PL-01` and `B-EL-01` through `B-EL-04`) were approved unchanged by Mike on September 7, 2026. Retain the open opposite lower wall; no floor cabinet or second counter. Approval is for concept and presentation use, not fabrication; all verification notes remain.
+**Drawing direction:** Mike's September 7, 2026 instruction removes the front partition and opens the employee break/support nook to the work aisle. The five Option B SVG concept drawings incorporate that direction. Retain the open opposite lower wall; no floor cabinet or second counter. The drawings remain for concept and presentation use, not fabrication; all verification notes remain.
 
 ### Plan view
 
@@ -118,7 +118,7 @@ These layouts control all Option B technical graphics and renderings.
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### B3 — Front partition
+### B3 — Open front break area
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -126,7 +126,7 @@ These layouts control all Option B technical graphics and renderings.
 │                                                              │
 │ [ HIGH DRY ELECTRICAL PANEL ]   [ TOP-HUNG SLIDING PANEL ]  │
 │                                                              │
-│ BREAK AREA BEYOND: FOLDING SEAT / CUBBIES / HOOKS / MIRROR  │
+│ OPEN BREAK AREA: FOLD-DOWN SEAT / CUBBIES / HOOKS / MIRROR  │
 │ DRINKING WATER / CHARGING / FIRST AID / PAPERWORK            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘

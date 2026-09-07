@@ -71,13 +71,13 @@ function plan(option) {
   ];
   let b=defs;
   b+=rect(x,y,L,D,C.ivory,C.charcoal,3,'rx="16"');
-  b+=line(x+front,y,x+front,y+D,C.charcoal,3);
+  b+=line(x+front,y,x+front,y+D,C.gray,1,'stroke-dasharray="8 6"');
   b+=txt(x+front/2,y+70,'FRONT / TONGUE',15,'middle',700,C.green);
   b+=txt(x+front/2,y+105,'24" EMPLOYEE',14,'middle',700);
   b+=txt(x+front/2,y+128,'BREAK / SUPPORT',14,'middle',700);
   b+=rect(x+28,y+160,front-56,84,C.pale,C.gray,1,'rx="6"');
-  b+=txt(x+front/2,y+194,'SLIDING',13,'middle',700);
-  b+=txt(x+front/2,y+214,'PARTITION',13,'middle',700);
+  b+=txt(x+front/2,y+194,'FOLD-DOWN SEAT',12,'middle',700);
+  b+=txt(x+front/2,y+214,'OPEN TO AISLE',12,'middle',700,C.green);
   b+=rect(x+38,y+272,front-76,72,C.paper,C.red,2,'stroke-dasharray="8 6"');
   b+=txt(x+front/2,y+300,'DRY',12,'middle',700,C.red); b+=txt(x+front/2,y+318,'ELECTRIC',12,'middle',700,C.red);
   b+=line(x+L,y+24,x+L,y+D/2-28,C.copper,7); b+=line(x+L,y+D/2+28,x+L,y+D-24,C.copper,7);
@@ -131,8 +131,8 @@ function curbElevation(option) {
     const {x,yFloor,u,front,service}=g, xs=x+front, openX=xs+15*u, openW=60*u, counterY=yFloor-36*5.4, winBottom=counterY-18, winTop=winBottom-30*5.4;
     let b='';
     b+=rect(x+18,yFloor-310,front-36,270,C.pale,C.gray,1,'stroke-dasharray="7 5"');
-    b+=txt(x+front/2,yFloor-275,'FRONT BREAK',13,'middle',700); b+=txt(x+front/2,yFloor-254,'AREA BEYOND',13,'middle',700);
-    b+=line(xs,175,xs,yFloor,C.charcoal,3);
+    b+=txt(x+front/2,yFloor-275,'FRONT BREAK',13,'middle',700); b+=txt(x+front/2,yFloor-254,'OPEN TO AISLE',13,'middle',700,C.green);
+    b+=line(xs,175,xs,yFloor,C.gray,1,'stroke-dasharray="8 6"');
     b+=rect(openX,winTop,openW,winBottom-winTop,C.paper,C.copper,4);
     b+=txt(openX+openW/2,winTop+70,'60" MAX SERVICE OPENING',18,'middle',700,C.copper);
     b+=line(openX-8,winBottom,openX+openW+8,winBottom,C.copper,8);
@@ -164,10 +164,10 @@ function streetElevation(option) {
   return longShell(`OPTION ${option} • EL-02 • STREET / OPPOSITE WALL`,option==='A'?'COMPLETE EQUIPMENT WALL • NO OPERATING SIDE DOOR':'SHALLOW FUNCTIONAL BACKBAR • STAFF-DOOR LOCATION VERIFY',g=>{
     const {x,yFloor,u,front,service}=g, xs=x+front, counterY=yFloor-36*5.4;
     let b='';
-    b+=line(xs,175,xs,yFloor,C.charcoal,3);
+    b+=line(xs,175,xs,yFloor,C.gray,1,'stroke-dasharray="8 6"');
     if(option==='A'){
       b+=rect(x+18,yFloor-310,front-36,270,C.pale,C.gray,1,'stroke-dasharray="7 5"');
-      b+=txt(x+front/2,yFloor-270,'FRONT BREAK',13,'middle',700); b+=txt(x+front/2,yFloor-248,'AREA BEYOND',13,'middle',700);
+      b+=txt(x+front/2,yFloor-270,'FRONT BREAK',13,'middle',700); b+=txt(x+front/2,yFloor-248,'OPEN TO AISLE',13,'middle',700,C.green);
       const modules=[{in:12,label:['HAND']},{in:36,label:['2-COMP SINK','+ DRAINBOARD']},{in:24,label:['ICE STATION']},{in:18,label:['REF']}];
       b+=moduleBlocks(xs,counterY,u,modules,yFloor-counterY);
       b+=line(xs,counterY,xs+service,counterY,C.charcoal,6);
@@ -203,8 +203,8 @@ function streetElevation(option) {
 }
 
 function endElevation(option,frontView) {
-  const title=`OPTION ${option} • ${frontView?'EL-03 • FRONT PARTITION':'EL-04 • REAR DOOR WALL'}`;
-  const subtitle=frontView?'LOOKING TOWARD TONGUE / EMPLOYEE BREAK AREA':'LOOKING TOWARD FUNCTIONAL DOUBLE REAR DOORS';
+  const title=`OPTION ${option} • ${frontView?'EL-03 • OPEN FRONT BREAK AREA':'EL-04 • REAR DOOR WALL'}`;
+  const subtitle=frontView?'LOOKING TOWARD TONGUE / EMPLOYEE SUPPORT WALL • NO PARTITION':'LOOKING TOWARD FUNCTIONAL DOUBLE REAR DOORS';
   let b=defs;
   const x=208,yTop=160,yFloor=650,u=13.5,w=56*u;
   const curve=`M ${x} ${yFloor} L ${x} ${yTop+80} Q ${x+50} ${yTop} ${x+135} ${yTop} L ${x+w-135} ${yTop} Q ${x+w-50} ${yTop} ${x+w} ${yTop+80} L ${x+w} ${yFloor}`;
@@ -212,9 +212,11 @@ function endElevation(option,frontView) {
   b+=`<path d="M ${x+8} ${yTop+52} Q ${x+w/2} ${yTop-8} ${x+w-8} ${yTop+52}" fill="none" stroke="${C.copper}" stroke-width="18" opacity="0.85"/>`;
   if(frontView){
     b+=rect(x+60,yTop+120,150,120,C.paper,C.red,2); b+=txt(x+135,yTop+168,'HIGH DRY',13,'middle',700,C.red); b+=txt(x+135,yTop+190,'ELECTRICAL PANEL',13,'middle',700,C.red);
-    b+=rect(x+250,yTop+95,w-310,yFloor-yTop-135,C.pale,C.green,3); b+=txt(x+250+(w-310)/2,yTop+265,'TOP-HUNG SLIDING PANEL',18,'middle',700,C.green);
-    b+=txt(x+w/2,yFloor-72,'BREAK AREA BEYOND: FOLDING SEAT • CUBBIES • HOOKS • MIRROR',13,'middle',700);
-    b+=txt(x+w/2,yFloor-45,'DRINKING WATER • CHARGING • FIRST AID • PAPERWORK',13,'middle',700);
+    b+=rect(x+250,yTop+102,w-310,86,C.pale,C.green,3); b+=txt(x+250+(w-310)/2,yTop+138,'LOCKABLE EMPLOYEE CUBBIES',15,'middle',700,C.green);
+    b+=rect(x+250,yTop+220,170,150,C.paper,C.green,2); b+=txt(x+335,yTop+300,'MIRROR',15,'middle',700,C.green);
+    b+=rect(x+450,yTop+235,w-510,54,C.paper,C.copper,2); b+=txt(x+450+(w-510)/2,yTop+269,'WATER • CHARGING • FIRST AID',12,'middle',700,C.copper);
+    b+=line(x+455,yTop+330,x+w-70,yTop+330,C.green,5); b+=txt(x+455+(w-525)/2,yTop+320,'FOLDING HOOKS',12,'middle',700,C.green);
+    b+=rect(x+250,yFloor-112,w-310,72,C.pale,C.gray,2,'rx="8"'); b+=txt(x+250+(w-310)/2,yFloor-69,'FOLD-DOWN EMPLOYEE SEAT • OPEN TO WORK AISLE',14,'middle',700,C.charcoal);
   } else {
     const doorW=48*u, dx=x+(w-doorW)/2, doorTop=yTop+95;
     b+=rect(dx,doorTop,doorW,yFloor-doorTop,C.paper,C.green,3);

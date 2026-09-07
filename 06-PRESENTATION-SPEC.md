@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Presentation Specification
 
-**Revision:** 2.1 — September 7, 2026  
+**Revision:** 2.2 — September 7, 2026
 **Status:** LOCKED PRESENTATION PLAN; CONTROLLED VISUAL PRODUCTION AUTHORIZED  
 **Format:** US Letter, 8.5 × 11 inches
 
@@ -33,12 +33,12 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 | `EX-01` | Service-side exterior hero | Front-curb three-quarter, approximately 35 mm equivalent, eye height about 5 ft 2 in, early-evening event setting; whole trailer, tongue and service hatch legible |
 | `EX-02` | Customer-at-window | Near-square service-side view, approximately 35–40 mm equivalent; customer-facing order-right, interaction center, pickup-left, accessible transaction area and nearby seating visible |
 | `EX-03` | Street/utility-side exterior | Rear-street three-quarter; staff door, divided utility service, tongue box, stabilizers and non-customer circulation visible; all unverified door positions labeled **VERIFY** |
-| `IN-01` | Rear-to-front interior | Camera centered at rear portal, approximately 22–24 mm equivalent, verticals corrected; work line, window, opposite wall and front partition visible |
-| `IN-02` | Front-to-rear interior | Camera centered immediately behind the front partition, same lens/eye height as `IN-01`; service line and rear egress visible |
+| `IN-01` | Rear-to-front interior | Camera centered at rear portal, approximately 22–24 mm equivalent, verticals corrected; work line, window, opposite wall and open front break/support nook visible |
+| `IN-02` | Front-to-rear interior | Camera centered at the front edge of the open break/support nook, same lens/eye height as `IN-01`; service line and rear egress visible |
 | `PL-01` | Concept plan | Orthographic top-down; fixed 9 ft 6 in × 56 in interior envelope, front/rear and curb/street labeled; equipment modules, aisle, door hold, utilities and travel zone shown |
 | `EL-01` | Curb-wall interior elevation | Flat orthographic elevation showing service opening/ledge and applicable under-window equipment or outboard storage |
 | `EL-02` | Street-wall interior elevation | Flat orthographic elevation showing Option A service line, Option B Linear Gallery or Option C Twin-Wing Backbar |
-| `EL-03` | Front-partition elevation | Flat elevation showing sliding partition, dry electrical panel and employee-area relationship |
+| `EL-03` | Open front break-area elevation | Flat elevation showing the high dry electrical panel, cubbies, mirror, folding hooks, water/charging/first-aid shelf and fold-down seat; no partition |
 | `EL-04` | Rear-door elevation | Flat elevation showing double doors, emergency light, ventilation provision and clear egress |
 | `DT-01` | Operating-state detail | Hatch raised, ledge deployed, operating restraints engaged and customer light active |
 | `DT-02` | Travel-state detail | Hatch/ledge latched, counters clear, glass/bottles/tools removed or docked and transit cases secured low |
@@ -102,7 +102,7 @@ Before releasing rendering, confirm:
 3. The recommendation criteria and whether Page 23 names a preferred option are approved.
 4. Every required view has one locked camera definition and option/state assignment. **COMPLETE**
 5. All plans/elevations reconcile with current equipment arithmetic, doors, utilities and aisle controls. **COMPLETE — ALL 15 SVG DRAWINGS APPROVED UNCHANGED BY MIKE ON SEPTEMBER 7, 2026**
-6. Source/reference rights are known for every externally obtained photograph.
+6. Source/reference rights are known for every externally obtained photograph. **COMPLETE — Mike confirmed the selected external reference photographs are free to use and require no license clearance; retain source notes**
 7. The rendering hold is explicitly released by Mike. **COMPLETE — September 7, 2026; asset-specific blocks remain**
 
 `A/B/C-EX-02` are released for controlled candidate production with customer-facing **ORDER right / PICKUP left**, preserving the front/tongue order end, rear pickup end and approved elevations.

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>A-EL-03 SVG and photo comparison</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { width: 2000px; height: 830px; margin: 0; overflow: hidden; }
+  body { padding: 30px; background: #f4efe5; font-family: Arial, sans-serif; color: #315b50; }
+  .comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; height: 770px; }
+  figure { margin: 0; display: grid; grid-template-rows: 48px 1fr; min-width: 0; }
+  figcaption { font-size: 25px; font-weight: 700; display: flex; align-items: center; }
+  .frame { background: #fffdf8; border: 2px solid #b9b0a3; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+  img { width: 100%; height: 100%; object-fit: contain; display: block; }
+</style>
+</head>
+<body>
+  <div class="comparison">
+    <figure>
+      <figcaption>Technical SVG · A-EL-03</figcaption>
+      <div class="frame"><img src="A-EL-03-technical-svg.png" alt="Technical SVG elevation"></div>
+    </figure>
+    <figure>
+      <figcaption>Photo-render candidate · equipment reference</figcaption>
+      <div class="frame"><img src="../candidates/option-a-elevations/A-EL-03-photo-render-candidate-01-equipment-reference.png" alt="Photorealistic candidate"></div>
+    </figure>
+  </div>
+</body>
+</html>

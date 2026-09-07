@@ -1,0 +1,454 @@
+{
+  "generatedAt": "2026-09-07T08:30:58.860Z",
+  "authority": "approved drawings/concept SVG files; option equipment schedules are advisory cross-checks only",
+  "method": "photorealistic rendering generated from each approved SVG; reviewed raster override only where explicitly listed",
+  "jobs": [
+    {
+      "id": "A-PL-01",
+      "source": "drawings/concept/A-PL-01.svg",
+      "illustration": "renders/elevation-review/illustrations/A-PL-01-photorealistic.png",
+      "board": "renders/elevation-review/boards/A-PL-01-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "24\"",
+            "90\"",
+            "114\"",
+            "32\"",
+            "60\"",
+            "6\"",
+            "12\"",
+            "36\"",
+            "18\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "B-PL-01",
+      "source": "drawings/concept/B-PL-01.svg",
+      "illustration": "renders/elevation-review/illustrations/B-PL-01-photorealistic.png",
+      "board": "renders/elevation-review/boards/B-PL-01-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "24\"",
+            "90\"",
+            "114\"",
+            "32\"",
+            "60\"",
+            "12\"",
+            "36\"",
+            "18\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "A-EL-01",
+      "source": "drawings/concept/A-EL-01-curb-service.svg",
+      "illustration": "renders/elevation-review/illustrations/A-EL-01-photorealistic.png",
+      "board": "renders/elevation-review/boards/A-EL-01-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "60\"",
+            "14–16\"",
+            "90\"",
+            "6\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "C-PL-01",
+      "source": "drawings/concept/C-PL-01.svg",
+      "illustration": "renders/elevation-review/illustrations/C-PL-01-photorealistic.png",
+      "board": "renders/elevation-review/boards/C-PL-01-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "24\"",
+            "90\"",
+            "114\"",
+            "32\"",
+            "60\"",
+            "12\"",
+            "18\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "A-EL-02",
+      "source": "drawings/concept/A-EL-02-street-opposite.svg",
+      "illustration": "renders/elevation-review/illustrations/A-EL-02-photorealistic.png",
+      "board": "renders/elevation-review/boards/A-EL-02-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "90\"",
+            "12\"",
+            "36\"",
+            "24\"",
+            "18\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": false,
+        "optionScheduleWarnings": [
+          "18-inch undercounter refrigerator"
+        ],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "A-EL-03",
+      "source": "drawings/concept/A-EL-03-front-partition.svg",
+      "illustration": "renders/elevation-review/illustrations/A-EL-03-photorealistic.png",
+      "board": "renders/elevation-review/boards/A-EL-03-svg-and-illustration.png",
+      "renderingBasis": "reviewed-interior-photo-override",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "56\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": false,
+        "optionScheduleWarnings": [
+          "first-aid"
+        ],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": true
+      },
+      "pass": true
+    },
+    {
+      "id": "A-EL-04",
+      "source": "drawings/concept/A-EL-04-rear-doors.svg",
+      "illustration": "renders/elevation-review/illustrations/A-EL-04-photorealistic.png",
+      "board": "renders/elevation-review/boards/A-EL-04-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "56\"",
+            "24 × 36\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "B-EL-01",
+      "source": "drawings/concept/B-EL-01-curb-service.svg",
+      "illustration": "renders/elevation-review/illustrations/B-EL-01-photorealistic.png",
+      "board": "renders/elevation-review/boards/B-EL-01-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "60\"",
+            "14–16\"",
+            "90\"",
+            "12\"",
+            "36\"",
+            "24\"",
+            "18\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": false,
+        "optionScheduleWarnings": [
+          "18-inch undercounter refrigerator"
+        ],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "B-EL-02",
+      "source": "drawings/concept/B-EL-02-street-opposite.svg",
+      "illustration": "renders/elevation-review/illustrations/B-EL-02-photorealistic.png",
+      "board": "renders/elevation-review/boards/B-EL-02-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "90\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": false,
+        "optionScheduleWarnings": [
+          "lightweight rail"
+        ],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "B-EL-03",
+      "source": "drawings/concept/B-EL-03-front-partition.svg",
+      "illustration": "renders/elevation-review/illustrations/B-EL-03-photorealistic.png",
+      "board": "renders/elevation-review/boards/B-EL-03-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "56\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": false,
+        "optionScheduleWarnings": [
+          "first-aid"
+        ],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "B-EL-04",
+      "source": "drawings/concept/B-EL-04-rear-doors.svg",
+      "illustration": "renders/elevation-review/illustrations/B-EL-04-photorealistic.png",
+      "board": "renders/elevation-review/boards/B-EL-04-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "56\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "C-EL-01",
+      "source": "drawings/concept/C-EL-01-curb-service.svg",
+      "illustration": "renders/elevation-review/illustrations/C-EL-01-photorealistic.png",
+      "board": "renders/elevation-review/boards/C-EL-01-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "60\"",
+            "14–16\"",
+            "90\"",
+            "12\"",
+            "18\"",
+            "24\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "C-EL-02",
+      "source": "drawings/concept/C-EL-02-street-opposite.svg",
+      "illustration": "renders/elevation-review/illustrations/C-EL-02-photorealistic.png",
+      "board": "renders/elevation-review/boards/C-EL-02-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "90\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "C-EL-03",
+      "source": "drawings/concept/C-EL-03-front-partition.svg",
+      "illustration": "renders/elevation-review/illustrations/C-EL-03-photorealistic.png",
+      "board": "renders/elevation-review/boards/C-EL-03-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "56\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": false,
+        "optionScheduleWarnings": [
+          "first-aid"
+        ],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    },
+    {
+      "id": "C-EL-04",
+      "source": "drawings/concept/C-EL-04-rear-doors.svg",
+      "illustration": "renders/elevation-review/illustrations/C-EL-04-photorealistic.png",
+      "board": "renders/elevation-review/boards/C-EL-04-svg-and-illustration.png",
+      "renderingBasis": "approved-svg-to-photorealistic",
+      "qa": {
+        "sourceEquipmentAndLabels": true,
+        "sourceDimensionCheck": {
+          "required": [
+            "56\""
+          ],
+          "missing": [],
+          "arithmetic": true,
+          "equipmentTotal": true,
+          "pass": true
+        },
+        "optionScheduleCrossCheck": true,
+        "optionScheduleWarnings": [],
+        "sourceDimensions": true,
+        "illustrationDimensions": true,
+        "boardDimensions": true,
+        "interiorOnlyOverride": null
+      },
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "outputs": {
+    "boards": "renders/elevation-review/boards",
+    "contactSheet": "renders/elevation-review/all-15-plan-and-elevation-pairs-contact-sheet.png"
+  }
+}

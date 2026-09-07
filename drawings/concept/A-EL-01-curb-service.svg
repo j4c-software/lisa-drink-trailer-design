@@ -20,11 +20,11 @@
   <rect x="1072" y="594" width="30" height="28" rx="3" fill="#DED8CD" stroke="#2E3232" stroke-width="2"/>
   <text x="1070" y="676" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" font-weight="700" fill="#315B50">FRONT / TONGUE</text>
 
-  <!-- Front support area, mirrored into correct interior-view position -->
-  <line x1="858" y1="175" x2="858" y2="650" stroke="#2E3232" stroke-width="3"/>
+  <!-- Open front support area; dashed line marks the program zone, not a partition -->
+  <line x1="858" y1="175" x2="858" y2="650" stroke="#8B908D" stroke-width="1" stroke-dasharray="8 6"/>
   <rect x="876" y="340" width="161" height="270" fill="#DED8CD" stroke="#8B908D" stroke-dasharray="7 5"/>
   <text x="956" y="375" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#2E3232">FRONT BREAK</text>
-  <text x="956" y="396" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#2E3232">AREA BEYOND</text>
+  <text x="956" y="396" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#315B50">OPEN TO AISLE</text>
 
   <!-- Existing photographed window bay / proposed service hatch -->
   <rect x="246" y="276" width="492" height="162" fill="#FFFDF8" stroke="#B56F4C" stroke-width="4"/>

@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option A
 
-**Revision:** 1.7 — September 7, 2026  
+**Revision:** 1.8 — September 7, 2026
 **Status:** CANONICAL OPTION DIFFERENCES  
 **Name:** Open Window / Opposite-Wall Service Bar
 
@@ -32,7 +32,7 @@ Direction for every plan, elevation and rendering: **front = tongue**, **rear = 
 - Use the enclosed base at the 12-inch hand-sink end for the dedicated liquid-tight chemical compartment, separated from plumbing and clean storage.
 - Use the remaining verified volume below the drainboard for lidded trash/recycling pull-outs and a small rigid broken-glass container; exact catalog bins remain VERIFY.
 - Route sink, ice-well and refrigeration drainage through the floor to the centered underfloor waste system; no customer-side discharge or exposed hose.
-- Place the dry electrical distribution panel high on the operational face of the front partition and route shore power from the street-side utility zone.
+- Place the dry electrical distribution panel high on the open front employee-support wall and route shore power from the street-side utility zone.
 - Use the rear double doors as the staff entrance/primary exit; place the extinguisher immediately accessible there and the emergency light above the opening.
 - Assume no usable street-side door. Permanently infill any existing horse/escape door with an engineered, weather-sealed, insulated and interior-finish-matched wall assembly before installing the continuous service line.
 - Reserve a standard listed 24 × 36-inch minimum roof escape hatch over the rear-third aisle as the second egress, subject to final product selection, roof mapping, reinforcement, access and authority approval.
@@ -47,7 +47,7 @@ Direction for every plan, elevation and rendering: **front = tongue**, **rear = 
 
 ## Authoritative plan and interior elevations
 
-**Drawing approval:** All five Option A SVG concept drawings (`A-PL-01` and `A-EL-01` through `A-EL-04`) were approved unchanged by Mike on September 7, 2026. Approval is for concept and presentation use, not fabrication; all verification and agency-approval notes remain.
+**Drawing direction:** Mike's September 7, 2026 instruction removes the front partition and opens the employee break/support nook to the work aisle. The five Option A SVG concept drawings incorporate that direction. They remain for concept and presentation use, not fabrication; all verification and agency-approval notes remain.
 
 These layouts control all Option A technical graphics and renderings. They incorporate the later approved decision that Option A has no usable street-side door: any donor-trailer door in the equipment-line area is permanently infilled. The rear double doors are the primary staff entrance/exit, and the reserved roof escape hatch is the conditional second egress.
 
@@ -62,8 +62,8 @@ These layouts control all Option A technical graphics and renderings. They incor
 │ DRY ELECTRIC │              32" CLEAR AISLE                  │
 │ PANEL        │     TRAVEL CASES HERE ONLY WHILE TOWING       │
 │              │                                               │
-│ SLIDING      │ [HAND][36" SINK][24" ICE][18" REFRIGERATOR]  │
-│ PARTITION    │          90" STREET-SIDE SERVICE LINE         │
+│ FOLD-DOWN    │ [HAND][36" SINK][24" ICE][18" REFRIGERATOR]  │
+│ SEAT • OPEN  │          90" STREET-SIDE SERVICE LINE         │
 └──────────────┴───────────────────────────────────────────────┘
                          STREET / UTILITY SIDE
 
@@ -103,15 +103,15 @@ These layouts control all Option A technical graphics and renderings. They incor
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### A3 — Front partition
+### A3 — Open front break area
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                    COPPER-COLORED PAINTED CEILING            │
 │                                                              │
-│ [ HIGH DRY ELECTRICAL PANEL ]   [ TOP-HUNG SLIDING PANEL ]  │
+│ [ HIGH DRY ELECTRICAL PANEL ]   [ LOCKABLE CUBBIES ]        │
 │                                                              │
-│ BREAK AREA BEYOND: FOLDING SEAT / CUBBIES / HOOKS / MIRROR  │
+│ OPEN BREAK AREA: FOLD-DOWN SEAT / CUBBIES / HOOKS / MIRROR  │
 │ DRINKING WATER / CHARGING / FIRST AID / PAPERWORK            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘

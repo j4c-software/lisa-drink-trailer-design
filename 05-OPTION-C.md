@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option C
 
-**Revision:** 1.6 — September 7, 2026  
+**Revision:** 1.7 — September 7, 2026
 **Status:** CANONICAL OPTION DIFFERENCES — CONDITIONAL  
 **Name:** Two-Bartender Window Bar — Twin-Wing Backbar
 
@@ -60,7 +60,7 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 - Use the enclosed base at the 12-inch hand-sink end for the dedicated liquid-tight chemical compartment, separated from plumbing and clean storage.
 - Divide verified residual space below the centered sink into lidded trash/recycling pull-outs and a small rigid broken-glass container, physically separated from the plumbing bay. The compact fit and exact catalog bins remain VERIFY and may require a controlled layout revision.
 - Route both cocktail-station drains, the shared sink, hand sink and refrigeration drainage through the floor to the centered underfloor waste system; no customer-side discharge or exposed hose.
-- Place the dry electrical distribution panel high on the operational face of the front partition; do not place it in either Twin-Wing storage zone or a wet area.
+- Place the dry electrical distribution panel high on the open front employee-support wall; do not place it in either Twin-Wing storage zone or a wet area.
 - Place the extinguisher at the retained street-side staff door and the emergency light above the rear double doors.
 - Adapt the Twin-Wing composition around the verified staff-door opening while retaining balanced station access and full egress.
 - Secure the two matched removable station kits in low transit cases over the axle zone during travel and remove them from the aisle before operation.
@@ -75,7 +75,7 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 
 These layouts control all Option C technical graphics and renderings. Every derivative must retain the mandatory health-authority condition.
 
-**Drawing approval:** All five Option C SVG concept drawings (`C-PL-01` and `C-EL-01` through `C-EL-04`) were approved unchanged by Mike on September 7, 2026. Retain the open opposite lower wall; no floor cabinet or second counter. Approval is for conditional concept and presentation use, not fabrication, and does not remove Option C's mandatory health-authority condition.
+**Drawing direction:** Mike's September 7, 2026 instruction removes the front partition and opens the employee break/support nook to the work aisle. The five Option C SVG concept drawings incorporate that direction. Retain the open opposite lower wall; no floor cabinet or second counter. The drawings remain for conditional concept and presentation use, not fabrication, and this change does not remove Option C's mandatory health-authority condition.
 
 ### Plan view
 
@@ -134,7 +134,7 @@ These layouts control all Option C technical graphics and renderings. Every deri
 
 **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED**
 
-### C3 — Front partition
+### C3 — Open front break area
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -142,7 +142,7 @@ These layouts control all Option C technical graphics and renderings. Every deri
 │                                                              │
 │ [ HIGH DRY ELECTRICAL PANEL ]   [ TOP-HUNG SLIDING PANEL ]  │
 │                                                              │
-│ BREAK AREA BEYOND: FOLDING SEAT / CUBBIES / HOOKS / MIRROR  │
+│ OPEN BREAK AREA: FOLD-DOWN SEAT / CUBBIES / HOOKS / MIRROR  │
 │ DRINKING WATER / CHARGING / FIRST AID / PAPERWORK            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘

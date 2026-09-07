@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Rendering Controls
 
-**Revision:** 2.1 — September 7, 2026  
+**Revision:** 2.4 — September 7, 2026
 **Status:** LOCKED CONTROLS; CONTROLLED RENDERING AUTHORIZED WITH ASSET-SPECIFIC HOLDS
 
 ## Release gate
@@ -47,6 +47,7 @@ Create an original conceptual visualization of a restored vintage Circle J two-h
 - One curb-side top-hinged service hatch, maximum concept size 60 × 30 inches, with restrained dark supports and warm concealed underside light
 - One 14–16-inch-deep customer ledge with medium-tone sealed-wood appearance over a commercial exterior substrate
 - Restrained removable branding and one removable menu near the order end
+- Two matching compact oval caged bulkhead lights in matte charcoal, approximately 5 inches wide × 8 inches tall, with vertically ribbed frosted glass and soft glare-controlled 2700–3000 K illumination; use `renders/approved/exterior-lighting/EXT-LIGHT-02-caged-oval-bulkhead.png` as the visual-direction reference only
 - Realistic landscaped wedding/private-event courtyard at early evening
 - Clear customer apron, customer-facing order-right/pickup-left flow, two portable standing cocktail tables and seating for approximately 8–12 nearby guests
 - At least one wheelchair-usable table position and an unobstructed accessible route
@@ -67,9 +68,9 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 - Warm 2700–3000 K customer/display light and sealed 3000–3500 K high-CRI work light
 - One controlled softly illuminated bottle-display feature
 - Enclosed or positively retained glass storage
-- Front top-hung sliding partition to the 24-inch employee break/support area
+- Open 24-inch employee break/support nook with no partition, curtain or overhead track
 - Rear double doors preserved as clear egress: primary staff entry/exit for Option A and secondary egress for Options B/C
-- High dry electrical panel at the operational face of the front partition
+- High dry electrical panel on the open front employee-support wall
 - No pendant lights, chandelier, rotating fan, hanging stemware, loose decorative bottles, residential cabinetry or hidden sanitation equipment
 
 ## Option overlays
@@ -112,8 +113,8 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 | `A/B/C-EX-01` | Front-curb three-quarter, approximately 35 mm equivalent, 5 ft 2 in eye height; full body, tongue, wheels and hatch in frame | Operating state; option-specific work relationship may be visible through hatch; identical courtyard, weather, exposure, seating and customer density |
 | `A/B/C-EX-02` | Nearly square to service opening, approximately 35–40 mm equivalent; camera far enough back to show ledge, apron, queue edge and seating | Operating state; customer-facing order-right, interaction center and pickup-left readable; A/B use one bartender, C uses two; accessible transaction area unobstructed |
 | `B/C-EX-03` | Rear-street three-quarter at same eye height and tonal treatment as `EX-01` | Operating utility side; working proxy staff door labeled later **VERIFY**, divided utility panel, tongue box and stabilizers visible; no hoses across paths |
-| `A/B/C-IN-01` | Centered at rear portal, approximately 22–24 mm equivalent, 5 ft eye height, corrected verticals; 3:2 landscape | Operating state; both long walls and front partition legible; preserve 32-inch aisle. Option A shows the continuous infilled street wall and roof escape hatch. |
-| `A/B/C-IN-02` | Centered immediately behind front partition, same lens, eye height, exposure and crop as `IN-01` | Operating state; rear egress visible; defining opposite wall legible. Option A shows no street-side door. |
+| `A/B/C-IN-01` | Centered at rear portal, approximately 22–24 mm equivalent, 5 ft eye height, corrected verticals; 3:2 landscape | Operating state; both long walls and the open front break/support nook legible; preserve 32-inch aisle. Option A shows the continuous infilled street wall and roof escape hatch. |
+| `A/B/C-IN-02` | Centered at the front edge of the open break/support nook, same lens, eye height, exposure and crop as `IN-01` | Operating state; rear egress visible; defining opposite wall legible. Option A shows no street-side door. |
 | `A/B/C-DT-01` | Close three-quarter detail of hatch/ledge, no exaggerated macro distortion | Operating state; raised hatch, positive wind restraint, deployed ledge/supports, drip control and warm light; no customer-side utilities |
 | `A/B/C-DT-02` | Close interior/exterior travel-preparation detail appropriate to option | Travel state; hatch/ledge latched, counters and rails empty, doors closed, portable items in low restrained cases; no loose bottles, glasses, blender or POS |
 
@@ -274,7 +275,7 @@ If an approved design cannot be rendered without violating a control, stop and r
 ## Fixed interior camera handedness and equipment reading
 
 - `IN-01`, rear looking toward the tongue/front: curb/service wall is image-right; street/opposite wall is image-left. Near-to-far equipment order is the reverse of the physical front-to-rear schedule.
-- `IN-02`, front partition looking toward the rear doors: curb/service wall is image-left; street/opposite wall is image-right. Near-to-far equipment order matches the physical front-to-rear schedule.
+- `IN-02`, open front break/support nook looking toward the rear doors: curb/service wall is image-left; street/opposite wall is image-right. Near-to-far equipment order matches the physical front-to-rear schedule.
 - Options A/B, `IN-01` near-to-far equipment: refrigerator → 24-inch cocktail station → 36-inch two-compartment sink/right drainboard → 12-inch hand sink.
 - Options A/B, `IN-02` near-to-far equipment: 12-inch hand sink → 36-inch two-compartment sink/right drainboard → 24-inch cocktail station → refrigerator.
 - Option C, `IN-01` near-to-far equipment: refrigerator → Station B → centered 24-inch sink → Station A → hand sink.

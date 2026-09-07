@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Decisions Log
 
-**Revision:** 2.2 — September 7, 2026  
+**Revision:** 2.5 — September 7, 2026
 **Status:** CANONICAL DECISION RECORD  
 **Rule:** A decision becomes authoritative only when recorded here and incorporated into the applicable canonical specification.
 
@@ -23,7 +23,8 @@
 | 2026-09-06 | LOCKED | Use the largest practical opening that preserves trailer support strength; no structural cut before field mapping and approval. |
 | 2026-09-06 | LOCKED | Provide a 14–16-inch-deep customer ledge in operating mode; fold or remove and positively latch it for travel. |
 | 2026-09-06 | LOCKED | Preserve one 24-inch production line and a 32-inch nominal clear aisle; prohibit two full-depth opposing counters. |
-| 2026-09-06 | LOCKED | Convert the front changing/tack area into a separated micro employee break/support area. |
+| 2026-09-06 | SUPERSEDED | Convert the front changing/tack area into a separated micro employee break/support area. |
+| 2026-09-07 | LOCKED | Remove the front partition from Options A, B and C; retain the 24-inch employee break/support nook as an open area visible from the work aisle. |
 | 2026-09-06 | LOCKED | Use only real, listed, off-the-shelf operational equipment; trailer-specific cabinetry and supports may be fabricated. |
 | 2026-09-06 | LOCKED | Retain a separate 12-inch hand sink in every option unless written health-authority approval changes the requirement. |
 | 2026-09-06 | CONDITIONAL | Options A and B use the 36-inch two-compartment sink as the locked concept basis. Procurement/fabrication requires written acceptance of the two-compartment procedure; otherwise redesign the 90-inch line for the required configuration. |
@@ -60,6 +61,9 @@
 | 2026-09-07 | LOCKED | The public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sole authoritative project record. Chat and other stored copies are working material only. Add an image-by-image Render Brief Matrix and Visual QA Register; no candidate image is presentation-approved until it passes the register against the applicable plan/elevations and canonical specifications. |
 | 2026-09-07 | LOCKED | Resolve the customer-side flow-direction conflict by preserving all approved plans, equipment sequences and elevations. From outside at the curb-side window, show **ORDER on the customer’s right** at the front/tongue end and **PICKUP on the customer’s left** at the rear end. The interior curb-wall elevations retain their interior-looking orientation. |
 | 2026-09-07 | LOCKED | Mike approved the complete SVG concept-drawing set unchanged: three plans and four interior elevations for each of Options A, B and C (15 drawings total). Approval is for concept and presentation use, not fabrication; all VERIFY notes remain. Options B and C retain an open opposite lower wall with **no floor cabinet or second counter**, preserving the 32-inch nominal clear aisle. Option C remains conditional on future written health-authority permission. |
+| 2026-09-07 | SUPERSEDED | Prior record selecting exterior-lighting study Option 1, the shielded dome downlight. Mike clarified that the approved fixture was the second study. |
+| 2026-09-07 | LOCKED | Select exterior-lighting study Option 2 as the concept and presentation direction: two matching compact oval caged bulkhead lights in matte charcoal, approximately 5 inches wide × 8 inches tall, with vertically ribbed frosted glass and soft glare-controlled 2700–3000 K illumination. The study controls visual direction only; exact listed exterior-rated product, photometrics, wiring, mounting and structural clearances remain **VERIFY**, with no procurement or fabrication release. |
+| 2026-09-07 | LOCKED | Mike approved `COVER-EX-01-twilight-rear-seating-approved.png` for presentation use. Preserve the accepted trailer design, place loose seating behind the trailer to keep the service-side queue apron clear, and use the later deep-blue twilight setting with the approved warm oval bulkhead lighting. Sign artwork and technical dimensions remain separate verification/layout tasks. |
 
 ## Open and verification-required decisions
 

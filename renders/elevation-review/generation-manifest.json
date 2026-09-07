@@ -1,0 +1,107 @@
+[
+  {
+    "id": "A-PL-01",
+    "approvedSource": "renders/elevation-review/source-svg/A-PL-01-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/A-PL-01-photo-render.png",
+    "type": "photorealistic orthographic top-down plan rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "B-PL-01",
+    "approvedSource": "renders/elevation-review/source-svg/B-PL-01-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/B-PL-01-photo-render.png",
+    "type": "photorealistic orthographic top-down plan rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "A-EL-01",
+    "approvedSource": "renders/elevation-review/source-svg/A-EL-01-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/A-EL-01-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "C-PL-01",
+    "approvedSource": "renders/elevation-review/source-svg/C-PL-01-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/C-PL-01-photo-render.png",
+    "type": "photorealistic orthographic top-down plan rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "A-EL-02",
+    "approvedSource": "renders/elevation-review/source-svg/A-EL-02-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/A-EL-02-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "A-EL-03",
+    "approvedSource": "renders/elevation-review/source-svg/A-EL-03-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/A-EL-03-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "A-EL-04",
+    "approvedSource": "renders/elevation-review/source-svg/A-EL-04-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/A-EL-04-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "B-EL-01",
+    "approvedSource": "renders/elevation-review/source-svg/B-EL-01-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/B-EL-01-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "B-EL-02",
+    "approvedSource": "renders/elevation-review/source-svg/B-EL-02-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/B-EL-02-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "B-EL-03",
+    "approvedSource": "renders/elevation-review/source-svg/B-EL-03-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/B-EL-03-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "B-EL-04",
+    "approvedSource": "renders/elevation-review/source-svg/B-EL-04-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/B-EL-04-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "C-EL-01",
+    "approvedSource": "renders/elevation-review/source-svg/C-EL-01-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/C-EL-01-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "C-EL-02",
+    "approvedSource": "renders/elevation-review/source-svg/C-EL-02-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/C-EL-02-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "C-EL-03",
+    "approvedSource": "renders/elevation-review/source-svg/C-EL-03-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/C-EL-03-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  },
+  {
+    "id": "C-EL-04",
+    "approvedSource": "renders/elevation-review/source-svg/C-EL-04-approved-source.png",
+    "destination": "renders/elevation-review/photo-renders/C-EL-04-photo-render.png",
+    "type": "photorealistic straight-on interior elevation rendering",
+    "constraints": "Use the approved SVG as the sole geometry and equipment authority. Show only the trailer interior; no exterior environment, people, text, labels, logos, or watermark. Preserve left/right orientation, openings, equipment count, module order, and clear floor/egress areas exactly."
+  }
+]
