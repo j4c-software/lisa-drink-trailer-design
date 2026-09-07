@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option A
 
-**Revision:** 1.5 — September 7, 2026  
+**Revision:** 1.6 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES  
 **Name:** Open Window / Opposite-Wall Service Bar
 
@@ -83,6 +83,8 @@ These layouts control all Option A technical graphics and renderings. They incor
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+**View convention:** A1 is viewed from inside the trailer looking toward the curb wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
 
 ### A2 — Street/opposite wall
 
