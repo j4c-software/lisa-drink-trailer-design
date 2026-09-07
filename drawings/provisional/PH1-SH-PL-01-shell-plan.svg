@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Phase 1 Provisional Trailer Shell Plan</title>
+  <desc id="desc">Plan of the provisional Circle J trailer shell showing the 120 by 60 inch exterior body with estimated rounded front corners, 114 by 56 inch interior clear envelope, nominal 48 inch tongue, provisional rear-door opening, and photo-estimated tandem-axle and fender geometry. The front curvature and running-gear proportions follow stock 54738 as visual references only; structural geometry remains unknown.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#68706d"/>
+    </marker>
+    <pattern id="unknown" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#9a4d43" stroke-width="2" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#fffdf8"/>
+  <rect x="36" y="36" width="1528" height="928" rx="8" fill="none" stroke="#2e3232" stroke-width="2"/>
+
+  <text x="78" y="92" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#315b50">PHASE 1 • PROVISIONAL TRAILER SHELL PLAN</text>
+  <text x="78" y="128" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2e3232">REPRESENTATIVE CIRCLE J TWO-HORSE STRAIGHT-LOAD ENVELOPE • PHOTO-ESTIMATED RUNNING GEAR</text>
+  <line x1="78" y1="150" x2="1522" y2="150" stroke="#b56f4c" stroke-width="5"/>
+
+  <!-- Direction labels -->
+  <text x="225" y="226" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#315b50">FRONT / TONGUE</text>
+  <text x="1390" y="185" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#315b50">REAR / DOUBLE DOORS</text>
+  <text x="720" y="215" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#315b50">CURB / CUSTOMER SIDE</text>
+  <text x="720" y="735" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#315b50">STREET / UTILITY SIDE</text>
+
+  <!-- Nominal A-frame and coupler; shape is explicitly provisional -->
+  <circle cx="214" cy="480" r="15" fill="#fffdf8" stroke="#2e3232" stroke-width="6"/>
+  <line x1="228" y1="480" x2="525" y2="300" stroke="#2e3232" stroke-width="11" stroke-linecap="round"/>
+  <line x1="228" y1="480" x2="525" y2="660" stroke="#2e3232" stroke-width="11" stroke-linecap="round"/>
+  <line x1="228" y1="480" x2="500" y2="480" stroke="#68706d" stroke-width="5" stroke-dasharray="13 9"/>
+  <text x="335" y="458" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#68706d">A-FRAME SHAPE</text>
+  <text x="335" y="480" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#9a4d43">ESTIMATED</text>
+
+  <!-- Photo-estimated fender envelopes, approximately 54–120 inches aft of the front body datum and 78 inches overall -->
+  <rect x="889" y="199" width="475" height="65" rx="30" fill="#ded8cd" stroke="#68706d" stroke-width="3"/>
+  <rect x="889" y="696" width="475" height="65" rx="30" fill="#ded8cd" stroke="#68706d" stroke-width="3"/>
+
+  <!-- Exterior and finished interior envelopes: scale 7.2 px/in -->
+  <path d="M 1364 264 H 560 C 527 264 500 291 500 324 V 636 C 500 669 527 696 560 696 H 1364 Z" fill="#f4efe5" stroke="#2e3232" stroke-width="6"/>
+  <path d="M 1343 278 H 580 C 548 278 522 304 522 336 V 624 C 522 656 548 682 580 682 H 1343 Z" fill="#fffdf8" stroke="#315b50" stroke-width="3" stroke-dasharray="12 7"/>
+  <text x="525" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#9a4d43">ROUNDED FRONT CORNERS • RADIUS UNKNOWN</text>
+  <line x1="525" y1="254" x2="532" y2="283" stroke="#9a4d43" stroke-width="2"/>
+
+  <!-- Photo-estimated outer opening envelopes; these are not clear or structural rough openings -->
+  <path d="M 560 264 H 608 M 658 264 H 810" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
+  <text x="690" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">SMALL WINDOWS ≈X 0–15 / 22–43 • PHOTO EST.</text>
+  <path d="M 608 696 H 774" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
+  <text x="691" y="672" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">DOOR FRAME ≈X 15–38 • ≈22&quot; W × 72&quot; H • PHOTO EST.</text>
+
+  <!-- Photo-estimated axle centers; lines stop at the body so unknown internal wheel-well geometry is not implied -->
+  <line x1="990" y1="190" x2="990" y2="264" stroke="#b56f4c" stroke-width="3" stroke-dasharray="9 6"/>
+  <line x1="990" y1="696" x2="990" y2="770" stroke="#b56f4c" stroke-width="3" stroke-dasharray="9 6"/>
+  <line x1="1220" y1="190" x2="1220" y2="264" stroke="#b56f4c" stroke-width="3" stroke-dasharray="9 6"/>
+  <line x1="1220" y1="696" x2="1220" y2="770" stroke="#b56f4c" stroke-width="3" stroke-dasharray="9 6"/>
+  <line x1="990" y1="185" x2="1220" y2="185" stroke="#b56f4c" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="1105" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#b56f4c">≈32&quot; AXLE SPACING • PHOTO EST.</text>
+  <text x="990" y="218" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#68706d">FRONT AXLE ≈68&quot;</text>
+  <text x="1220" y="218" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#68706d">REAR AXLE ≈100&quot;</text>
+  <text x="1125" y="746" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#68706d">FENDER ENVELOPE ≈54–120&quot; • TIRE OD ≈29&quot;</text>
+
+  <!-- Rear door opening: provisional 48-inch clear width in plan -->
+  <line x1="1364" y1="307" x2="1364" y2="653" stroke="#fffdf8" stroke-width="12"/>
+  <line x1="1364" y1="307" x2="1364" y2="653" stroke="#b56f4c" stroke-width="7"/>
+  <line x1="1364" y1="307" x2="1364" y2="480" stroke="#b56f4c" stroke-width="3"/>
+  <line x1="1364" y1="480" x2="1364" y2="653" stroke="#b56f4c" stroke-width="3"/>
+  <circle cx="1364" cy="307" r="5" fill="#b56f4c"/>
+  <circle cx="1364" cy="653" r="5" fill="#b56f4c"/>
+  <path d="M 1372 408 H 1410 M 1372 552 H 1410" fill="none" stroke="#b56f4c" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="1320" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" font-weight="700" fill="#b56f4c">REAR CLEAR: 48&quot; W × 72&quot; H • PROVISIONAL</text>
+  <text x="1320" y="626" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#9a4d43">VISIBLE PORTAL ≈50&quot; W × 78&quot; H • PHOTO EST.</text>
+  <text x="1320" y="647" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#9a4d43">TWO ≈25&quot; LEAVES • OUTWARD SWING</text>
+
+  <!-- Unknown chassis and opening information is deliberately not located -->
+  <rect x="600" y="390" width="650" height="180" rx="10" fill="url(#unknown)" stroke="#9a4d43" stroke-width="2" stroke-dasharray="10 8"/>
+  <text x="925" y="458" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#9a4d43">INTERNAL WHEEL-WELLS / POSTS / CLEAR OPENINGS</text>
+  <text x="925" y="490" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#9a4d43">REMAIN UNKNOWN — NOT ASSUMED</text>
+  <text x="925" y="526" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#68706d">Axle and fender lines are reference-photo estimates only.</text>
+
+  <!-- Reference over-fender width -->
+  <line x1="1490" y1="199" x2="1490" y2="761" stroke="#b56f4c" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="1476" y1="199" x2="1504" y2="199" stroke="#b56f4c" stroke-width="2"/>
+  <line x1="1476" y1="761" x2="1504" y2="761" stroke="#b56f4c" stroke-width="2"/>
+  <text x="1512" y="480" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#b56f4c" transform="rotate(90 1512 480)">≈78&quot; OVER FENDERS • PHOTO EST.</text>
+
+  <!-- Horizontal dimensions -->
+  <line x1="214" y1="790" x2="500" y2="790" stroke="#68706d" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="214" y1="775" x2="214" y2="806" stroke="#68706d" stroke-width="2"/>
+  <line x1="500" y1="775" x2="500" y2="806" stroke="#68706d" stroke-width="2"/>
+  <text x="357" y="778" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#68706d">48&quot; NOMINAL TONGUE</text>
+
+  <line x1="500" y1="790" x2="1364" y2="790" stroke="#68706d" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="500" y1="775" x2="500" y2="806" stroke="#68706d" stroke-width="2"/>
+  <line x1="1364" y1="775" x2="1364" y2="806" stroke="#68706d" stroke-width="2"/>
+  <text x="932" y="778" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#68706d">120&quot; EXTERIOR BODY</text>
+
+  <line x1="214" y1="846" x2="1364" y2="846" stroke="#315b50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="214" y1="831" x2="214" y2="862" stroke="#315b50" stroke-width="2"/>
+  <line x1="1364" y1="831" x2="1364" y2="862" stroke="#315b50" stroke-width="2"/>
+  <text x="789" y="834" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#315b50">168&quot; NOMINAL OVERALL LENGTH</text>
+
+  <!-- Vertical dimensions -->
+  <line x1="1430" y1="264" x2="1430" y2="696" stroke="#68706d" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="1414" y1="264" x2="1446" y2="264" stroke="#68706d" stroke-width="2"/>
+  <line x1="1414" y1="696" x2="1446" y2="696" stroke="#68706d" stroke-width="2"/>
+  <text x="1453" y="486" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#68706d" transform="rotate(90 1453 486)">60&quot; EXTERIOR BODY WIDTH</text>
+
+  <line x1="1275" y1="278" x2="1275" y2="682" stroke="#315b50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="1259" y1="278" x2="1291" y2="278" stroke="#315b50" stroke-width="2"/>
+  <line x1="1259" y1="682" x2="1291" y2="682" stroke="#315b50" stroke-width="2"/>
+  <text x="1298" y="480" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#315b50" transform="rotate(90 1298 480)">56&quot; INTERIOR CLEAR WIDTH</text>
+
+  <!-- Interior length label -->
+  <line x1="522" y1="318" x2="1343" y2="318" stroke="#315b50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="932" y="306" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#315b50">114&quot; INTERIOR CLEAR LENGTH</text>
+
+  <!-- Status and notes -->
+  <line x1="78" y1="890" x2="1522" y2="890" stroke="#2e3232" stroke-width="1"/>
+  <text x="78" y="922" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#9a4d43">DRAFT • GATE 1 PENDING • PURCHASE-SELECTION ENVELOPE ONLY • NOT FOR FABRICATION</text>
+  <text x="1522" y="922" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#68706d">DESIGN ASSUMPTIONS UNTIL DONOR SURVEY</text>
+</svg>

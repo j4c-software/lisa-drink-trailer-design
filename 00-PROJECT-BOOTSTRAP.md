@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Project Bootstrap
 
-**Revision:** 1.6 — September 7, 2026  
+**Revision:** 1.7 — September 7, 2026
 **Status:** REQUIRED ENTRY POINT FOR EVERY NEW CHAT
 
 ## Mandatory bootstrap rule
@@ -15,7 +15,8 @@ Before making recommendations, changing specifications, producing presentation c
 6. For any visual or rendering work, read `07-RENDERING-CONTROLS.md` immediately before the work.
 7. For any specific image, read its locked entry in `08-RENDER-BRIEF-MATRIX.md`.
 8. Before accepting or reusing a generated candidate, check and update `09-VISUAL-QA-REGISTER.md`.
-9. Internally summarize the current locked design state and check for unresolved holds before acting.
+9. For geometry, modeling, drawings or construction-document planning, read `10-PARAMETRIC-MODELING-PLAN.md`.
+10. Internally summarize the current locked design state and check for unresolved holds before acting.
 
 Do not reconstruct a specification from chat history, project memory, a prior summary, a reference image or a rendering when a canonical file exists.
 
@@ -33,7 +34,7 @@ The public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sol
 
 ## Authority order
 
-**01-MASTER-DESIGN-SPEC → applicable OPTION FILE → 02-DECISIONS-LOG → 06-PRESENTATION-SPEC → 07-RENDERING-CONTROLS → 08-RENDER-BRIEF-MATRIX → 09-VISUAL-QA-REGISTER → chat discussion**
+**01-MASTER-DESIGN-SPEC → applicable OPTION FILE → 02-DECISIONS-LOG → 10-PARAMETRIC-MODELING-PLAN → 06-PRESENTATION-SPEC → 07-RENDERING-CONTROLS → 08-RENDER-BRIEF-MATRIX → 09-VISUAL-QA-REGISTER → chat discussion**
 
 - If a chat summary conflicts with a canonical file, the file wins.
 - If a rendering conflicts with a canonical file, the rendering is wrong.
@@ -55,8 +56,9 @@ The public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sol
 | `07-RENDERING-CONTROLS.md` | Non-negotiable controls for future image generation |
 | `08-RENDER-BRIEF-MATRIX.md` | Locked image-by-image purposes, camera, option, state and compliance requirements |
 | `09-VISUAL-QA-REGISTER.md` | Candidate-image approval/rejection history and release status |
+| `10-PARAMETRIC-MODELING-PLAN.md` | Canonical parametric geometry and concept-to-construction workflow |
 
-Only these ten files are design authority. Archived working files, source photographs and prior conceptual images are supporting evidence only.
+Only these eleven files are design authority. Archived working files, source photographs and prior conceptual images are supporting evidence only.
 
 ## Current phase and prohibitions
 

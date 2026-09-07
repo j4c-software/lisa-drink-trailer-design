@@ -5,6 +5,13 @@
 
 This directory contains the three `PL-01` concept plans and twelve `EL-01` through `EL-04` interior elevations required by the presentation specification.
 
+It also contains the provisional Phase 1 shell-definition drawings used for purchase-selection study before a donor trailer is acquired:
+
+- `provisional/PH1-SH-PL-01-shell-plan.svg` — unmodified reference-shell plan with photo-estimated running gear and opening envelopes;
+- `provisional/PH1-SH-EL-01-existing-shell-elevations.svg` — curb, street, front and rear exterior elevations of the unmodified reference shell.
+
+The Phase 1 shell sheets are supporting evidence only. They contain listed reference dimensions, photo estimates and unresolved geometry; they are not approved master-model outputs or fabrication drawings.
+
 The Option files remain the authoritative geometry until Mike approves these vector derivatives. Any conflict is corrected in the drawings; it does not change the Option files.
 
 ## View convention
@@ -30,6 +37,7 @@ Mike's later September 7, 2026 direction supersedes the partition content in the
 ## Controls
 
 - These drawings visualize the approved concept envelope and equipment arithmetic; they are not permit, construction or fabrication drawings.
+- `A-PL-01.svg` was corrected on September 7, 2026 to show the locked 24 × 36-inch minimum roof-hatch proxy in the rear-third aisle; exact product, coordinates, reinforcement and approval remain VERIFY.
 - Dimensions remain concept assumptions until the acquired trailer is measured.
 - Options A and B retain the conditional 36-inch two-compartment sink basis.
 - Every Option C drawing carries the mandatory future-written-health-authority-permission condition.

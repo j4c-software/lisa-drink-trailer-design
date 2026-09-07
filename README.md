@@ -10,6 +10,8 @@ Start with [`00-PROJECT-BOOTSTRAP.md`](00-PROJECT-BOOTSTRAP.md). It defines the 
 - Three authoritative plan views and twelve authoritative interior elevations
 - Locked 24-page US Letter landscape presentation specification
 - Controlled photographic-rendering briefs and visual QA workflow
+- Draft Master Dimensional Parameter Register for Gate 1/Gate 2 review
+- Locked-reference photo survey documenting observable shell and running-gear cues
 - Draft vector concept drawings: [three plans and twelve elevations](drawings/README.md)
 - Concept development only: the donor trailer has not been acquired or measured
 - No fabrication, procurement or permit release

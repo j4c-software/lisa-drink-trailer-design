@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1300" viewBox="0 0 1800 1300" role="img" aria-labelledby="title desc">
+  <title id="title">Phase 1 Existing Reference Shell Exterior Elevations</title>
+  <desc id="desc">Four orthographic exterior elevations of the unmodified representative 1989 Circle J two-horse trailer shell: curb side, street side, front, and rear. Listed dimensions and photo-estimated original openings and running gear are separated. No conversion or fabrication modifications are shown.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#68706d"/>
+    </marker>
+    <pattern id="bars" width="12" height="12" patternUnits="userSpaceOnUse">
+      <line x1="6" y1="0" x2="6" y2="12" stroke="#68706d" stroke-width="2" opacity="0.65"/>
+    </pattern>
+    <style>
+      .t{font-family:Arial,Helvetica,sans-serif;fill:#2e3232}.green{fill:#315b50}.rust{fill:#9a4d43}.orange{fill:#b56f4c}.gray{fill:#68706d}
+      .outline{fill:#f4efe5;stroke:#2e3232;stroke-width:5}.roof{fill:#7f2632;stroke:#2e3232;stroke-width:4}.trim{fill:none;stroke:#b56f4c;stroke-width:5}
+      .window{fill:#c7d6d5;stroke:#2e3232;stroke-width:4}.estimate{fill:none;stroke:#b56f4c;stroke-width:2;stroke-dasharray:8 6}
+      .dim{fill:none;stroke:#68706d;stroke-width:2;marker-start:url(#arrow);marker-end:url(#arrow)}.ext{stroke:#68706d;stroke-width:2}
+      .label{font-size:17px;font-weight:700}.small{font-size:14px}.tiny{font-size:12px}.view{font-size:21px;font-weight:700;fill:#315b50}
+    </style>
+  </defs>
+
+  <rect width="1800" height="1300" fill="#fffdf8"/>
+  <rect x="32" y="32" width="1736" height="1236" rx="8" fill="none" stroke="#2e3232" stroke-width="2"/>
+  <text id="sheet-title" x="72" y="82" class="t green" font-size="34" font-weight="700">PHASE 1 • EXISTING REFERENCE SHELL • FOUR EXTERIOR ELEVATIONS</text>
+  <text x="72" y="119" class="t" font-size="18">REPRESENTATIVE 1989 CIRCLE J TWO-HORSE STRAIGHT-LOAD • AS-OBSERVED / NO FABRICATION MODIFICATIONS</text>
+  <line x1="72" y1="143" x2="1728" y2="143" stroke="#b56f4c" stroke-width="5"/>
+
+  <!-- CURB / PASSENGER SIDE: scale 4.5 px/in, front at x=260, rear at x=800 -->
+  <g id="curb-elevation">
+    <text x="70" y="184" class="t view">01 • CURB / PASSENGER SIDE • FRONT LEFT</text>
+    <path d="M260 230 Q275 204 315 204 H765 Q800 204 800 230 V577 H282 Q260 565 260 535 Z" class="outline"/>
+    <path d="M260 230 Q275 204 315 204 H765 Q800 204 800 230 H260 Z" class="roof"/>
+    <path d="M260 348 H800 M260 405 H800" class="trim"/>
+    <path d="M260 275 Q278 258 327 267 V315 H260 Z" class="window"/>
+    <rect x="359" y="270" width="95" height="45" rx="17" class="window"/>
+    <rect x="593" y="263" width="198" height="70" rx="20" class="window"/>
+    <rect x="593" y="263" width="198" height="70" rx="20" fill="url(#bars)" opacity="0.55"/>
+    <line x1="359" y1="230" x2="359" y2="577" stroke="#68706d" stroke-width="2" opacity="0.45"/>
+    <line x1="454" y1="230" x2="454" y2="577" stroke="#68706d" stroke-width="2" opacity="0.45"/>
+    <line x1="593" y1="230" x2="593" y2="577" stroke="#68706d" stroke-width="2" opacity="0.45"/>
+    <path d="M503 577 V477 Q503 448 532 448 H800 V577" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <circle cx="566" cy="512" r="65" fill="#2e3232"/>
+    <circle cx="566" cy="512" r="31" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <circle cx="710" cy="512" r="65" fill="#2e3232"/>
+    <circle cx="710" cy="512" r="31" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <path d="M260 523 L80 568 M260 552 L80 568" fill="none" stroke="#2e3232" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="73" cy="568" r="11" fill="#fffdf8" stroke="#2e3232" stroke-width="5"/>
+    <line x1="115" y1="548" x2="115" y2="590" stroke="#68706d" stroke-width="7"/>
+    <line x1="98" y1="590" x2="132" y2="590" stroke="#68706d" stroke-width="5"/>
+    <text x="292" y="298" class="t green label" text-anchor="middle">W1</text>
+    <text x="407" y="299" class="t green label" text-anchor="middle">W2</text>
+    <text x="692" y="304" class="t green label" text-anchor="middle">W3</text>
+    <text x="651" y="435" class="t gray tiny" text-anchor="middle">FENDER ≈X 54–120 • AXLES ≈X 68 / 100</text>
+    <line x1="260" y1="614" x2="800" y2="614" class="dim"/>
+    <line x1="260" y1="589" x2="260" y2="625" class="ext"/><line x1="800" y1="589" x2="800" y2="625" class="ext"/>
+    <text x="530" y="607" class="t gray label" text-anchor="middle">120&quot; BODY LENGTH • LISTED</text>
+    <line x1="835" y1="204" x2="835" y2="571" class="dim"/>
+    <line x1="812" y1="204" x2="846" y2="204" class="ext"/><line x1="812" y1="571" x2="846" y2="571" class="ext"/>
+    <text x="858" y="390" class="t gray label" text-anchor="middle" transform="rotate(90 858 390)">81.6&quot; BODY HEIGHT • LISTED</text>
+    <text x="95" y="644" class="t rust small">TONGUE ≈34–40&quot; • W1 ≈15 × 9–10 • W2 ≈21 × 9–10 • W3 ≈44 × 14–16 • PHOTO EST.</text>
+  </g>
+
+  <!-- STREET / DRIVER SIDE -->
+  <g id="street-elevation">
+    <text x="70" y="704" class="t view">02 • STREET / DRIVER SIDE • FRONT LEFT</text>
+    <path d="M260 750 Q275 724 315 724 H765 Q800 724 800 750 V1097 H282 Q260 1085 260 1055 Z" class="outline"/>
+    <path d="M260 750 Q275 724 315 724 H765 Q800 724 800 750 H260 Z" class="roof"/>
+    <path d="M260 868 H800 M260 925 H800" class="trim"/>
+    <rect x="328" y="773" width="104" height="324" rx="3" fill="#e5e0d7" stroke="#2e3232" stroke-width="5"/>
+    <rect x="347" y="790" width="31" height="45" rx="5" class="window"/>
+    <line x1="417" y1="773" x2="417" y2="1097" stroke="#68706d" stroke-width="3"/>
+    <circle cx="410" cy="919" r="5" fill="#2e3232"/>
+    <rect x="449" y="783" width="306" height="112" rx="22" class="window"/>
+    <rect x="449" y="783" width="306" height="112" rx="22" fill="url(#bars)" opacity="0.55"/>
+    <path d="M503 1097 V997 Q503 968 532 968 H800 V1097" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <circle cx="566" cy="1032" r="65" fill="#2e3232"/>
+    <circle cx="566" cy="1032" r="31" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <circle cx="710" cy="1032" r="65" fill="#2e3232"/>
+    <circle cx="710" cy="1032" r="31" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <circle cx="784" cy="900" r="60" fill="#2e3232" stroke="#68706d" stroke-width="4" opacity="0.86"/>
+    <circle cx="784" cy="900" r="28" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <path d="M260 1043 L80 1088 M260 1072 L80 1088" fill="none" stroke="#2e3232" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="73" cy="1088" r="11" fill="#fffdf8" stroke="#2e3232" stroke-width="5"/>
+    <text x="380" y="947" class="t green label" text-anchor="middle">D1</text>
+    <text x="602" y="846" class="t green label" text-anchor="middle">W4</text>
+    <text x="784" y="905" class="t" font-size="11" font-weight="700" text-anchor="middle" fill="#fffdf8">SPARE</text>
+    <line x1="260" y1="1134" x2="800" y2="1134" class="dim"/>
+    <line x1="260" y1="1109" x2="260" y2="1145" class="ext"/><line x1="800" y1="1109" x2="800" y2="1145" class="ext"/>
+    <text x="530" y="1127" class="t gray label" text-anchor="middle">120&quot; BODY LENGTH • LISTED</text>
+    <line x1="835" y1="724" x2="835" y2="1091" class="dim"/>
+    <line x1="812" y1="724" x2="846" y2="724" class="ext"/><line x1="812" y1="1091" x2="846" y2="1091" class="ext"/>
+    <text x="858" y="910" class="t gray label" text-anchor="middle" transform="rotate(90 858 910)">81.6&quot; BODY HEIGHT • LISTED</text>
+    <text x="95" y="1164" class="t rust small">D1 ≈X 15–38 / 22 ±4 W × 72 ±4 H • W4 SIZE/LOCATION PHOTO EST. • CLEAR OPENINGS UNKNOWN</text>
+  </g>
+
+  <!-- FRONT ELEVATION -->
+  <g id="front-elevation">
+    <text x="1050" y="184" class="t view">03 • FRONT / TONGUE END</text>
+    <path d="M1240 244 Q1240 210 1284 202 Q1384 180 1484 202 Q1528 210 1528 244 V602 H1240 Z" class="outline"/>
+    <path d="M1240 244 Q1240 210 1284 202 Q1384 180 1484 202 Q1528 210 1528 244 Z" class="roof"/>
+    <path d="M1240 370 H1528 M1240 433 H1528" class="trim"/>
+    <rect x="1270" y="278" width="96" height="48" rx="19" class="window"/>
+    <rect x="1402" y="278" width="96" height="48" rx="19" class="window"/>
+    <line x1="1384" y1="244" x2="1384" y2="602" stroke="#68706d" stroke-width="2" opacity="0.55"/>
+    <path d="M1330 602 L1384 648 L1438 602" fill="none" stroke="#2e3232" stroke-width="9" stroke-linecap="round"/>
+    <text x="1384" y="349" class="t rust tiny" text-anchor="middle">TWIN FRONT WINDOWS ≈20 × 10 EACH • PHOTO EST.</text>
+    <text x="1384" y="468" class="t gray small" text-anchor="middle">BROAD FRONT FACE</text>
+    <text x="1384" y="490" class="t rust tiny" text-anchor="middle">ROUNDED SIDE TRANSITIONS • RADIUS UNKNOWN</text>
+    <line x1="1240" y1="635" x2="1528" y2="635" class="dim"/>
+    <line x1="1240" y1="610" x2="1240" y2="646" class="ext"/><line x1="1528" y1="610" x2="1528" y2="646" class="ext"/>
+    <text x="1384" y="628" class="t gray label" text-anchor="middle">60&quot; BODY WIDTH • LISTED</text>
+    <line x1="1570" y1="202" x2="1570" y2="594" class="dim"/>
+    <line x1="1547" y1="202" x2="1581" y2="202" class="ext"/><line x1="1547" y1="594" x2="1581" y2="594" class="ext"/>
+    <text x="1593" y="401" class="t gray label" text-anchor="middle" transform="rotate(90 1593 401)">81.6&quot; HEIGHT • LISTED</text>
+  </g>
+
+  <!-- REAR ELEVATION -->
+  <g id="rear-elevation">
+    <text x="1050" y="704" class="t view">04 • REAR / DOUBLE DOORS</text>
+    <path d="M1240 764 Q1240 730 1284 722 Q1384 700 1484 722 Q1528 730 1528 764 V1122 H1240 Z" class="outline"/>
+    <path d="M1240 764 Q1240 730 1284 722 Q1384 700 1484 722 Q1528 730 1528 764 Z" class="roof"/>
+    <path d="M1264 1112 V766 Q1264 748 1284 744 H1484 Q1504 748 1504 766 V1112 Z" fill="#e5e0d7" stroke="#2e3232" stroke-width="5"/>
+    <line x1="1384" y1="744" x2="1384" y2="1112" stroke="#2e3232" stroke-width="5"/>
+    <rect x="1274" y="770" width="100" height="126" fill="url(#bars)" stroke="#68706d" stroke-width="3"/>
+    <rect x="1394" y="770" width="100" height="126" fill="url(#bars)" stroke="#68706d" stroke-width="3"/>
+    <line x1="1264" y1="920" x2="1504" y2="920" class="trim"/>
+    <circle cx="1373" cy="968" r="5" fill="#2e3232"/><circle cx="1395" cy="968" r="5" fill="#2e3232"/>
+    <rect x="1224" y="1043" width="16" height="55" rx="6" fill="#9a4d43"/>
+    <rect x="1528" y="1043" width="16" height="55" rx="6" fill="#9a4d43"/>
+    <path d="M1197 1122 V1065 Q1197 1046 1216 1046 H1240 M1528 1046 H1552 Q1571 1046 1571 1065 V1122" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <circle cx="1558" cy="967" r="58" fill="#2e3232" stroke="#68706d" stroke-width="4" opacity="0.86"/>
+    <circle cx="1558" cy="967" r="27" fill="#ded8cd" stroke="#68706d" stroke-width="4"/>
+    <text x="1384" y="939" class="t rust tiny" text-anchor="middle">VISIBLE PORTAL ≈50 W × 78 H • PHOTO EST.</text>
+    <text x="1384" y="1082" class="t rust tiny" text-anchor="middle">TWO ≈25&quot; LEAVES • OUTBOARD HINGES</text>
+    <text x="1384" y="1103" class="t gray tiny" text-anchor="middle">CLEAR OPENING REMAINS UNKNOWN • USE 48 × 72 PROVISIONALLY</text>
+    <line x1="1240" y1="1155" x2="1528" y2="1155" class="dim"/>
+    <line x1="1240" y1="1130" x2="1240" y2="1166" class="ext"/><line x1="1528" y1="1130" x2="1528" y2="1166" class="ext"/>
+    <text x="1384" y="1148" class="t gray label" text-anchor="middle">60&quot; BODY WIDTH • LISTED</text>
+    <line x1="1197" y1="1190" x2="1571" y2="1190" class="dim"/>
+    <line x1="1197" y1="1168" x2="1197" y2="1201" class="ext"/><line x1="1571" y1="1168" x2="1571" y2="1201" class="ext"/>
+    <text x="1384" y="1183" class="t orange small" font-weight="700" text-anchor="middle">≈78&quot; OVER FENDERS • PHOTO EST.</text>
+    <line x1="1640" y1="722" x2="1640" y2="1114" class="dim"/>
+    <line x1="1617" y1="722" x2="1651" y2="722" class="ext"/><line x1="1617" y1="1114" x2="1651" y2="1114" class="ext"/>
+    <text x="1663" y="921" class="t gray label" text-anchor="middle" transform="rotate(90 1663 921)">81.6&quot; HEIGHT • LISTED</text>
+  </g>
+
+  <line x1="72" y1="1218" x2="1728" y2="1218" stroke="#2e3232" stroke-width="1"/>
+  <text x="72" y="1248" class="t rust small" font-weight="700">DRAFT • GATE 1 PENDING • EXISTING SHELL ONLY • NO FABRICATION MODIFICATIONS • NOT FOR FABRICATION</text>
+  <text x="1728" y="1248" class="t gray small" text-anchor="end">LISTED DIMENSIONS + PHOTO ESTIMATES • VERIFY ON ACQUIRED TRAILER</text>
+</svg>

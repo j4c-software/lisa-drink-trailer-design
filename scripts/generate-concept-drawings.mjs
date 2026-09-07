@@ -93,9 +93,9 @@ function plan(option) {
     b+=rect(xService,y+D-24*uy,service,24*uy,'none',C.copper,3);
     b+=txt(xService+service/2,y+D-24*uy-14,'STREET / OPPOSITE-WALL 90" EQUIPMENT LINE',14,'middle',700,C.green);
     b+=txt(xService+45*u,y+D-24*uy-34,'FORMER SIDE DOOR: ENGINEERED PERMANENT INFILL',12,'middle',700,C.red);
-    b+=rect(xService+60*u,y+30,24*u,18*uy,C.paper,C.red,2,'stroke-dasharray="8 5"');
-    b+=txt(xService+72*u,y+82,'ROOF HATCH',12,'middle',700,C.red);
-    b+=txt(xService+72*u,y+102,'VERIFY',11,'middle',700,C.red);
+    b+=rect(xService+60*u,y+30,24*u,36*uy,C.paper,C.red,2,'stroke-dasharray="8 5"');
+    b+=txt(xService+72*u,y+82,'24 × 36" MIN ROOF HATCH',11,'middle',700,C.red);
+    b+=txt(xService+72*u,y+102,'POSITION / PRODUCT VERIFY',10,'middle',700,C.red);
   } else {
     b+=txt(openX+openW/2,y-11,'60" MAX SERVICE OPENING + 14–16" LEDGE',13,'middle',700,C.white);
     b+=moduleBlocks(xService,y,u,data,24*uy);

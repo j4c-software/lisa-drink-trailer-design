@@ -67,9 +67,9 @@
   <!-- Aisle and conditional roof escape -->
   <text x="790" y="432" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#2E3232">32&quot; NOMINAL CLEAR AISLE</text>
   <text x="790" y="453" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="middle" fill="#8B908D">TRAVEL CASES ONLY WHILE TOWING</text>
-  <rect x="385" y="395" width="183" height="66" fill="#FFFDF8" stroke="#9A4D43" stroke-width="2" stroke-dasharray="8 5"/>
-  <text x="477" y="422" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#9A4D43">ROOF ESCAPE HATCH</text>
-  <text x="477" y="441" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" font-weight="700" fill="#9A4D43">FORWARD LOCATION • VERIFY</text>
+  <rect x="821" y="395" width="183" height="66" fill="#FFFDF8" stroke="#9A4D43" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="913" y="422" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#9A4D43">24 × 36&quot; MIN ROOF ESCAPE HATCH</text>
+  <text x="913" y="441" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" font-weight="700" fill="#9A4D43">REAR-THIRD POSITION / PRODUCT • VERIFY</text>
 
   <!-- Trailer right / photographed large-window bay -->
   <line x1="478" y1="575" x2="936" y2="575" stroke="#B56F4C" stroke-width="9"/>
