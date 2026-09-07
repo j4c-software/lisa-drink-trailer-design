@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Decisions Log
 
-**Revision:** 2.0 — September 7, 2026  
+**Revision:** 2.1 — September 7, 2026  
 **Status:** CANONICAL DECISION RECORD  
 **Rule:** A decision becomes authoritative only when recorded here and incorporated into the applicable canonical specification.
 
@@ -58,6 +58,7 @@
 | 2026-09-07 | LOCKED | Mike explicitly released the project-wide rendering hold. Proceed with authorized presentation image production under `07-RENDERING-CONTROLS.md`; Option C retains its mandatory future-permission statement. |
 | 2026-09-07 | LOCKED | Option A assumes no usable street-side door. Permanently infill any existing horse/escape door through engineered construction, use the rear double doors as staff entrance/primary exit and reserve a standard listed 24 × 36-inch minimum roof escape hatch over the rear-third aisle as the second egress, subject to HCD, structural and fire/life-safety approval. |
 | 2026-09-07 | LOCKED | The public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sole authoritative project record. Chat and other stored copies are working material only. Add an image-by-image Render Brief Matrix and Visual QA Register; no candidate image is presentation-approved until it passes the register against the applicable plan/elevations and canonical specifications. |
+| 2026-09-07 | LOCKED | Resolve the customer-side flow-direction conflict by preserving all approved plans, equipment sequences and elevations. From outside at the curb-side window, show **ORDER on the customer’s right** at the front/tongue end and **PICKUP on the customer’s left** at the rear end. The interior curb-wall elevations retain their interior-looking orientation. |
 
 ## Open and verification-required decisions
 
@@ -74,7 +75,6 @@
 | 2026-09-06 | OPEN | Resolve accessibility dimensions against actual deployed grade and agency requirements. |
 | 2026-09-06 | OPEN | Establish the exact allowable depth and structural attachment of Options B and C’s shallow back-bars while preserving the locked aisle and egress. |
 | 2026-09-06 | OPEN | Verify undercounter fit for the water-service bay, separated chemical locker and staff waste/recycling/broken-glass containers in each option; Option C is the most constrained. |
-| 2026-09-07 | OPEN | Resolve the customer-side flow-direction conflict before producing `A/B/C-EX-02`: the approved customer-facing instruction says order-left/pickup-right, while the approved physical workflow places order/POS at the front/tongue end and pickup at the rear. On the curb/passenger side, the trailer front appears on the customer’s right. Decide whether to preserve customer-left/right or preserve front-order/rear-pickup. |
 
 ## Superseded rules
 
@@ -86,3 +86,4 @@
 | 2026-09-07 | SUPERSEDED | Project-wide rendering stop recorded September 6, 2026; replaced by the controlled release above. Asset-specific blocks and regulatory conditions remain active. |
 | 2026-09-07 | SUPERSEDED | Prior requirement to retain a street-side staff/escape door in Option A and the resulting door-versus-equipment-line feasibility hold. |
 | 2026-09-07 | SUPERSEDED | Prior statement that eight files govern across chats; the authoritative GitHub set now contains ten governing files, including the Render Brief Matrix and Visual QA Register. |
+| 2026-09-07 | SUPERSEDED | Prior customer-facing order-left/pickup-right instruction; replaced by order-right/pickup-left to preserve the approved physical front/rear workflow and elevations. |
