@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option B
 
-**Revision:** 1.4 — September 7, 2026  
+**Revision:** 1.5 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES  
 **Name:** Single-Bartender Window Bar — Linear Gallery
 
@@ -98,6 +98,8 @@ These layouts control all Option B technical graphics and renderings.
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+**View convention:** B1 is viewed from inside the trailer looking toward the curb wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
 
 ### B2 — Street-side Linear Gallery
 
