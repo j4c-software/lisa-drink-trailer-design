@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Rendering Controls
 
-**Revision:** 1.9 — September 7, 2026  
+**Revision:** 2.0 — September 7, 2026  
 **Status:** LOCKED CONTROLS; CONTROLLED RENDERING AUTHORIZED WITH ASSET-SPECIFIC HOLDS
 
 ## Release gate
@@ -126,7 +126,7 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 | Option A interior perspectives | 2 (`IN-01`, `IN-02`) | **AUTHORIZED; show continuous infill, rear staff entrance and reserved roof escape hatch** |
 | Option B exterior/customer/interior/detail images | 7 | **AUTHORIZED; proxy staff-door position remains VERIFY** |
 | Option C exterior/customer/interior/detail images | 7 | **AUTHORIZED with required conditional labeling; proxy staff-door position remains VERIFY** |
-| Plans and four elevations per option | 15 precision graphics: three plans plus twelve elevations | **READY FOR TECHNICAL GRAPHIC PRODUCTION; not image generation** |
+| Plans and four elevations per option | 15 precision graphics: three plans plus twelve elevations | **DRAFT VECTOR SET PRODUCED; awaiting Mike review; not image generation** |
 
 Page 22 may reuse the approved same-angle option images and plans specifically for direct comparison. Page 23 uses the selected option's approved view only after the recommendation is set.
 
