@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Rendering Controls
 
-**Revision:** 1.7 — September 7, 2026  
+**Revision:** 1.8 — September 7, 2026  
 **Status:** LOCKED CONTROLS; CONTROLLED RENDERING AUTHORIZED WITH ASSET-SPECIFIC HOLDS
 
 ## Release gate
@@ -68,7 +68,7 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 - One controlled softly illuminated bottle-display feature
 - Enclosed or positively retained glass storage
 - Front top-hung sliding partition to the 24-inch employee break/support area
-- Rear double doors preserved as clear secondary egress
+- Rear double doors preserved as clear egress: primary staff entry/exit for Option A and secondary egress for Options B/C
 - High dry electrical panel at the operational face of the front partition
 - No pendant lights, chandelier, rotating fan, hanging stemware, loose decorative bottles, residential cabinetry or hidden sanitation equipment
 
@@ -124,8 +124,8 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 | Common cover exterior | 1 | **AUTHORIZED** |
 | Option A exterior/customer/detail images | 4 (`EX-01`, `EX-02`, `DT-01`, `DT-02`) | **AUTHORIZED; street-side door is absent or finish-matched infill** |
 | Option A interior perspectives | 2 (`IN-01`, `IN-02`) | **AUTHORIZED; show continuous infill, rear staff entrance and reserved roof escape hatch** |
-| Option B exterior/customer/interior/detail images | 6 | **AUTHORIZED; proxy staff-door position remains VERIFY** |
-| Option C exterior/customer/interior/detail images | 6 | **AUTHORIZED with required conditional labeling; proxy staff-door position remains VERIFY** |
+| Option B exterior/customer/interior/detail images | 7 | **AUTHORIZED except `EX-02` flow-direction hold; proxy staff-door position remains VERIFY** |
+| Option C exterior/customer/interior/detail images | 7 | **AUTHORIZED except `EX-02` flow-direction hold; required conditional labeling; proxy staff-door position remains VERIFY** |
 | Plans and four elevations per option | 15 precision graphics: three plans plus twelve elevations | **READY FOR TECHNICAL GRAPHIC PRODUCTION; not image generation** |
 
 Page 22 may reuse the approved same-angle option images and plans specifically for direct comparison. Page 23 uses the selected option's approved view only after the recommendation is set.
@@ -227,7 +227,7 @@ If an approved design cannot be rendered without violating a control, stop and r
 - Use one 60 × 30-inch maximum service hatch with nominal 15-inch solid side piers.
 - Show the 14–16-inch operating customer ledge and its travel logic where relevant.
 - Use the catalog forms and dimensions named in the canonical equipment basis or a documented equal approved in the files.
-- Option A: equipment on the rear/opposite wall; six-inch outboard storage below the window.
+- Option A: equipment on the street/opposite longitudinal wall; six-inch outboard storage below the window. The rear wall is the double-door wall and never contains the 90-inch equipment line.
 - Option B: equipment below the window; an asymmetrical, continuous **Linear Gallery** opposite, following the single-bartender workflow with one horizontal warm-light datum, one working-bottle display, adjacent enclosed glass storage and a lightweight service rail. No floor cabinet or aisle reduction.
 - Option C: two stations around the centered conditional sink; a symmetrical **Twin-Wing Backbar** opposite, with matched enclosed-glass wings, split station-specific rails, one central reserve-bottle display and a stronger vertical center. No floor cabinet or aisle reduction.
 - Options A and B may show their 36-inch two-compartment concept sink, but captions may not imply that the configuration is permit-approved. Option C retains its conspicuous future-permission statement.
@@ -270,6 +270,16 @@ If an approved design cannot be rendered without violating a control, stop and r
 - Reuse the same view, lighting condition, surroundings, scale and crop across A, B and C.
 - Differences visible between options must come from the applicable option file, not prompt variation.
 - Do not use a more flattering environment, lighting or composition for the recommended option.
+
+## Fixed interior camera handedness and equipment reading
+
+- `IN-01`, rear looking toward the tongue/front: curb/service wall is image-right; street/opposite wall is image-left. Near-to-far equipment order is the reverse of the physical front-to-rear schedule.
+- `IN-02`, front partition looking toward the rear doors: curb/service wall is image-left; street/opposite wall is image-right. Near-to-far equipment order matches the physical front-to-rear schedule.
+- Options A/B, `IN-01` near-to-far equipment: refrigerator → 24-inch cocktail station → 36-inch two-compartment sink/right drainboard → 12-inch hand sink.
+- Options A/B, `IN-02` near-to-far equipment: 12-inch hand sink → 36-inch two-compartment sink/right drainboard → 24-inch cocktail station → refrigerator.
+- Option C, `IN-01` near-to-far equipment: refrigerator → Station B → centered 24-inch sink → Station A → hand sink.
+- Option C, `IN-02` near-to-far equipment: hand sink → Station A → centered 24-inch sink → Station B → refrigerator.
+- Never mirror a candidate to repair an order/pickup label; mirroring reverses the approved trailer handedness and equipment geometry.
 
 ## Required review after every rendering
 
