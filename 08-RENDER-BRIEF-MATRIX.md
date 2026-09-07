@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Render Brief Matrix
 
-**Revision:** 1.1 — September 7, 2026  
+**Revision:** 1.2 — September 7, 2026  
 **Status:** CANONICAL IMAGE-BY-IMAGE CONTROL
 
 This matrix preserves the approved concept for every photographic rendering. It does not replace the Master, Option, Presentation or Rendering-Control files. Each image brief is assembled from all of them, with the applicable authoritative plan/elevations in the Option file controlling geometry.
@@ -34,7 +34,7 @@ Any conflict stops production. The renderer may not solve a conflict by inventin
 |---|---|---|---|---|---|
 | `COVER-EX-01` | Page 1 cover | Front-curb 3/4, 35 mm equivalent, 5 ft 2 in eye height, early evening, operating | Common vintage Circle J form; ivory/copper-painted exterior; warm hatch glow; seating and accessible apron; interior intentionally non-option-specific | Common exterior controls | READY FOR CANDIDATE |
 | `A-EX-01` | Page 5 | Same front-curb 3/4 and setting as B/C; operating | Open window wall, ledge and restrained branding; Option A equipment must not appear below window | A1 | READY FOR CANDIDATE |
-| `A-EX-02` | Page 6 | Nearly square to service opening, 35–40 mm; operating | One bartender visible beyond open window; nearby seating and clear accessible transaction area. Do not generate until order/pickup direction is resolved. | A1 and A2 | **BLOCKED — FLOW-DIRECTION DECISION** |
+| `A-EX-02` | Page 6 | Nearly square to service opening, 35–40 mm; operating | One bartender visible beyond open window; customer-facing order-right, interaction center and pickup-left; nearby seating and clear accessible transaction area | A1 and A2 | READY FOR CANDIDATE |
 | `A-IN-01` | Page 4 | Centered rear-to-front, 22–24 mm, 5 ft eye height; operating | Curb/open window wall image-right; full equipment line image-left on street wall; near-to-far refrigerator → ice → sink/drainboard → hand sink; front partition and roof escape hatch visible | A1, A2, A3 | READY FOR CANDIDATE |
 | `A-IN-02` | Page 8 | Centered front-to-rear with matched lens/exposure; operating | Curb/open window wall image-left; street-wall line image-right; near-to-far hand sink → sink/drainboard → ice → refrigerator; no side door; rear staff exit clear | A2 and A4 | READY FOR CANDIDATE |
 | `A-DT-01` | Page 5 detail | Close exterior hatch/ledge 3/4; operating | Hatch restraint, 14–16-in ledge, drip control, warm underside light, six-inch outboard storage | A1 | READY FOR CANDIDATE |
@@ -45,7 +45,7 @@ Any conflict stops production. The renderer may not solve a conflict by inventin
 | ID | Page/use | Camera and state | Concept that must read | Governing elevations | Status |
 |---|---|---|---|---|---|
 | `B-EX-01` | Page 11 | Identical front-curb 3/4 to A/C; operating | Standard bar relationship with under-window line visible through hatch; common exterior unchanged | B1 | READY FOR CANDIDATE |
-| `B-EX-02` | Page 12 | Identical near-square customer view; operating | Exactly one bartender and uncrowded customer setting. Do not generate until order/pickup direction is resolved. | B1/B2 | **BLOCKED — FLOW-DIRECTION DECISION** |
+| `B-EX-02` | Page 12 | Identical near-square customer view; operating | Exactly one bartender; customer-facing order-right, production-center and pickup-left; uncrowded customer setting | B1/B2 | READY FOR CANDIDATE |
 | `B-EX-03` | Reference/utility | Rear-street 3/4; operating | Proxy staff door marked later VERIFY; divided utilities, tongue box and stabilizers; no customer-side utilities | B2/B4 | READY FOR CANDIDATE |
 | `B-IN-01` | Page 10 | Centered rear-to-front, matched 22–24 mm; operating | Under-window curb line image-right, near-to-far refrigerator → ice → sink/drainboard → hand sink; Linear Gallery image-left; 32-in aisle; one bartender | B1/B2/B3 | READY FOR CANDIDATE |
 | `B-IN-02` | Page 14 | Centered front-to-rear, matched camera; operating | Under-window curb line image-left, near-to-far hand sink → sink/drainboard → ice → refrigerator; Linear Gallery image-right; rear egress clear | B1/B2/B4 | READY FOR CANDIDATE |
@@ -59,7 +59,7 @@ Every Option C presentation use receives **FUTURE WRITTEN HEALTH-AUTHORITY PERMI
 | ID | Page/use | Camera and state | Concept that must read | Governing elevations | Status |
 |---|---|---|---|---|---|
 | `C-EX-01` | Page 17 | Identical front-curb 3/4 to A/B; operating | Same welcoming exterior; two-person service energy may read through hatch without exterior redesign | C1 | READY FOR CANDIDATE |
-| `C-EX-02` | Page 18 | Identical near-square customer view; operating | Exactly two bartenders in separate stations; exterior runner route and accessible apron clear. Do not generate until order/pickup direction is resolved. | C1/C2 | **BLOCKED — FLOW-DIRECTION DECISION** |
+| `C-EX-02` | Page 18 | Identical near-square customer view; operating | Exactly two bartenders in separate stations; customer-facing order-right/pickup-left; exterior runner route and accessible apron clear | C1/C2 | READY FOR CANDIDATE |
 | `C-EX-03` | Reference/utility | Rear-street 3/4; operating | Proxy staff door later labeled VERIFY; divided utilities, tongue box and stabilizers | C2/C4 | READY FOR CANDIDATE |
 | `C-IN-01` | Page 16 | Centered rear-to-front, matched 22–24 mm; operating | Curb line image-right, near-to-far refrigerator → Station B → centered sink → Station A → hand sink; Twin-Wing image-left; exactly two bartenders | C1/C2/C3 | READY FOR CANDIDATE |
 | `C-IN-02` | Page 20 | Centered front-to-rear, matched camera; operating | Curb line image-left, near-to-far hand sink → Station A → centered sink → Station B → refrigerator; Twin-Wing image-right; rear path clear | C1/C2/C4 | READY FOR CANDIDATE |
