@@ -2,7 +2,7 @@
 
 **Document role:** Authoritative shared design specification for every Lisa Drink Trailer workstream  
 **Status:** APPROVED CONCEPT BASIS — PRE-ACQUISITION / PRE-MEASUREMENT  
-**Revision:** 3.8 — September 7, 2026  
+**Revision:** 3.9 — September 7, 2026  
 **Selected platform:** Mid-1980s Circle J two-horse, straight-load, bumper-pull trailer  
 **Geographic basis:** California, with San Francisco operation assumed until changed  
 
@@ -128,7 +128,7 @@ Exterior concepts shall be shown in a realistic operating setting rather than ag
 
 ### Service and customer flow
 
-- Organize the single wide service opening with **order/POS at the left, bartender interaction/preparation at center and finished-drink pickup at the right**, viewed from the customer side.
+- Organize the single wide service opening with **order/POS at the customer’s right, bartender interaction/preparation at center and finished-drink pickup at the customer’s left**. This preserves the approved physical front/tongue-to-rear workflow and all approved elevations.
 - Use small removable `ORDER` and `PICKUP` identifiers rather than additional openings or permanent projecting signs.
 - Position a high-contrast removable menu so approaching guests can read it before reaching the transaction point and without blocking the active customer.
 - Keep customer waste, cup return and water away from both the order and pickup ends; use a separate portable service point.
@@ -237,7 +237,7 @@ These choices change the health classification, equipment, tanks, power, weight 
 | Throughput | 100 guests, 250 beverages, four hours; single 35–45/hr sustained; two 60–75/hr sustained | LOCKED | Short peaks: single 50–60/hr; two 80–90/hr |
 | Operating locations | Public street; private property; catered events; indoor convention/event halls; multiple counties | VERIFY |  |
 | Service side | Curb/passenger side | LOCKED | Confirm deployed venue geometry without changing the service side |
-| Customer interface | One wide service window; order-left/pickup-right; 14–16-in operating ledge | LOCKED | Accessible transaction provision required |
+| Customer interface | One wide service window; customer-facing order-right/pickup-left; 14–16-in operating ledge | LOCKED | Accessible transaction provision required |
 | Menu temperature control | Ambient and refrigerated cocktail ingredients; no hot holding | LOCKED | Blender is optional; capacity may not depend on frozen drinks |
 | Ice model | Purchased food-grade ice loaded into insulated wells with protected replenishment | LOCKED | No onboard ice maker in base program |
 | Water model | Onboard only; permitted temporary fill; venue connection | VERIFY |  |
