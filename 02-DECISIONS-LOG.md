@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Decisions Log
 
-**Revision:** 1.9 — September 7, 2026  
+**Revision:** 2.0 — September 7, 2026  
 **Status:** CANONICAL DECISION RECORD  
 **Rule:** A decision becomes authoritative only when recorded here and incorporated into the applicable canonical specification.
 
@@ -74,6 +74,7 @@
 | 2026-09-06 | OPEN | Resolve accessibility dimensions against actual deployed grade and agency requirements. |
 | 2026-09-06 | OPEN | Establish the exact allowable depth and structural attachment of Options B and C’s shallow back-bars while preserving the locked aisle and egress. |
 | 2026-09-06 | OPEN | Verify undercounter fit for the water-service bay, separated chemical locker and staff waste/recycling/broken-glass containers in each option; Option C is the most constrained. |
+| 2026-09-07 | OPEN | Resolve the customer-side flow-direction conflict before producing `A/B/C-EX-02`: the approved customer-facing instruction says order-left/pickup-right, while the approved physical workflow places order/POS at the front/tongue end and pickup at the rear. On the curb/passenger side, the trailer front appears on the customer’s right. Decide whether to preserve customer-left/right or preserve front-order/rear-pickup. |
 
 ## Superseded rules
 
@@ -84,3 +85,4 @@
 | 2026-09-06 | SUPERSEDED | Prior cross-chat framework in which multiple overlapping working files could be treated as authority. |
 | 2026-09-07 | SUPERSEDED | Project-wide rendering stop recorded September 6, 2026; replaced by the controlled release above. Asset-specific blocks and regulatory conditions remain active. |
 | 2026-09-07 | SUPERSEDED | Prior requirement to retain a street-side staff/escape door in Option A and the resulting door-versus-equipment-line feasibility hold. |
+| 2026-09-07 | SUPERSEDED | Prior statement that eight files govern across chats; the authoritative GitHub set now contains ten governing files, including the Render Brief Matrix and Visual QA Register. |
