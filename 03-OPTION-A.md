@@ -1,8 +1,8 @@
 # Lisa Drink Trailer — Option A
 
-**Revision:** 1.4 — September 7, 2026  
+**Revision:** 1.5 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES  
-**Name:** Open Window / Rear-Wall Service Bar
+**Name:** Open Window / Opposite-Wall Service Bar
 
 This file states only Option A differences. All requirements in `01-MASTER-DESIGN-SPEC.md` remain in force.
 
@@ -18,7 +18,7 @@ Direction for every plan, elevation and rendering: **front = tongue**, **rear = 
 - Limit the six-inch cabinets to lightweight dry goods, menus, napkins and positively retained small tools.
 - Place the POS on a protected swing/deployable mount at the forward/order end of the window.
 - Use the refrigerator top at the rear as the garnish/blender/finishing and pickup transition.
-- Locate the restrained illuminated bottle display and enclosed clean-glass storage above the rear-wall line, separated from exposed dirty sink activity.
+- Locate the restrained illuminated bottle display and enclosed clean-glass storage above the street/opposite-wall line, separated from exposed dirty sink activity.
 
 ## Operating intent
 
@@ -40,7 +40,7 @@ Direction for every plan, elevation and rendering: **front = tongue**, **rear = 
 
 ## Travel state
 
-- The rear-wall equipment line remains installed.
+- The street/opposite-wall equipment line remains installed.
 - Window-side ledge folds/removes; outboard cabinet doors latch.
 - Open shelves and counters are empty.
 - Bottles, glass racks, blender, tools, POS and display objects travel in labeled low docks or approved support-vehicle cases.
