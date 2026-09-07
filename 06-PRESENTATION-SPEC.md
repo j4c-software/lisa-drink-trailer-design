@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Presentation Specification
 
-**Revision:** 2.0 — September 7, 2026  
+**Revision:** 2.1 — September 7, 2026  
 **Status:** LOCKED PRESENTATION PLAN; CONTROLLED VISUAL PRODUCTION AUTHORIZED  
 **Format:** US Letter, 8.5 × 11 inches
 
@@ -101,7 +101,7 @@ Before releasing rendering, confirm:
 2. Letter-landscape orientation and graphic system are approved. **COMPLETE**
 3. The recommendation criteria and whether Page 23 names a preferred option are approved.
 4. Every required view has one locked camera definition and option/state assignment. **COMPLETE**
-5. All plans/elevations reconcile with current equipment arithmetic, doors, utilities and aisle controls.
+5. All plans/elevations reconcile with current equipment arithmetic, doors, utilities and aisle controls. **DRAFT VECTOR SET COMPLETE — AWAITING MIKE REVIEW**
 6. Source/reference rights are known for every externally obtained photograph.
 7. The rendering hold is explicitly released by Mike. **COMPLETE — September 7, 2026; asset-specific blocks remain**
 
