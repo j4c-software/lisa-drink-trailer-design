@@ -20,7 +20,7 @@ const line = (x1,y1,x2,y2,stroke=C.charcoal,sw=2,extra='') =>
 const poly = (pts,fill='none',stroke=C.charcoal,sw=2,extra='') =>
   `<polyline points="${pts}" fill="${fill}" stroke="${stroke}" stroke-width="${sw}" ${extra}/>`;
 
-function shell(title, subtitle, body, note='CONCEPT DESIGN • NOT FOR FABRICATION • VERIFY AGAINST ACQUIRED TRAILER') {
+function shell(title, subtitle, body, note='APPROVED CONCEPT • NOT FOR FABRICATION • VERIFY AGAINST ACQUIRED TRAILER') {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
   <title id="title">${esc(title)}</title><desc id="desc">${esc(subtitle)}</desc>
   <rect width="1200" height="800" fill="${C.paper}"/>
@@ -115,7 +115,7 @@ function plan(option) {
   b+=txt(xService+45*u,y+D+58,'UNDERFLOOR TANK / AXLE ZONE — VERIFY',12,'middle',700,C.blue);
   b+=dimH(x,x+front,y+D+92,'24"'); b+=dimH(x+front,x+L,y+D+92,'90"');
   b+=dimH(x,x+L,y+D+120,'114" INTERIOR CLEAR LENGTH');
-  const planNote=option==='C'?'CONDITIONAL • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':undefined;
+  const planNote=option==='C'?'APPROVED CONDITIONAL CONCEPT • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':undefined;
   return shell(`OPTION ${option} • PL-01 • CONCEPT PLAN`,optionNames[option],b,planNote);
 }
 
@@ -157,7 +157,7 @@ function curbElevation(option) {
     b+=dimH(xs,xs+service,yFloor+40,'90" SERVICE BAY');
     b+=dimH(openX,openX+openW,winTop-22,'60"');
     return b;
-  },option==='C'?'CONDITIONAL • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':'CONCEPT DESIGN • TWO-COMPARTMENT SINK BASIS REQUIRES WRITTEN ACCEPTANCE • NOT FOR FABRICATION');
+  },option==='C'?'APPROVED CONDITIONAL CONCEPT • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':'APPROVED CONCEPT • TWO-COMPARTMENT SINK BASIS REQUIRES WRITTEN ACCEPTANCE • NOT FOR FABRICATION');
 }
 
 function streetElevation(option) {
@@ -199,7 +199,7 @@ function streetElevation(option) {
     b+=line(x,yFloor,x+g.w,yFloor,C.charcoal,4);
     b+=dimH(xs,xs+service,yFloor+40,'90" SERVICE ZONE');
     return b;
-  },option==='C'?'CONDITIONAL • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':'CONCEPT DESIGN • NOT FOR FABRICATION • VERIFY AGAINST ACQUIRED TRAILER');
+  },option==='C'?'APPROVED CONDITIONAL CONCEPT • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':'APPROVED CONCEPT • NOT FOR FABRICATION • VERIFY AGAINST ACQUIRED TRAILER');
 }
 
 function endElevation(option,frontView) {
@@ -229,7 +229,7 @@ function endElevation(option,frontView) {
     if(option==='A') b+=txt(x+w/2,yFloor+40,'SECOND EGRESS: RESERVED 24 × 36" MIN ROOF HATCH — VERIFY / APPROVAL REQUIRED',12,'middle',700,C.red);
   }
   b+=dimH(x,x+w,yFloor+78,'56" INTERIOR CLEAR WIDTH');
-  const note=option==='C'?'CONDITIONAL • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':'CONCEPT DESIGN • NOT FOR FABRICATION • VERIFY AGAINST ACQUIRED TRAILER';
+  const note=option==='C'?'APPROVED CONDITIONAL CONCEPT • FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED • NOT FOR FABRICATION':'APPROVED CONCEPT • NOT FOR FABRICATION • VERIFY AGAINST ACQUIRED TRAILER';
   return shell(title,subtitle,b,note);
 }
 

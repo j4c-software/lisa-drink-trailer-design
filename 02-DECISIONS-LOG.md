@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Decisions Log
 
-**Revision:** 2.1 — September 7, 2026  
+**Revision:** 2.2 — September 7, 2026  
 **Status:** CANONICAL DECISION RECORD  
 **Rule:** A decision becomes authoritative only when recorded here and incorporated into the applicable canonical specification.
 
@@ -59,6 +59,7 @@
 | 2026-09-07 | LOCKED | Option A assumes no usable street-side door. Permanently infill any existing horse/escape door through engineered construction, use the rear double doors as staff entrance/primary exit and reserve a standard listed 24 × 36-inch minimum roof escape hatch over the rear-third aisle as the second egress, subject to HCD, structural and fire/life-safety approval. |
 | 2026-09-07 | LOCKED | The public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sole authoritative project record. Chat and other stored copies are working material only. Add an image-by-image Render Brief Matrix and Visual QA Register; no candidate image is presentation-approved until it passes the register against the applicable plan/elevations and canonical specifications. |
 | 2026-09-07 | LOCKED | Resolve the customer-side flow-direction conflict by preserving all approved plans, equipment sequences and elevations. From outside at the curb-side window, show **ORDER on the customer’s right** at the front/tongue end and **PICKUP on the customer’s left** at the rear end. The interior curb-wall elevations retain their interior-looking orientation. |
+| 2026-09-07 | LOCKED | Mike approved the complete SVG concept-drawing set unchanged: three plans and four interior elevations for each of Options A, B and C (15 drawings total). Approval is for concept and presentation use, not fabrication; all VERIFY notes remain. Options B and C retain an open opposite lower wall with **no floor cabinet or second counter**, preserving the 32-inch nominal clear aisle. Option C remains conditional on future written health-authority permission. |
 
 ## Open and verification-required decisions
 

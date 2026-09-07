@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option C
 
-**Revision:** 1.5 — September 7, 2026  
+**Revision:** 1.6 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES — CONDITIONAL  
 **Name:** Two-Bartender Window Bar — Twin-Wing Backbar
 
@@ -74,6 +74,8 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 ## Authoritative plan and interior elevations
 
 These layouts control all Option C technical graphics and renderings. Every derivative must retain the mandatory health-authority condition.
+
+**Drawing approval:** All five Option C SVG concept drawings (`C-PL-01` and `C-EL-01` through `C-EL-04`) were approved unchanged by Mike on September 7, 2026. Retain the open opposite lower wall; no floor cabinet or second counter. Approval is for conditional concept and presentation use, not fabrication, and does not remove Option C's mandatory health-authority condition.
 
 ### Plan view
 

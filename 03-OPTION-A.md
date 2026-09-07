@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option A
 
-**Revision:** 1.6 — September 7, 2026  
+**Revision:** 1.7 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES  
 **Name:** Open Window / Opposite-Wall Service Bar
 
@@ -46,6 +46,8 @@ Direction for every plan, elevation and rendering: **front = tongue**, **rear = 
 - Bottles, glass racks, blender, tools, POS and display objects travel in labeled low docks or approved support-vehicle cases.
 
 ## Authoritative plan and interior elevations
+
+**Drawing approval:** All five Option A SVG concept drawings (`A-PL-01` and `A-EL-01` through `A-EL-04`) were approved unchanged by Mike on September 7, 2026. Approval is for concept and presentation use, not fabrication; all verification and agency-approval notes remain.
 
 These layouts control all Option A technical graphics and renderings. They incorporate the later approved decision that Option A has no usable street-side door: any donor-trailer door in the equipment-line area is permanently infilled. The rear double doors are the primary staff entrance/exit, and the reserved roof escape hatch is the conditional second egress.
 

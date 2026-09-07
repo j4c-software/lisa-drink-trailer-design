@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Option B
 
-**Revision:** 1.5 — September 7, 2026  
+**Revision:** 1.6 — September 7, 2026  
 **Status:** CANONICAL OPTION DIFFERENCES  
 **Name:** Single-Bartender Window Bar — Linear Gallery
 
@@ -64,6 +64,8 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 ## Authoritative plan and interior elevations
 
 These layouts control all Option B technical graphics and renderings.
+
+**Drawing approval:** All five Option B SVG concept drawings (`B-PL-01` and `B-EL-01` through `B-EL-04`) were approved unchanged by Mike on September 7, 2026. Retain the open opposite lower wall; no floor cabinet or second counter. Approval is for concept and presentation use, not fabrication; all verification notes remain.
 
 ### Plan view
 
