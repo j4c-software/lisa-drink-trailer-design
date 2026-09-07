@@ -2,7 +2,7 @@
 
 **Document role:** Authoritative shared design specification for every Lisa Drink Trailer workstream  
 **Status:** APPROVED CONCEPT BASIS — PRE-ACQUISITION / PRE-MEASUREMENT  
-**Revision:** 3.7 — September 7, 2026  
+**Revision:** 3.8 — September 7, 2026  
 **Selected platform:** Mid-1980s Circle J two-horse, straight-load, bumper-pull trailer  
 **Geographic basis:** California, with San Francisco operation assumed until changed  
 
@@ -10,7 +10,9 @@
 
 This file is the authoritative record for all shared trailer geometry, dimensions, equipment, utilities, workflow, materials, operating capacity, service-side configuration and design requirements. Every new chat must follow `00-PROJECT-BOOTSTRAP.md` and read this file before doing design work.
 
-Authority order: **MASTER-DESIGN-SPEC → applicable OPTION FILE → DECISIONS LOG → PRESENTATION SPEC → RENDERING CONTROLS → chat discussion**.
+Repository authority: the public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sole authoritative project record.
+
+Authority order: **MASTER-DESIGN-SPEC → applicable OPTION FILE → DECISIONS LOG → PRESENTATION SPEC → RENDERING CONTROLS → RENDER BRIEF MATRIX → VISUAL QA REGISTER → chat discussion**.
 
 If a chat summary conflicts with this file, this file wins. If a rendering conflicts with this file, the rendering is wrong. An approved change must be written into this file and `02-DECISIONS-LOG.md` before further rendering or downstream work.
 
@@ -75,9 +77,9 @@ Use sources in this order:
 | Rear-door opening | **48–54 in W × 72–76 in H** | Fit design to 48 × 72 in until measured |
 | Front tack-area depth | **24 in** | Partition assumed removable |
 | Floor/deck height above grade | **18–24 in** | Use 24 in for step/access studies |
-| Main work counter | **24 in D × 36 in H** | Standard catalog equipment; either opposite the window (rear-wall option) or directly beneath it (standard-bar options) |
+| Main work counter | **24 in D × 36 in H** | Standard catalog equipment; either opposite the window (Option A opposite-wall service) or directly beneath it (Options B/C standard-bar service) |
 | Clear employee aisle | **30–34 in** | Never less than 30 in |
-| Window-side storage cabinets | **6 in D maximum, projecting outboard below ledge** | Rear-wall option only; interior face stays flush so the aisle remains 32 in |
+| Window-side storage cabinets | **6 in D maximum, projecting outboard below ledge** | Option A opposite-wall service only; interior face stays flush so the aisle remains 32 in |
 | Exterior customer ledge | **14–16 in D in operating mode** | Folding or removable for travel; positively latched in both states; confirm structure, support brackets, accessibility, travel width and customer clearances |
 | Exterior bar window/hatch | **60 in W × 30 in H maximum concept opening** | One centered opening only; engineered frame required |
 | Active regulatory pass-through | **12 × 18 in until written approval permits more** | Use screened/self-closing inserts or internal closures if required |
@@ -203,7 +205,7 @@ These selections govern future renderings and presentation sheets for all three 
 - Provide a continuous hatch compression gasket, drip rail and controlled end drainage away from customers.
 - Use flush keyed hatch locks plus redundant positive travel latches.
 - Options B and C retain the opposite-side staff door with an illuminated deployable step, grab handle and interior release. Option A assumes no usable street-side door and permanently infills any existing horse/escape door through an engineered, weather-sealed, insulated and finish-matched assembly.
-- Retain rear double doors as functional secondary egress with weather seals and hold-open catches, subject to final life-safety review.
+- Retain rear double doors as functional egress with weather seals and hold-open catches, subject to final life-safety review. They are the primary staff entrance/exit in Option A and secondary egress in Options B and C.
 - Provide four discreet corner stabilizers, removable ground pads, portable leveling blocks and an exterior level indicator.
 - Provide dedicated secured storage for wheel chocks.
 - Consolidate shore power, potable-water fill and service connections within a lockable non-customer-side utility panel.
@@ -404,7 +406,7 @@ Maintain a component schedule with item, quantity, unit weight, total weight and
 | Service/order window | Curb/passenger side | Structural header/jambs; weather closure; health-compliant opening; customer counter |
 | Primary work counter | Layout-dependent: opposite or directly beneath window | One 24-in-deep service line only; equipment sequence follows order-to-handoff workflow |
 | Handwashing | Immediately accessible | Cannot be obstructed; splash separation as required |
-| Warewashing | Within the primary service line; location is layout-dependent | Rear-wall and one-bartender options may group the sink toward the front; the two-bartender option may center the shared sink between fixed stations. Basin count, drainboards, splash separation and largest-utensil fit require written approval. |
+| Warewashing | Within the primary service line; location is layout-dependent | The Option A opposite-wall and Option B one-bartender arrangements group the sink toward the front; Option C centers the shared sink between fixed stations. Basin count, drainboards, splash separation and largest-utensil fit require written approval. |
 | Refrigeration | Low, near axle group | Ventilation, door retention and service access |
 | Potable/waste tanks | Low, centered and near axle group | Fill/drain access; freeze/service access; structural supports |
 | Electrical panel/inverter | Dry service compartment | Required working clearance; protected from plumbing |
@@ -419,7 +421,7 @@ Maintain a component schedule with item, quantity, unit weight, total weight and
 The former horse compartment is the complete production, sanitation, storage and customer-service zone. It must include:
 
 - One weather-sealed **60 × 30-inch maximum concept bar window/hatch**, uninterrupted exterior drink ledge and visible menu; full-open operation remains subject to SFDPH and structural approval
-- One of the locked option relationships: (a) Option A rear-wall service line opposite an open window with six-inch outboard dry storage; (b) Option B service line directly beneath the window plus an asymmetrical shallow **Linear Gallery** back-bar for one bartender; or (c) Option C two-bartender service line directly beneath the window plus a symmetrical shallow **Twin-Wing Backbar** arranged for balanced access from both stations. Options B and C have no outboard cabinet and preserve the aisle.
+- One of the locked option relationships: (a) Option A street/opposite-wall service line opposite an open window with six-inch outboard dry storage; (b) Option B service line directly beneath the window plus an asymmetrical shallow **Linear Gallery** back-bar for one bartender; or (c) Option C two-bartender service line directly beneath the window plus a symmetrical shallow **Twin-Wing Backbar** arranged for balanced access from both stations. Options B and C have no outboard cabinet and preserve the aisle.
 - POS station with protected power and reliable cellular/Wi-Fi connectivity
 - Dedicated, continuously accessible handwashing sink with hot and cold water, soap and paper towels
 - Bartender wash/prep sink and the permit-required warewashing configuration. Sink position follows the approved layout workflow rather than a universally fixed end location. The current two-compartment bases in all options require written health-authority acceptance before procurement or fabrication; otherwise redesign for the required three-compartment arrangement. Option C also requires approval of its compact bowl sizes, drainboard/drying method and two-sided splash separation.
