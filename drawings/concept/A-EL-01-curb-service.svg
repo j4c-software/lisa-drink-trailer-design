@@ -1,12 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
-  <title id="title">OPTION A • EL-01 • CURB / SERVICE WALL</title><desc id="desc">INTERIOR ELEVATION LOOKING TOWARD CURB WALL • CUSTOMER EXTERIOR READS ORDER RIGHT / PICKUP LEFT</desc>
+  <title id="title">OPTION A • EL-01 • CURB / SERVICE WALL</title>
+  <desc id="desc">Interior elevation looking toward the trailer-right service wall. Front and tongue are at image right; the service hatch is constrained to the existing photographed window bay.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#8B908D"/></marker>
+  </defs>
   <rect width="1200" height="800" fill="#FFFDF8"/>
   <rect x="28" y="28" width="1144" height="744" fill="none" stroke="#2E3232" stroke-width="2"/>
-  <text x="56" y="70" font-family="Arial,Helvetica,sans-serif" font-size="28" text-anchor="start" font-weight="700" fill="#315B50" >OPTION A • EL-01 • CURB / SERVICE WALL</text>
-  <text x="56" y="100" font-family="Arial,Helvetica,sans-serif" font-size="16" text-anchor="start" font-weight="400" fill="#2E3232" >INTERIOR ELEVATION LOOKING TOWARD CURB WALL • CUSTOMER EXTERIOR READS ORDER RIGHT / PICKUP LEFT</text>
-  <line x1="56" y1="118" x2="1144" y2="118" stroke="#B56F4C" stroke-width="4" />
-  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#8B908D"/></marker><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#8B908D" stroke-width="2"/></pattern></defs><path d="M 120 650 L 120 230 Q 165 160 240 160 L 935 160 Q 1010 160 1055 230 L 1055 650" fill="#F4EFE5" stroke="#2E3232" stroke-width="3"/><rect x="138" y="340" width="160.84210526315792" height="270" fill="#DED8CD" stroke="#8B908D" stroke-width="1" stroke-dasharray="7 5"/><text x="218.42105263157896" y="375" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#2E3232" >FRONT BREAK</text><text x="218.42105263157896" y="396" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#2E3232" >AREA BEYOND</text><line x1="316.8421052631579" y1="175" x2="316.8421052631579" y2="650" stroke="#2E3232" stroke-width="3" /><rect x="439.8684210526316" y="275.6" width="492.10526315789474" height="162" fill="#FFFDF8" stroke="#B56F4C" stroke-width="4" /><text x="685.921052631579" y="345.6" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#B56F4C" >60" MAX SERVICE OPENING</text><line x1="431.8684210526316" y1="437.6" x2="939.9736842105264" y2="437.6" stroke="#B56F4C" stroke-width="8" /><text x="685.921052631579" y="425.6" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#B56F4C" >14–16" CUSTOMER LEDGE</text><text x="467.8684210526316" y="380.6" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="start" font-weight="700" fill="#315B50" >ORDER / POS</text><text x="903.9736842105264" y="380.6" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="end" font-weight="700" fill="#315B50" >PICKUP</text><rect x="316.8421052631579" y="455.6" width="738.1578947368422" height="194.39999999999998" fill="#6F8B80" stroke="#2E3232" stroke-width="2" /><line x1="439.8684210526316" y1="455.6" x2="439.8684210526316" y2="650" stroke="#FFFDF8" stroke-width="1" /><line x1="562.8947368421053" y1="455.6" x2="562.8947368421053" y2="650" stroke="#FFFDF8" stroke-width="1" /><line x1="685.921052631579" y1="455.6" x2="685.921052631579" y2="650" stroke="#FFFDF8" stroke-width="1" /><line x1="808.9473684210527" y1="455.6" x2="808.9473684210527" y2="650" stroke="#FFFDF8" stroke-width="1" /><line x1="931.9736842105264" y1="455.6" x2="931.9736842105264" y2="650" stroke="#FFFDF8" stroke-width="1" /><text x="685.921052631579" y="520.6" font-family="Arial,Helvetica,sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#FFFFFF" >6"-DEEP OUTBOARD DRY STORAGE</text><text x="685.921052631579" y="545.6" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" font-weight="400" fill="#FFFFFF" >FLUSH INTERIOR FACE • LIGHT GOODS ONLY</text><line x1="316.8421052631579" y1="690" x2="1055" y2="690" stroke="#8B908D" stroke-width="1" marker-start="url(#arrow)" marker-end="url(#arrow)"/><line x1="316.8421052631579" y1="682" x2="316.8421052631579" y2="698" stroke="#8B908D" stroke-width="1" /><line x1="1055" y1="682" x2="1055" y2="698" stroke="#8B908D" stroke-width="1" /><text x="685.921052631579" y="683" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#8B908D" >90" SERVICE BAY</text><line x1="439.8684210526316" y1="253.60000000000002" x2="931.9736842105264" y2="253.60000000000002" stroke="#8B908D" stroke-width="1" marker-start="url(#arrow)" marker-end="url(#arrow)"/><line x1="439.8684210526316" y1="245.60000000000002" x2="439.8684210526316" y2="261.6" stroke="#8B908D" stroke-width="1" /><line x1="931.9736842105264" y1="245.60000000000002" x2="931.9736842105264" y2="261.6" stroke="#8B908D" stroke-width="1" /><text x="685.921052631579" y="246.60000000000002" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#8B908D" >60"</text>
-  <line x1="56" y1="725" x2="1144" y2="725" stroke="#2E3232" stroke-width="1" />
-  <text x="56" y="752" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="start" font-weight="700" fill="#2E3232" >APPROVED CONCEPT • TWO-COMPARTMENT SINK BASIS REQUIRES WRITTEN ACCEPTANCE • NOT FOR FABRICATION</text>
-  <text x="1144" y="752" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="end" font-weight="400" fill="#8B908D" >INCHES • DIAGRAMMATIC CONCEPT SCALE</text>
-  </svg>
+  <text x="56" y="70" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#315B50">OPTION A • EL-01 • CURB / SERVICE WALL</text>
+  <text x="56" y="100" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#2E3232">INTERIOR ELEVATION • TRAILER RIGHT WALL • FRONT / TONGUE AT IMAGE RIGHT</text>
+  <line x1="56" y1="118" x2="1144" y2="118" stroke="#B56F4C" stroke-width="4"/>
+
+  <!-- Trailer side profile -->
+  <path d="M120 650 L120 230 Q165 160 240 160 L935 160 Q1010 160 1055 230 L1055 650" fill="#F4EFE5" stroke="#2E3232" stroke-width="3"/>
+
+  <!-- Visible tongue at physical front -->
+  <path d="M1055 604 L1135 638 L1135 650 L1055 650 Z" fill="#DED8CD" stroke="#2E3232" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="1135" y1="644" x2="1151" y2="644" stroke="#2E3232" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="1158" cy="644" r="7" fill="#FFFDF8" stroke="#2E3232" stroke-width="3"/>
+  <rect x="1072" y="594" width="30" height="28" rx="3" fill="#DED8CD" stroke="#2E3232" stroke-width="2"/>
+  <text x="1070" y="676" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" font-weight="700" fill="#315B50">FRONT / TONGUE</text>
+
+  <!-- Front support area, mirrored into correct interior-view position -->
+  <line x1="858" y1="175" x2="858" y2="650" stroke="#2E3232" stroke-width="3"/>
+  <rect x="876" y="340" width="161" height="270" fill="#DED8CD" stroke="#8B908D" stroke-dasharray="7 5"/>
+  <text x="956" y="375" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#2E3232">FRONT BREAK</text>
+  <text x="956" y="396" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#2E3232">AREA BEYOND</text>
+
+  <!-- Existing photographed window bay / proposed service hatch -->
+  <rect x="246" y="276" width="492" height="162" fill="#FFFDF8" stroke="#B56F4C" stroke-width="4"/>
+  <line x1="246" y1="254" x2="738" y2="254" stroke="#8B908D" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="246" y1="246" x2="246" y2="262" stroke="#8B908D"/>
+  <line x1="738" y1="246" x2="738" y2="262" stroke="#8B908D"/>
+  <text x="492" y="247" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#8B908D">60&quot; MAXIMUM CONCEPT • VERIFY</text>
+  <text x="492" y="337" font-family="Arial,Helvetica,sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#B56F4C">SERVICE HATCH WITHIN EXISTING</text>
+  <text x="492" y="359" font-family="Arial,Helvetica,sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#B56F4C">PHOTOGRAPHED WINDOW BAY</text>
+  <text x="492" y="388" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#9A4D43">EXACT JAMBS / HEADER / WIDTH REQUIRE FIELD SURVEY</text>
+  <line x1="238" y1="438" x2="746" y2="438" stroke="#B56F4C" stroke-width="8"/>
+  <text x="492" y="426" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#B56F4C">14–16&quot; CUSTOMER LEDGE</text>
+
+  <!-- Option A storage only within the proposed opening bay -->
+  <rect x="246" y="456" width="492" height="194" fill="#6F8B80" stroke="#2E3232" stroke-width="2"/>
+  <line x1="369" y1="456" x2="369" y2="650" stroke="#FFFDF8"/>
+  <line x1="492" y1="456" x2="492" y2="650" stroke="#FFFDF8"/>
+  <line x1="615" y1="456" x2="615" y2="650" stroke="#FFFDF8"/>
+  <text x="492" y="514" font-family="Arial,Helvetica,sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#FFFFFF">6&quot;-DEEP OUTBOARD DRY STORAGE</text>
+  <text x="492" y="538" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="middle" fill="#FFFFFF">FLUSH INTERIOR FACE • LIGHT GOODS ONLY</text>
+  <rect x="326" y="562" width="290" height="72" rx="30" fill="#FFFDF8" fill-opacity="0.18" stroke="#FFFDF8" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="471" y="594" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" font-weight="700" fill="#FFFFFF">FENDER / STRUCTURAL CLEARANCE</text>
+  <text x="471" y="611" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" font-weight="700" fill="#FFFFFF">STORAGE EXTENT • VERIFY</text>
+
+  <!-- Orientation and dimensional controls -->
+  <text x="492" y="480" font-family="Arial,Helvetica,sans-serif" font-size="10.5" text-anchor="middle" font-weight="700" fill="#FFFFFF">CUSTOMER ORDER / PICKUP SEQUENCE • VERIFY</text>
+  <line x1="120" y1="690" x2="858" y2="690" stroke="#8B908D" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="120" y1="682" x2="120" y2="698" stroke="#8B908D"/>
+  <line x1="858" y1="682" x2="858" y2="698" stroke="#8B908D"/>
+  <text x="489" y="683" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#8B908D">90&quot; ASSUMED WORK ZONE</text>
+
+  <line x1="56" y1="725" x2="1144" y2="725" stroke="#2E3232"/>
+  <text x="56" y="752" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#2E3232">REVISED CONCEPT • NOT FOR FABRICATION • PHOTO PROXY IS NOT STRUCTURAL EVIDENCE</text>
+  <text x="1144" y="752" font-family="Arial,Helvetica,sans-serif" font-size="10.5" text-anchor="end" fill="#8B908D">ALL DIMENSIONS AND OPENINGS REQUIRE DONOR FIELD SURVEY</text>
+</svg>
