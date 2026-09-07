@@ -1,9 +1,11 @@
 # Lisa Drink Trailer — Visual QA Register
 
-**Revision:** 1.0 — September 7, 2026  
+**Revision:** 1.1 — September 7, 2026  
 **Status:** CANONICAL VISUAL ACCEPTANCE RECORD
 
 No generated image is approved merely because it appears in chat. An image may enter the presentation only when its exact candidate record is marked **APPROVED FOR PRESENTATION**.
+
+Pre-render reconciliation on September 7, 2026 found and corrected Option A wall terminology, fixed the handedness and visible near-to-far equipment sequence for both interior camera directions, and reconciled the B/C asset counts. `A/B/C-EX-02` are blocked pending the recorded customer-side flow-direction decision.
 
 ## Status vocabulary
 
