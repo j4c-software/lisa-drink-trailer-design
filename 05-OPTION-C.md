@@ -1,12 +1,14 @@
 # Lisa Drink Trailer — Option C
 
-**Revision:** 1.7 — September 7, 2026
-**Status:** CANONICAL OPTION DIFFERENCES — CONDITIONAL  
+**Revision:** 1.9 — September 25, 2026
+**Status:** SUPERSEDED — HISTORICAL REFERENCE ONLY
 **Name:** Two-Bartender Window Bar — Twin-Wing Backbar
 
 This file states only Option C differences. All requirements in `01-MASTER-DESIGN-SPEC.md` remain in force.
 
-Direction for every plan, elevation and rendering: **front = tongue**, **rear = double doors**, **curb = service-window side**, and **street = opposite/staff side**.
+> **Scope supersession — September 25, 2026:** Option A is the sole active design. Do not create new Option C models, drawings, renderings, presentation pages, equipment coordination or procurement work. Retain this file and its former health-authority condition only to preserve the design history.
+
+Direction for every plan, elevation and rendering: **front = tongue**, **rear = double doors**, **driver side = customer/service-window side**, and **passenger side = non-customer/utility/opposite-wall side**. D1 is on the passenger/utility side. Do not use `curb` or `street` as side labels.
 
 ## Mandatory condition
 
@@ -61,7 +63,7 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 - Divide verified residual space below the centered sink into lidded trash/recycling pull-outs and a small rigid broken-glass container, physically separated from the plumbing bay. The compact fit and exact catalog bins remain VERIFY and may require a controlled layout revision.
 - Route both cocktail-station drains, the shared sink, hand sink and refrigeration drainage through the floor to the centered underfloor waste system; no customer-side discharge or exposed hose.
 - Place the dry electrical distribution panel high on the open front employee-support wall; do not place it in either Twin-Wing storage zone or a wet area.
-- Place the extinguisher at the retained street-side staff door and the emergency light above the rear double doors.
+- Place the extinguisher at the retained passenger-side staff door and the emergency light above the rear double doors.
 - Adapt the Twin-Wing composition around the verified staff-door opening while retaining balanced station access and full egress.
 - Secure the two matched removable station kits in low transit cases over the axle zone during travel and remove them from the aisle before operation.
 
@@ -80,7 +82,7 @@ These layouts control all Option C technical graphics and renderings. Every deri
 ### Plan view
 
 ```text
-                         CURB / CUSTOMER SIDE
+                    DRIVER / CUSTOMER / SERVICE SIDE
 ┌──────────────┬───────────────────────────────────────────────┐
 │ FRONT BREAK  │[HAND][STATION A][CENTER SINK][STATION B][REF]│
 │ AREA — 24"   │  12"     18"        24"        18"      18" │
@@ -91,7 +93,7 @@ These layouts control all Option C technical graphics and renderings. Every deri
 │ STAFF DOOR   │ [GLASS A][CENTRAL DISPLAY][GLASS B]          │
 │ — VERIFY     │       TWIN-WING BACKBAR                       │
 └──────────────┴───────────────────────────────────────────────┘
-                         STREET / UTILITY SIDE
+               PASSENGER / NON-CUSTOMER / UTILITY SIDE
 
         UNDERFLOOR: POTABLE TANK → AXLE ZONE → WASTE TANK
         TONGUE BOX: BATTERY / INVERTER / CORDS / CHOCKS
@@ -99,7 +101,7 @@ These layouts control all Option C technical graphics and renderings. Every deri
 
 **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED**
 
-### C1 — Curb/service wall
+### C1 — Driver/customer/service wall
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -113,11 +115,11 @@ These layouts control all Option C technical graphics and renderings. Every deri
 └──────────────────────────────────────────────────────────────┘
 ```
 
-**View convention:** C1 is viewed from inside the trailer looking toward the curb wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
+**View convention:** C1 is viewed from inside the trailer looking toward the driver/customer wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
 
 **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED**
 
-### C2 — Street-side Twin-Wing Backbar
+### C2 — Passenger/utility-side Twin-Wing Backbar
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐

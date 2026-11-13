@@ -1,14 +1,16 @@
 # Lisa Drink Trailer — Master Dimensional Parameter Register
 
-**Revision:** 0.6 — September 7, 2026
-**Status:** GATE 1 APPROVED — AWAITING GATE 2 APPROVAL
+**Revision:** 0.31 — September 25, 2026
+**Status:** OPTION A-ONLY — PHASE 2 SHELL APPROVED — EQUIPMENT INVENTORY GATE ACTIVE / GATE 2 PENDING
 **Purpose:** Provisional dimensional source for purchase-selection modeling and conversion coordination before the donor trailer is acquired and measured
 
 ## 1. Authority and permitted use
 
 This register implements the immediate next action in `10-PARAMETRIC-MODELING-PLAN.md`. It translates the current canonical written design into explicit parameters without changing any approved requirement.
 
-This register is the approved Gate 1 provisional-envelope basis but does not override the Master Design Spec, Option A/B/C files or Decisions Log. If this register conflicts with those files, the canonical file wins and the conflict must be resolved before Gate 2 approval.
+This register is the approved Gate 1 provisional-envelope basis but does not override the Master Design Spec, Option A file or Decisions Log. If this register conflicts with those files, the canonical file wins and the conflict must be resolved before Gate 2 approval.
+
+**September 25 scope control:** Option A is the sole active design. Option B/C parameters are retained below only as superseded historical records and must not drive new modeling. The exterior **120 × 60 × 84-inch** and finished-clear **114 × 56 × 76-inch** envelopes are hard design limits. Former commercial-health approval controls are archived; one commercial single-basin drop-in sink integrated into the future cabinetry is the active personal-use design choice. Its exact product and cabinet/service envelope are open, unplaced and subject to fit, drainage and safe-system verification.
 
 Until Gate 2 approval, this register may be used only to:
 
@@ -23,18 +25,24 @@ It may not be used to authorize purchase, structural cutting, equipment procurem
 
 | Code | Source | Use in this register |
 |---|---|---|
-| MDS | `01-MASTER-DESIGN-SPEC.md`, Revision 4.2 | Shared envelope, equipment, clearance and regulatory dimensions |
-| DL | `02-DECISIONS-LOG.md`, Revision 2.6 | Approved parametric-workflow decision and current holds |
-| OA | `03-OPTION-A.md`, Revision 1.8 | Option A geometry and equipment sequence |
-| OB | `04-OPTION-B.md`, Revision 1.7 | Option B geometry and equipment sequence |
-| OC | `05-OPTION-C.md`, Revision 1.7 | Conditional Option C geometry and equipment sequence |
-| PMP | `10-PARAMETRIC-MODELING-PLAN.md`, Revision 1.0 | Parameter classifications, modeling phases and approval gates |
+| MDS | `01-MASTER-DESIGN-SPEC.md`, Revision 5.10 | Shared envelope, equipment, clearance and scope controls |
+| DL | `02-DECISIONS-LOG.md`, Revision 3.17 | Approved decisions, supersessions and current holds |
+| OA | `03-OPTION-A.md`, Revision 2.13 | Sole active option; equipment inventory hold |
+| EQI | `13-EQUIPMENT-INVENTORY.md`, Revision 0.10 | Active inventory gate; all equipment unplaced |
+| OB | `04-OPTION-B.md`, Revision 1.9 | Superseded historical reference only |
+| OC | `05-OPTION-C.md`, Revision 1.9 | Superseded historical reference only |
+| PMP | `10-PARAMETRIC-MODELING-PLAN.md`, Revision 2.0 | Parameter classifications, modeling phases and approval gates |
 | REF-54738 | Documented 1989 Circle J two-horse straight-load bumper-pull reference, Horse Trailer Trader stock 54738 | Representative exterior dimensions and visual platform reference only |
 | PRE-PIN-290763719708099062 | [Pinterest “Double horse box trailer dimensions” plan](https://ar.pinterest.com/pin/290763719708099062/) | Non-governing comparable-layout precedent only; not evidence of REF-54738 or the future donor trailer |
 | EXT-BOSCH | [Bosch Tronic 3000T installation manual](https://www.bosch-homecomfort.com/ca/media/country_pool/documents/installation-manuals/6720801072_tronic3000t_es2.5-4-8_iom_en_sp_06.2024.pdf), 2024/06 | ES4 physical envelope and installation orientation; checked September 7, 2026 |
 | EXT-PENTAIR | [Pentair Shurflo marine catalog](https://www.pentair.com/content/dam/extranet/web/nam/shurflo/catalogs/shurflo-emea-marine-catalog.pdf) | Aqua King II 4148-153-E75 physical envelope; checked September 7, 2026 |
 | EXT-REGENCY | [Regency 60B2101413RK specification sheet](https://www.webstaurantstore.com/documents/specsheets/regency_tables_sinks_60b2101413rk_specsheet.pdf) | A/B sink overall and work-surface dimensions; checked September 7, 2026 |
 | EXT-KROWNE | [Krowne KR19-22C product specification](https://www.webstaurantstore.com/krowne-royal-series-kr19-22c-2-bowl-underbar-sink-with-faucet-24-x-19/75BKR1922C.html) | Option C sink overall and work-surface dimensions; checked September 7, 2026 |
+| EXT-KROWNE-RINSER | [Krowne Royal Series drop-in rinser specification](https://krowne.com/files/7-4-royal-series-drop-in-rinsers_002.pdf) | KR-7GR footprint, cutout, push-down operation, drain and NSF-2 status; checked September 25, 2026 |
+| EXT-KROWNE-ICE | [Krowne Silver Series ice-bin specification](https://krowne.com/files/4-2-silver-series-ice-bin-spec-sheet.pdf) | 18-18 envelope, capacity, drain, cover, weight and NSF-2 status; checked September 25, 2026 |
+| EXT-KROWNE-SINGLE | [Krowne HS-2017 one-compartment drop-in sink](https://krowne.com/hs-2017/) | Single-basin sink overall size, bowl, cutout, faucet, drain and NSF-2 status; checked September 25, 2026 |
+| EXT-CAMBRO-CAMRACK | [Cambro full-size compartment glass racks](https://www.cambro.com/Products/warewashing/camracks/camrack-glass-racks-full-size/) | Full-size rack footprint, compartment-count options, variable glass-height configurations and NSF status; checked September 25, 2026 |
+| EXT-PERLICK-24-DD | [Perlick 24-inch beverage-dispenser specification](https://www.perlick.com/pub/media//akeneo_connector/media_files/T/h/The_Perfect_Pour_lo_res__5__8b3a.pdf) | Two-sixtel capacity and HC24TB-4 planning envelope; checked September 25, 2026 |
 | EXT-SQUARE | [Square Terminal technical specifications](https://squareup.com/us/en/hardware/terminal/specs) | POS physical envelope; checked September 7, 2026 |
 | EXT-SUMMIT | [Summit FF1843BIF product specification](https://www.summitappliance.com/catalog/model/FF1843BIF) | Refrigerator closed/open envelopes and latch-width effect; checked September 7, 2026 |
 
@@ -58,8 +66,9 @@ No parameter in this pre-acquisition register is field-verified for the future d
 - Linear dimensions are inches unless explicitly stated otherwise.
 - Weight is pounds; liquid volume is US gallons.
 - Front means tongue end; rear means double-door end.
-- Curb means customer/service-window side; street means opposite/utility side.
-- The provisional interior coordinate system is: `X` front-to-rear, `Y` street-to-curb and `Z` finished-floor-up.
+- Driver side means customer/service-window side. Passenger side means non-customer/utility side.
+- Do not use `curb` or `street` as side labels in new work.
+- The provisional interior coordinate system is: `X` front-to-rear, `Y` passenger-to-driver and `Z` finished-floor-up.
 - `X = 0` is the inside face of the finished front/nose datum at floor level.
 - `Y = 0` is the provisional interior centerline.
 - `Z = 0` is the provisional finished floor.
@@ -84,11 +93,11 @@ These values describe only the documented reference trailer. They are retained s
 | REF-010 | Overall width over fenders | Approximately 78 | ESTIMATED | REF-54738 rear photo 004 scaled against 60-inch body width | Reference estimate only; SH-005 retains the 84-inch maximum clearance envelope |
 | REF-011 | Fender longitudinal envelope aft of front body datum | Approximately 47–120 | ESTIMATED | REF-54738 photo 001 and enhanced close view | Photo-derived outer envelope corrected to preserve the visible clearance ahead of the front tire; internal wheel-well geometry remains unknown |
 | REF-012 | Visible tongue projection from front body datum to coupler region | Approximately 34–40 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Perspective-limited; SH-009 retains 48 inches as the conservative clearance-planning assumption |
-| REF-013 | Curb-side front-corner small-window longitudinal envelope | Approximately X 0–15 | ESTIMATED | REF-54738 photos 001 and 003 scaled against REF-001 | Visible outer opening envelope only; wraps the curved front corner; approximately 15 W × 9–10 H |
-| REF-014 | Curb-side forward small-window longitudinal envelope | Approximately X 22–43 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Visible outer opening envelope only; approximately 21 W × 9–10 H |
-| REF-015 | Curb-side large rear-window longitudinal envelope | Approximately X 74–118 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Visible outer opening envelope only; approximately 44 W × 14–16 H |
-| REF-016 | Street-side escape-door outer frame envelope | Approximately X 15–38 | ESTIMATED | REF-54738 photo 002 mapped to the 120-inch listed body | Highly oblique view; approximately 22 ±4 W × 72 ±4 H; clear opening remains unknown |
-| REF-017 | Street-side escape-door upper window | Approximately 5–7 W × 9–11 H | ESTIMATED | REF-54738 photo 002 | Low-confidence visible aperture estimate; position is high in the door leaf |
+| REF-013 | Passenger-side front-corner small-window longitudinal envelope | Approximately X 0–15 | ESTIMATED | REF-54738 photos 001 and 003 scaled against REF-001 | Visible outer opening envelope only; wraps the curved front corner; approximately 15 W × 9–10 H |
+| REF-014 | Passenger-side forward small-window longitudinal envelope | Approximately X 22–43 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Visible outer opening envelope only; approximately 21 W × 9–10 H |
+| REF-015 | Passenger-side large rear-window longitudinal envelope | Approximately X 74–118 | ESTIMATED | REF-54738 photo 001 scaled against REF-001 | Visible outer opening envelope only; approximately 44 W × 14–16 H |
+| REF-016 | Driver-side escape-door outer frame envelope | Approximately X 15–38 | ESTIMATED | REF-54738 photo 002 mapped to the 120-inch listed body | Highly oblique view; approximately 22 ±4 W × 72 ±4 H; clear opening remains unknown |
+| REF-017 | Driver-side escape-door upper window | Approximately 5–7 W × 9–11 H | ESTIMATED | REF-54738 photo 002 | Low-confidence visible aperture estimate; position is high in the door leaf |
 | REF-018 | Twin front-face windows | Approximately 20 W × 10 H each | ESTIMATED | REF-54738 photo 003 scaled against REF-002 | Perspective-limited outer opening envelopes; lateral offsets and clear sizes remain unknown |
 | REF-019 | Rear portal visible opening envelope | Approximately 50 W × 78 H | ESTIMATED | REF-54738 photos 004 and 005 scaled against REF-002/REF-003 | Approximately ±3 inches; visible envelope is not a verified clear opening or structural rough opening |
 | REF-020 | Rear double-door leaf face envelope | Approximately 25 W × 78 H each | ESTIMATED | REF-54738 photo 004 | Approximately ±2 W and ±3 H per leaf; center overlap, stops, seals and hardware reduce usable clearance |
@@ -181,12 +190,16 @@ Unknown objects must be represented as disabled or visibly unresolved model laye
 |---|---|---:|---:|---|---|---|
 | OP-001 | Rear-door clear width | 48 | 48–54 | DESIGN ASSUMPTION | MDS 1A; compare REF-019/REF-020 | Fit design to 48 until measured; photo-visible portal is approximately 50 inches wide but does not establish clear width |
 | OP-002 | Rear-door clear height | 72 | 72–76 | DESIGN ASSUMPTION | MDS 1A; compare REF-019/REF-020 | Fit design to 72 until measured; photo-visible portal is approximately 78 inches high but does not establish clear height |
-| OP-003 | Donor side-door side and position | TBD | Reference proxy shows street-side outer frame approximately X 15–38; Phase 1 concept drawing places D1 curb-side | UNKNOWN | MDS 6H; OA/OB/OC; compare REF-016 | Concept placement is a visualization convention only; candidate side and position must be measured; Option rules remain separately locked |
+| OP-003 | Phase 2 D1 side and position | Passenger / non-customer / utility side; hold tongue-side jamb and extend toward wheels to 30-inch nominal outer width | Reference proxy instead shows driver-side outer frame approximately X 15–38 | DESIGN ASSUMPTION | MDS 6H; DL 2026-09-07; compare REF-016 | Purchase-planning choice, not reference evidence; candidate must support it or trigger controlled redesign |
 | OP-004 | Donor side-door clear width | TBD | Reference proxy outer frame approximately 22 ±4 | UNKNOWN | MDS 6H; compare REF-016 | Outer photo envelope is not a clear-opening dimension; exact door side and clear opening remain unknown |
 | OP-005 | Donor side-door clear height | TBD | Reference proxy outer frame approximately 72 ±4 | UNKNOWN | MDS 6H; compare REF-016 | Outer photo envelope is not a clear-opening dimension; exact clear height remains unknown |
 | OP-006 | Existing side openings | TBD | Reference proxy envelopes REF-013 through REF-016 | UNKNOWN | MDS 4.3 | Map every candidate opening before service-window design; photo estimates do not authorize cutting or reuse |
-| OP-007 | Existing roof openings | TBD | TBD | UNKNOWN | PMP 3 | Coordinate HVAC and Option A escape hatch |
-| OP-008 | Phase 1 concept opening arrangement | Curb: W1, 30-inch nominal outer-width D1, W3; street: W1, W2, W4; W1 shown at one-half W2 width on both sides | Actual door side/position, clear opening and all opening construction remain TBD | DESIGN ASSUMPTION | DL 2026-09-07 working direction | Hold D1's tongue-side jamb and extend nominal width toward wheels; drawing convention only, not donor evidence or an Option A/B/C revision |
+| OP-007 | Existing roof openings | TBD | TBD | UNKNOWN | PMP 3 | Coordinate HVAC and any authority-required contingency roof exit; none assumed in the base shell |
+| OP-008 | Phase 1 concept opening arrangement | Passenger/utility: W1, 30-inch nominal outer-width D1, W3; driver/customer: W1, W2, W4; W1 shown at one-half W2 width on both sides | Actual door side/position, clear opening and all opening construction remain TBD | DESIGN ASSUMPTION | DL 2026-09-07 working direction | Hold D1's tongue-side jamb and extend nominal width toward wheels; drawing convention only, not donor evidence or an Option A/B/C revision |
+| OP-009 | Phase 2 Option A service-wall modification | Remove and infill W3; provide the Option A service-window cutout basis | Exact cut and infill geometry TBD | DESIGN ASSUMPTION | DL 2026-09-07 and 2026-09-25 | Former W3 opening requires structural, insulated, weather-sealed and cleanable reconstruction; do not assume its frame serves the new opening |
+| OP-010 | Phase 2 remaining-window disposition | Retain W1 both sides; remove/infill W2, W3 and W4 for Option A | Exact frame and infill geometry TBD | DESIGN ASSUMPTION | DL 2026-09-07 and 2026-09-25 | W1 becomes fixed sealed glazing; former W2/W3/W4 frames are not structural or equipment-mounting assumptions |
+| OP-011 | Phase 2 rear-door leaf treatment | Fill open-air/barred upper portions of both functional leaves; W2-sized fixed window in one leaf, other leaf solid | Left/right assignment TBD by Option A coordination | DESIGN ASSUMPTION | DL 2026-09-07 and 2026-09-25 | Preserve both door frames, hinges, latches, hold-opens and egress; reuse W2 only if measured condition is suitable |
+| OP-012 | Phase 2 D1 operation and hinge reserve | Opens outward; hinge side TBD; reserve exterior swing and interior approach/egress for either hinge direction | Final door uses one verified hinge side only | DESIGN ASSUMPTION | DL 2026-09-07 | Bilateral reserve prevents premature equipment/utility encroachment; replace with measured leaf, hinge and hardware geometry |
 | ST-001 | Wall-post/rib positions | TBD | TBD | UNKNOWN | PMP 3; MDS 4.4 | No structural opening release without field map |
 | ST-002 | Roof-bow positions | TBD | TBD | UNKNOWN | PMP 3; MDS 4.4 | Controls HVAC and escape hatch |
 | ST-003 | Front bulkhead structure | TBD | TBD | UNKNOWN | MDS 4.4 | Controls electrical panel and employee nook |
@@ -218,6 +231,34 @@ Unknown objects must be represented as disabled or visibly unresolved model laye
 | CV-018 | Counter-equipment cleaning clearance | 4 | 4 minimum unless readily movable under the stated exception | DESIGN ASSUMPTION | MDS 7 | Must be modeled around applicable counter equipment |
 | CV-019 | Separation between multiple active pass-through openings | 18 | 18 minimum | DESIGN ASSUMPTION | MDS 7 | Current base concept uses one provisional active aperture |
 
+### 6.2 Phase 2 Fabrication Shell — service-window fields
+
+These fields define the required data structure for the next-phase **Lisa Trailer — Fabrication Shell**. Phase 2 may assign clearly labeled design-intent values and reserved envelopes for spatial coordination, but they are not cut dimensions. Final values remain `UNKNOWN` until reconciled to the VIN-specific As Measured shell and released by the responsible engineer/fabricator.
+
+The approved provisional reserve method treats FS-007, FS-008 and FS-009 as continuous protected exclusion zones even though their dimensions remain `UNKNOWN`. No equipment, cabinetry, utility or attachment envelope may overlap them. FS-005 remains `UNKNOWN`; the model may not invent a corner radius.
+
+| ID | Fabrication-shell parameter | Current value | Status | Release requirement |
+|---|---|---:|---|---|
+| FS-001 | Service-window rough-opening width | 60 maximum provisional design intent | DESIGN ASSUMPTION | Approved Phase 2 spatial basis; replace/reduce after measured structural review |
+| FS-002 | Service-window rough-opening height | 30 maximum provisional design intent | DESIGN ASSUMPTION | Approved Phase 2 spatial basis; replace/reduce after measured header/sill review |
+| FS-003 | Cutout front and rear X coordinates from front finished-interior datum | `LZ-004 + 15` to `LZ-004 + 75`; target X = 39–99 in 114-inch test shell | DESIGN ASSUMPTION | Centered in controlling 90-inch work zone; convert to actual fabricator datum after VIN-specific survey |
+| FS-004 | Cutout sill and header elevations from finished-floor datum | Sill 36; head 66 provisional | DESIGN ASSUMPTION | Approved spatial basis; verify actual finished floor, header band, accessibility and structure |
+| FS-005 | Cut-line corner radii | TBD | UNKNOWN | Hatch frame and fabricator method |
+| FS-006 | Intersected skin, seams, posts and rails | TBD | UNKNOWN | Complete interior/exterior structural map |
+| FS-007 | Header member and connections | TBD | UNKNOWN | Engineer/fabricator calculation and detail |
+| FS-008 | Full-height jamb members and connections | TBD | UNKNOWN | Engineer/fabricator calculation and detail |
+| FS-009 | Sill/bottom member and connections | TBD | UNKNOWN | Engineer/fabricator calculation and detail |
+| FS-010 | Temporary bracing and demolition sequence | TBD | UNKNOWN | Fabricator method reviewed before cutting |
+| FS-011 | Hatch/hinge/strut/latch reactions and attachments | Top-hinged outward/upward operation; supports, wind restraint and travel latches required; exact geometry/loads TBD | UNKNOWN | Selected hardware loads and structural review |
+| FS-012 | Ledge, flashing, drainage, seal and finish-return interfaces | 14–16-inch exterior operating ledge; fold/remove and latch for travel; zero interior intrusion; exact interfaces TBD | DESIGN ASSUMPTION | Coordinated fabrication sections; final attachment and drainage details remain unknown |
+| FS-013 | W3 removal and reconstructed infill assembly | TBD | UNKNOWN | Measured W3/frame map plus engineer/fabricator infill detail before new cutout release |
+| FS-014 | W2/W4 removal and reconstructed infill assemblies | TBD | UNKNOWN | Measured frame map plus engineer/fabricator infill details before wall loading or finish release |
+| FS-015 | Rear-door open-air-panel infill assemblies | TBD | UNKNOWN | Measured leaf/frame map, added weight, hinge/latch capacity and fabricator detail |
+| FS-016 | Rear-leaf W2-sized fixed-window opening | W2 envelope; leaf TBD by Option A coordination | DESIGN ASSUMPTION | Coordinate visibility, interior placement, door structure, glazing, weight and hardware before release |
+| FS-017 | Utility-penetration reserve | Passenger/non-customer side; separate potable, waste and shore-power reserves; exact coordinates TBD | DESIGN ASSUMPTION | No driver/customer-side connections; exclude D1, rear doors, running gear/chassis, road lighting, mapped structure and service-window reinforcement; no cut release |
+| FS-018 | Optional HVAC and relief/exhaust reserves | Conditional low-profile HVAC roof zone near lateral centerline/axle group; relief/exhaust high passenger side or rear roof; exact coordinates TBD | DESIGN ASSUMPTION | HVAC is optional and not installed in base shell; verify need, heat load, roof bows, hatch/header, height, condensate and weight; no base roof hatch or cut release |
+| FS-019 | Chassis/floor protected exclusions | Frame rails, crossmembers, internal wheel wells and tire/suspension travel envelopes TBD; tank zones low/centered near axle group | UNKNOWN | No floor penetrations or equipment dependence on assumed voids; preserve service access; tank size/support/mounting requires chassis, capacity and full/empty weight verification |
+
 ### 6.2 Sanitation geometry controls
 
 | ID | Parameter | Controlled value | Status | Source / note |
@@ -237,18 +278,18 @@ Unknown objects must be represented as disabled or visibly unresolved model laye
 |---|---|---:|---:|---|---|---|
 | EG-001 | Minimum second-exit clear width | 24 | 24 minimum | DESIGN ASSUMPTION | MDS 1A, 7 | Final configuration requires authority approval |
 | EG-002 | Minimum second-exit clear height | 36 | 36 minimum | DESIGN ASSUMPTION | MDS 1A, 7 | Final configuration requires authority approval |
-| EG-003 | Option A roof escape-hatch clear opening | 24 × 36 | 24 × 36 minimum | DESIGN ASSUMPTION | MDS 6H; OA | Listed product, position and reinforcement TBD |
-| EG-004 | Option A roof escape-hatch position | Rear-third aisle | TBD within rear-third zone | DESIGN ASSUMPTION | MDS 6H; OA | Exact coordinates must coordinate roof bows, HVAC and access |
-| EG-005 | Deployable staff-step geometry | TBD | TBD | UNKNOWN | MDS 1E | B/C street-side door; grade and product unknown |
-| EG-006 | Grab-handle position/envelope | TBD | TBD | UNKNOWN | MDS 1E | B/C street-side door |
+| EG-003 | Contingency roof-exit clear opening | Not in base shell | 24 × 36 minimum only if later required | DESIGN ASSUMPTION | MDS 6H; DL 2026-09-07 | Do not reserve or cut unless authority requires a roof exit after reviewing retained side/rear doors |
+| EG-004 | Contingency roof-exit position | Not set | TBD only if required | UNKNOWN | MDS 6H | Must coordinate roof bows, HVAC, access and separation if activated |
+| EG-005 | Deployable staff-step geometry | TBD | TBD | UNKNOWN | MDS 1E | Retained donor side door in all options; grade and product unknown |
+| EG-006 | Grab-handle position/envelope | TBD | TBD | UNKNOWN | MDS 1E | Retained donor side door in all options |
 | EG-007 | Exterior service apron | TBD | TBD | UNKNOWN | MDS 1C | Venue-specific and accessibility-controlled |
 
 ### 6.4 Storage, backbars and lighting
 
 | ID | Model parameter | Provisional model input | Allowed/design range | Status | Source | Replacement trigger / note |
 |---|---|---:|---:|---|---|---|
-| SB-001 | Option A outboard-storage depth | 6 | 6 maximum | DESIGN ASSUMPTION | MDS 1A; OA | Interior face must remain flush |
-| SB-002 | Option A outboard-storage longitudinal extent | TBD | Below opening/ledge zone | UNKNOWN | OA | Door divisions and supports not set |
+| SB-001 | Option A outboard-storage depth | UNSET | 6 maximum if later retained | UNKNOWN | Inventory/placement hold | Former cabinet concept is unplaced |
+| SB-002 | Option A outboard-storage longitudinal extent | UNSET | TBD | UNKNOWN | Inventory/placement hold | No cabinet location is active |
 | SB-003 | Option B Linear Gallery depth | TBD | No reduction of 32-inch aisle | UNKNOWN | OB | Requires wall/door/upper-service envelope |
 | SB-004 | Option B Linear Gallery mounting height | TBD | TBD | UNKNOWN | OB | Requires reach, door and structural studies |
 | SB-005 | Option B Linear Gallery width | TBD | Stop/break/bridge around door | UNKNOWN | OB | Door position controls composition |
@@ -268,17 +309,37 @@ Operational equipment must retain catalog dimensions. A substitution requires a 
 |---|---|---|---:|---|---|
 | EQ-001 | All | Waring BB300S removable blender | 7.63 × 8.38 × 16 | VERIFIED REFERENCE | Manufacturer/catalog dimensions recorded in MDS; travel dock TBD |
 | EQ-002 | All | Summit FF1843BIF refrigerator | 17.75 × 24 × 34.25 | VERIFIED REFERENCE | Modeled in an 18-inch module |
-| EQ-003 | All | Regency 600HS12HSP hand sink | 11.94 × 15.56 × 12.81 | VERIFIED REFERENCE | 9 × 9 × 5 bowl; modeled in a 12-inch module |
+| EQ-003 | Historical only | Regency 600HS12HSP hand sink | 11.94 × 15.56 × 12.81 | VERIFIED REFERENCE / SUPERSEDED | 9 × 9 × 5 bowl; no standalone Option A unit and not a component of EQ-016 |
 | EQ-004 | All, preliminary | Bosch Tronic 3000 T ES4 water heater | 13.75 W × 13.5 D × 13.75 H | VERIFIED REFERENCE | EXT-BOSCH; vertical installation only; connection and service envelopes remain to be modeled |
 | EQ-005 | All, preliminary | SHURflo Aqua King II 4148-153-E75 pump | 10 × 5 × 4.75 overall | VERIFIED REFERENCE | EXT-PENTAIR; orientation, strainer, fittings and service envelope remain to be modeled |
-| EQ-006 | A/B | Regency 60B2101413RK two-compartment sink | 36 × 18.75 × 33 overall | VERIFIED REFERENCE | EXT-REGENCY; 30-inch work surface plus 3-inch backsplash; two 10 × 14 × 10 bowls |
+| EQ-006 | Historical only | Regency 60B2101413RK two-compartment sink | 36 × 18.75 × 33 overall | VERIFIED REFERENCE / SUPERSEDED | EXT-REGENCY; two 10 × 14 × 10 bowls and drainboard; not a component of the active Option A sink application |
 | EQ-007 | A/B | Regency 600IB1824 cocktail station | 24 × 18 × 33 | VERIFIED REFERENCE | Raise/support to final counter relationship |
 | EQ-008 | C only | Krowne KR19-22C compact two-compartment sink | 24 × 19 × 36.5 overall | VERIFIED REFERENCE | EXT-KROWNE; 30-inch work surface plus 6.5-inch backsplash; two 10 × 14 × 10 bowls; no drainboards |
 | EQ-009 | C only | Regency 600IB1812 cocktail station, each | 12 × 18 × 33 | VERIFIED REFERENCE | Each centered within an 18-inch station module |
 | EQ-010 | All | Square Terminal/POS | 3.4 W × 5.6 D × 2.5 H | VERIFIED REFERENCE | EXT-SQUARE; swing/deployable mount and cable envelopes remain TBD |
-| EQ-011 | All | HVAC | Physical envelope TBD | UNKNOWN | Performance range only: approximately 9,000–13,500 Btu/h |
+| EQ-011 | All | Optional HVAC | Physical envelope TBD | UNKNOWN | Optional; performance range only approximately 9,000–13,500 Btu/h; select only if operating/heat-load review justifies it |
+| EQ-012 | A only | Krowne Royal Series KR-7GR push-down glass rinser | 7 × 7 × TBD | VERIFIED REFERENCE / UNPLACED | EXT-KROWNE-RINSER; 6.25 × 6.25 cutout; full below-counter and service envelope remains VERIFY |
+| EQ-013 | A only | Krowne Silver Series 18-18 working ice/drink well | 18 × 18.5 × 33 | VERIFIED REFERENCE / PASSENGER-WALL RELATIONSHIP APPROVED / EXACT POSITION UNPLACED | EXT-KROWNE-ICE; 60-lb capacity; 40-lb empty; 1-in drain. Pair with EQ-019 above or adjacent; loaded/service/restraint, D1, aisle and drainage envelopes remain VERIFY |
+| EQ-014 | A only | 24-in two-faucet direct-draw dispenser; Perlick HC24TB-4 planning basis | 23.875 × 24 × 34.25 | VERIFIED REFERENCE / UNPLACED / EXACT MODEL OPEN | EXT-PERLICK-24-DD; 115 V / 2.3 A; two-sixtel capacity; verify Cornelius-keg/coupler envelope and mobile installation requirements |
+| EQ-015 | A only | Two-product draft/gas package | Physical envelope TBD | UNKNOWN / UNPLACED | Keg connections, beverage lines, cylinder, regulators/manifold, gas type, cleaning kit and restraints require selection |
+| EQ-016 | A only | Cabinet-integrated single-basin sink application; Krowne HS-2017 planning basis | 20.25 W × 17 D overall; 7.5 bowl depth; cutout 18.25 × 15.5 | VERIFIED REFERENCE / UNPLACED / EXACT PRODUCT OPEN | EXT-KROWNE-SINGLE; 17.75 × 12.75-in bowl, faucet and 1.5-in drain. Future cabinet must provide rim support, clear plumbing/service volume, leak containment and travel reinforcement; adjacent landing/drying surface envelope TBD |
+| EQ-017 | A only | Main glassware reserve; two 25-compartment full-size Cambro Camracks | Each nominally 19.75 × 19.75; height TBD by glass | VERIFIED REFERENCE / FRONT RELATIONSHIP APPROVED / EXACT CABINET UNPLACED | EXT-CAMBRO-CAMRACK; 50-glass onboard target. Prioritize enclosed clean cabinetry at the inside front; verify selected glass diameter/height, covers, shelf restraint, clear opening, travel retention, structure, D1 approach and tongue weight |
+| EQ-018 | A only | Under-window operating-glass holder | Maximum 6 D; width and height TBD | DESIGN ASSUMPTION / UNPLACED / FIT-TEST REQUIRED | Holds 10–12 glasses transferred from EQ-017 during operation; no added capacity. Empty and latch/remove for travel. Reject if the later fit test cannot preserve a 30-in minimum aisle and the open-window character |
+| EQ-019 | A only | Restrained illuminated bottle display | Envelope TBD | PASSENGER-WALL RELATIONSHIP APPROVED / UNPLACED / DIMENSIONS OPEN | Directly above or immediately adjacent to EQ-013 and visible through the service window; shallow construction, positive retention and travel closure required. Verify bottle count, reach, lighting, structure, D1, aisle and wet-zone separation |
 
-### 7.1 Equipment operating and installation envelopes
+### 7.1 Tentative module budget — placement prohibited
+
+| ID | Study module | W × D | Status | Control |
+|---|---|---:|---|---|
+| TM-001 | Wet cabinet | 36 × 24 | DESIGN ASSUMPTION / UNPLACED | Test sink, rinser and landing/drying surface; utility sharing remains unverified |
+| TM-002 | Working ice bin | 18 × 18.5 | VERIFIED REFERENCE / UNPLACED | Selected Krowne 18-18 envelope |
+| TM-003 | One general refrigerator | 18 × 24 nominal | DESIGN ASSUMPTION / UNPLACED | Tentative only if keg dispenser replaces the second general refrigerator; EQ-03 quantity remains two pending approval |
+| TM-004 | Two-keg dispenser | 24 × 24 nominal | VERIFIED REFERENCE / UNPLACED / EXACT MODEL OPEN | Perlick planning envelope rounded for module budgeting |
+| TM-005 | Front stacked glass-rack cabinet | 20 × 20 × 24–30 H nominal | FUNCTIONAL RELATIONSHIP APPROVED / EXACT CABINET UNPLACED | Prioritize at the inside front and test two covered 25-glass racks stacked vertically; exact corner, construction, front curvature/structure and clearances remain TBD |
+
+Tentative frontage arithmetic: **36 + 18 + 18 + 24 + 20 = 116 inches** before cabinet walls, fillers or clearances. Assigning TM-005 functionally to the front leaves **96 inches** of remaining longitudinal module frontage, but does not prove a fit or authorize an uninterrupted line.
+
+### 7.2 Equipment operating and installation envelopes
 
 | ID | Equipment/control | Controlled envelope or rule | Status | Coordination effect |
 |---|---|---|---|---|
@@ -293,52 +354,51 @@ Operational equipment must retain catalog dimensions. A substitution requires a 
 | EO-009 | Option C sink resulting backsplash top if lifted uniformly | 42.5 nominal | ESTIMATED | May conflict with service opening and requires a resolved section |
 | EO-010 | Cocktail-station lift to 36-inch datum | 3 nominal | ESTIMATED | Applies to 33-inch-high stations; support and rim definition require design |
 
-### 7.2 Module-fit rules
+### 7.3 Module-fit rules
 
 - Module coordinates define maximum occupied width, including equipment, support, cabinet skin, fillers and installation tolerance.
 - Catalog equipment geometry must be modeled at its actual reference dimensions inside the module; it may not be stretched to the nominal module width.
-- The hand sink leaves 0.06 inch nominally within its 12-inch module.
+- The historical standalone hand sink leaves 0.06 inch nominally within its former 12-inch module; that module does not control active Option A work after replacement by EQ-016.
 - The standard refrigerator leaves 0.25 inch nominally within its 18-inch module before cabinet construction. The optional factory latch is excluded by EO-002.
-- The A/B sink and cocktail station consume their full 36-inch and 24-inch modules respectively; no side tolerance is currently allocated.
+- The former A/B sink and cocktail station consumed their full 36-inch and 24-inch modules respectively; those equipment-module relationships are superseded for active Option A placement. EQ-016 must use its selected drop-in, cutout, faucet and below-counter service envelopes without dimensional compression.
 - Each Option C 12-inch cocktail station sits within an 18-inch module with exactly 6 inches reserved for the approved tool/work allowance.
 - The Option C sink consumes its full 24-inch module; no side tolerance or splashguard thickness is currently allocated.
 - Any positive overlap, negative aisle clearance or unavailable service access is a failed fit. The model must report it; it may not redistribute module widths automatically.
 
 ## 8. Option configuration registers
 
-### 8.1 Option A — opposite-wall service line
+### 8.1 Option A — equipment placement hold
 
 | ID | Parameter | Provisional model input | Status | Source / note |
 |---|---|---:|---|---|
-| OA-001 | Service-line wall | Street | DESIGN ASSUMPTION | OA locked arrangement |
-| OA-002 | Module 1 — hand sink | X = 24–36; 12 W | DESIGN ASSUMPTION | Forward end |
-| OA-003 | Module 2 — sink/drainboard | X = 36–72; 36 W | DESIGN ASSUMPTION | Conditional two-compartment procedure |
-| OA-004 | Module 3 — cocktail station | X = 72–96; 24 W | DESIGN ASSUMPTION | Catalog equipment centered/aligned within module |
-| OA-005 | Module 4 — refrigerator | X = 96–114; 18 W | DESIGN ASSUMPTION | Rear/pickup end; catalog width 17.75 |
-| OA-006 | Total nominal line length | 90 | DESIGN ASSUMPTION | Exact sum; no filler/end-panel allowance |
-| OA-007 | Curb-side below-ledge interior intrusion | 0 | DESIGN ASSUMPTION | Outboard storage must stay flush inside |
-| OA-008 | Street-side donor-door operational clearance | 0 | DESIGN ASSUMPTION | Door is permanently infilled if present; engineered design TBD |
+| OA-001 | Equipment placement state | UNPLACED | LOCKED | No wall, zone, sequence, coordinate, cabinet or utility assignment before inventory approval |
+| OA-002 | Active inventory source | `13-EQUIPMENT-INVENTORY.md` | LOCKED | Complete and explicitly approve before spatial work resumes |
+| OA-003 | Equipment coordinates | UNSET | UNKNOWN | Restart from an empty fixed-shell model after inventory approval |
+| OA-004 | Equipment sequence | UNSET | UNKNOWN | Prior 90-inch and 60-inch sequences are superseded studies |
+| OA-005 | Equipment wall/zone assignments | UNSET | UNKNOWN | Do not infer assignments from product type or prior drawings |
+| OA-006 | Cabinetry and utility routing | UNSET | UNKNOWN | Develop only after the approved inventory establishes products, loads and service envelopes |
+| OA-007 | Donor side-door operational clearance | TBD | UNKNOWN | Door retained; exact side, position, swing, step and egress envelope remain donor-survey inputs |
 
-### 8.2 Option B — under-window single-bartender line
+### 8.2 Superseded Option B — historical reference only
 
 | ID | Parameter | Provisional model input | Status | Source / note |
 |---|---|---:|---|---|
-| OB-001 | Service-line wall | Curb, beneath opening | DESIGN ASSUMPTION | OB locked arrangement |
+| OB-001 | Service-line wall | Driver/customer side, beneath opening | DESIGN ASSUMPTION | OB locked arrangement |
 | OB-002 | Module 1 — hand sink | X = 24–36; 12 W | DESIGN ASSUMPTION | Forward/order end |
 | OB-003 | Module 2 — sink/drainboard | X = 36–72; 36 W | DESIGN ASSUMPTION | Conditional two-compartment procedure |
 | OB-004 | Module 3 — cocktail station | X = 72–96; 24 W | DESIGN ASSUMPTION | Central production |
 | OB-005 | Module 4 — refrigerator | X = 96–114; 18 W | DESIGN ASSUMPTION | Rear/pickup end |
 | OB-006 | Total nominal line length | 90 | DESIGN ASSUMPTION | Exact sum; no filler/end-panel allowance |
 | OB-007 | Opposite lower-wall floor projection | 0 | DESIGN ASSUMPTION | No cabinet or second counter |
-| OB-008 | Linear Gallery envelope | TBD | UNKNOWN | Preserve aisle and retained street-side door |
+| OB-008 | Linear Gallery envelope | TBD | UNKNOWN | Preserve aisle and retained passenger-side D1 |
 
-### 8.3 Option C — conditional two-bartender line
+### 8.3 Superseded Option C — historical reference only
 
 **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED**
 
 | ID | Parameter | Provisional model input | Status | Source / note |
 |---|---|---:|---|---|
-| OC-001 | Service-line wall | Curb, beneath opening | DESIGN ASSUMPTION | OC locked arrangement |
+| OC-001 | Service-line wall | Driver/customer side, beneath opening | DESIGN ASSUMPTION | OC locked arrangement |
 | OC-002 | Module 1 — hand sink | X = 24–36; 12 W | DESIGN ASSUMPTION | Forward end |
 | OC-003 | Module 2 — Station A | X = 36–54; 18 W | DESIGN ASSUMPTION | 12-inch cocktail station plus 6-inch tool/work allowance |
 | OC-004 | Module 3 — centered sink | X = 54–78; 24 W | DESIGN ASSUMPTION | Conditional compact two-compartment sink |
@@ -346,29 +406,23 @@ Operational equipment must retain catalog dimensions. A substitution requires a 
 | OC-006 | Module 5 — refrigerator | X = 96–114; 18 W | DESIGN ASSUMPTION | Rear end |
 | OC-007 | Total nominal line length | 90 | DESIGN ASSUMPTION | Exact sum; no filler/end-panel allowance |
 | OC-008 | Opposite lower-wall floor projection | 0 | DESIGN ASSUMPTION | No cabinet or second counter |
-| OC-009 | Twin-Wing Backbar envelope | TBD | UNKNOWN | Preserve aisle, symmetry and retained street-side door |
+| OC-009 | Twin-Wing Backbar envelope | TBD | UNKNOWN | Preserve aisle, symmetry and retained passenger-side D1 |
 | OC-010 | Splash separation at both sink sides | TBD | UNKNOWN | Written health-authority acceptance required |
 | OC-011 | Drainboard/drying envelope | TBD | UNKNOWN | No integral drainboards in selected concept sink |
 
-## 9. Systems and utility planning zones
+## 9. Systems and utility inventory hold
 
-These are relational constraints rather than fabrication coordinates. Absolute coordinates remain unknown until the chassis and structure are mapped.
+All active Option A system and utility locations are UNSET until the equipment inventory is approved. The historical relationships below are replaced by the hold register.
 
 | ID | Parameter/zone | Provisional relationship | Status | Source / note |
 |---|---|---|---|---|
-| SY-001 | Potable tank | Laterally centered, immediately forward of axle-group center | DESIGN ASSUMPTION | Capacity, shape, supports and clearance TBD |
-| SY-002 | Wastewater tank | Laterally centered, immediately aft of potable tank, near axle-group center | DESIGN ASSUMPTION | Capacity at least 150% of potable; exact volume TBD |
-| SY-003 | Tank service panel | Divided, lockable, street side | DESIGN ASSUMPTION | Longitudinal position TBD |
-| SY-004 | Water-service bay A/B | Below or beside 36-inch warewashing module | DESIGN ASSUMPTION | Equipment and plumbing clearances incomplete |
-| SY-005 | Water-service bay C | Beneath centered 24-inch sink | DESIGN ASSUMPTION | Compact fit is unresolved |
-| SY-006 | Shore inlet/main disconnect | Weather-protected street-side utility zone | DESIGN ASSUMPTION | Exact coordinates and 30-A/50-A selection TBD |
-| SY-007 | Battery/inverter | Ventilated tongue box | DESIGN ASSUMPTION | Box envelope and tongue-weight effect TBD |
-| SY-008 | Interior distribution panel | High, dry, guarded on open front employee-support wall | DESIGN ASSUMPTION | Working-clearance envelope TBD |
-| SY-009 | HVAC | Roof centerline, near axle group | ESTIMATED | Exact product, roof structure and clearances TBD |
-| SY-010 | Relief/exhaust | High street side or roof, toward rear work zone | ESTIMATED | Exact product and penetration TBD |
-| SY-011 | Transit cases | Low over/near axle group during travel only | DESIGN ASSUMPTION | Case count/size and floor anchors TBD |
-| SY-012 | Chemical locker | Low enclosure at hand-sink end | DESIGN ASSUMPTION | Exact usable envelope TBD |
-| SY-013 | Staff waste/recycling/broken glass | Residual undercounter volume near wash line | ESTIMATED | Catalog bins and service clearances unresolved |
+| SY-001 | Potable and wastewater systems | UNSET | UNKNOWN | Capacities, products, supports, servicing and locations await inventory approval |
+| SY-002 | Water-service components | UNSET | UNKNOWN | Pump, filter, heater and fixture loads await inventory approval |
+| SY-003 | Shore power and distribution | UNSET | UNKNOWN | Load calculation and all locations await inventory approval |
+| SY-004 | Battery/inverter | UNSET | UNKNOWN | Need, capacity, enclosure and location await inventory approval |
+| SY-005 | HVAC/relief ventilation | UNSET | UNKNOWN | Need and heat load await inventory approval |
+| SY-006 | Chemical and waste containers | UNSET | UNKNOWN | Products, capacities and locations await inventory approval |
+| SY-007 | Travel restraints and transit cases | UNSET | UNKNOWN | Define after item selection and placement |
 
 ## 10. Dimensional coordination findings
 
@@ -377,24 +431,24 @@ These findings do not revise the design. They identify issues that must be accep
 | Finding | Severity | Observation | Required resolution |
 |---|---|---|---|
 | F-001 | CONTROLLED | The 90-inch work zone is the controlling longitudinal allocation. A 114-inch test shell leaves up to 24 inches ahead of it, but that remainder is a wish-list employee-support area rather than a required zone. | Use the finished-face datums and AS-001. Reduce or omit the nook before reducing required operations, clearances or egress; a work-zone shortfall still requires design review. |
-| F-002 | HIGH | Each A/B equipment schedule totals exactly 90 inches, and the Option C module schedule also totals exactly 90 inches. Catalog widths, end panels, fillers, side clearances, plumbing offsets and shell irregularity have no allocated tolerance. | Create a module-tolerance strategy and test low/high catalog envelopes before Gate 2. Do not resize operational equipment silently. |
+| F-002 | SUPERSEDED BY F-004 | The former Option A equipment schedule totaled exactly 90 inches with no tolerance; historical B/C schedules also totaled 90 inches. | F-004 rejects the active uninterrupted Option A line. Apply tolerance testing to the replacement distribution; B/C schedules are inactive. |
 | F-003 | CONTROLLED | The 56-inch interior width equals one 24-inch counter plus the 32-inch nominal aisle exactly. Any backsplash build-out, handle projection, wall irregularity or opposite-wall lower element can reduce the aisle. | Measure counter depth from finished wall to maximum operating projection and enforce AS-003, AS-004 and AS-009. Any intrusion fails the fit test. |
-| F-004 | HIGH | B/C retain a street-side door, but its position and dimensions are unknown while both backbar compositions depend on it. | Hold final backbar widths, mounting and symmetry until a candidate door is measured. |
+| F-004 | FAILED FIT / HISTORICAL | Option A retained a 30-inch nominal D1 on the passenger wall, but its uninterrupted equipment line was 90 inches. Their combined nominal width was 120 inches, exceeding the 114-inch clear wall by 6 inches before jambs, fillers, approach clearance or service access. | The uninterrupted 90-inch line is rejected. Do not develop another redistribution until the full inventory is approved; then restart placement from an empty fixed-shell model. |
 | F-005 | HIGH | The 60-inch opening centered in the 90-inch zone creates nominal 15-inch end piers, but all structural members and roof-load paths are unknown. | Treat the opening and piers as graphic/design assumptions only until structural mapping and engineering. |
-| F-006 | HIGH | Option C lacks resolved drainboard/drying and two-sided splash-separation envelopes. | Retain the mandatory health-authority condition and block procurement/fabrication/permit use. |
+| F-006 | SUPERSEDED | Option C lacked resolved drainboard/drying and two-sided splash-separation envelopes. | Option C is outside the active scope; retain this finding as history only. |
 | F-007 | MEDIUM | The 60-inch exterior body width and 56-inch finished interior width imply only 2 inches per side for structure, wall curvature, insulation and lining. | Measure widths at several heights and define the actual wall assembly before relying on the implied thickness. |
 | F-008 | MEDIUM | The selected refrigerator is 34.25 inches high below a 36-inch counter, leaving 1.75 inches nominally for countertop/support/clearance. | Verify manufacturer ventilation, leveling and top-clearance requirements and model the complete assembly. |
 | F-009 | MEDIUM | The 33-inch cocktail stations require support/raising to meet the 36-inch counter relationship. | Define support thickness, restraint, drainage and finished rim elevation. |
 | F-010 | MEDIUM | The conservative finished clear-height case is 76 inches while the minimum aisle headroom is 74 inches, leaving only a 2-inch margin for local roof curvature or equipment/fixture projections. | Use 76 inches as the base clear-height model, test 80 inches secondarily and reject any aisle point below 74 inches. |
 | F-011 | MEDIUM | The general service-counter range extends to 40 inches, but the accessible transaction section is provisionally limited to 36 inches maximum. | Model a 36-inch accessible section and resolve any transition to a higher counter only after accessibility review. |
-| F-012 | MEDIUM | Option A's six-inch outboard storage and 14–16-inch ledge share the customer-side wall zone, but their support, door swing and travel envelopes are not defined. | Develop a coordinated section after wall structure is established. |
-| F-013 | MEDIUM | The roof HVAC and Option A escape hatch both depend on unmapped roof bows and occupy the roof/aisle region. | Reserve separate no-conflict zones and do not select products until the roof map exists. |
+| F-012 | ACTIVE FUTURE CHECK | The working glassware strategy tests a maximum 6-inch-deep holder beneath the service window for 10–12 operating glasses. With a 24-inch opposing counter, any full 6-inch interior projection would reduce the 56-inch clear width to a 26-inch aisle and fail the 30-inch minimum. | During post-inventory placement, coordinate the holder with a reduced-depth or interrupted opposing counter condition, or reject the holder and retain all glasses in EQ-017. Verify support, access, retention and travel envelopes in section. |
+| F-013 | MEDIUM | Roof HVAC and any later authority-required roof exit depend on unmapped roof bows and occupy the roof/aisle region. | Map the roof before selecting HVAC; add a roof-exit reserve only if the approved life-safety configuration requires one. |
 | F-014 | MEDIUM | Underfloor tank relationships depend on an unknown axle group, frame rails, cross-members and road clearance. | Keep tank sizes and coordinates unset until candidate and purchased-trailer measurements exist. |
 | F-015 | LOW | The reference height is 81.6 inches while the locked exterior design range is 82–84 inches. | Retain both values separately; use 84 inches only as a conservative design assumption. |
 | F-016 | HIGH | The refrigerator projects 16 inches beyond the counter front with its door at 90 degrees, reducing the nominal 32-inch aisle to 16 inches while open. | Model the complete door-swing volume in every option and resolve workflow/egress before Gate 4. Do not evaluate fit from the closed box alone. |
 | F-017 | HIGH | The optional refrigerator travel latch produces a 19.25-inch width, exceeding the locked 18-inch module. | Exclude that factory option unless the canonical module is revised; develop a compliant external travel-restraint strategy or approved equal. |
 | F-018 | HIGH | The A/B and C sinks have 30-inch catalog work surfaces, six inches below the 36-inch counter datum. Uniformly lifting the Option C sink places its 6.5-inch backsplash top at 42.5 inches. | Develop dimensioned support and wall sections; check drain/service clearances and service-opening interference before option-model approval. |
-| F-019 | CONTROLLED | The drawing generator encoded the Option A roof-hatch proxy as 24 × 18 inches, and the committed SVG labeled it at a forward location, conflicting with the locked 24 × 36-inch minimum in the rear-third aisle. | Corrected the generator to 24 × 36 and corrected `A-PL-01.svg` to label and place the proxy in the rear-third zone. Exact position/product remain VERIFY. |
+| F-019 | SUPERSEDED | The drawing generator and committed Option A SVGs contain a roof-hatch proxy from the former no-side-door scheme. | The base-shell roof hatch is now removed; regenerate affected Option A graphics during Phase 2 and retain a roof exit only as an authority-required contingency. |
 | F-020 | HIGH | Running the current drawing generator does not reproduce the committed approved SVG set; it replaces substantial hand-coordinated content beyond the hatch correction. | Do not bulk-regenerate the approved SVGs. Reconcile generator source and approved outputs through a separately reviewed drawing-pipeline change before treating generation as reproducible. |
 
 ## 11. Candidate-measurement minimum set
@@ -419,7 +473,7 @@ The following measurements are needed to convert the most consequential `UNKNOWN
 16. Roof profile at representative cross-sections.
 17. Front/nose plan profile and usable tack-nook geometry.
 18. Existing floor, wall and ceiling assembly thickness where safely observable.
-19. Clear unobstructed curb-wall region available for the proposed service opening.
+19. Clear unobstructed driver/customer-wall region available for the proposed service opening.
 20. Photographs tied to each measurement, including a visible tape/scale and measurement datum.
 
 These measurements support purchase screening only. A complete physical survey remains required after acquisition.
@@ -444,24 +498,38 @@ The envelope is sufficiently explicit to construct a provisional test shell and 
 
 **Current recommendation:** NOT YET APPROVED.
 
+Before Gate 2, complete and approve the Phase 2 provisional Fabrication Shell. Its service-window opening, reinforcement reserves, wall/finish build-up and usable-space overlay become the spatial boundary for the conversion parameters below.
+
 Before Gate 2 approval:
 
 1. Review the controls for F-001 and F-003 and resolve or explicitly accept findings F-002, F-004 and F-005.
 2. Define counter and aisle measurement datums and projection rules.
 3. Define nominal opening-sill and header-band geometry for test modeling.
-4. Establish tolerance/filler policy for both 90-inch equipment schedules.
-5. Decide how unknown B/C door geometry will be represented in the provisional shell.
-6. Keep B/C backbar envelopes unset until a safe no-intrusion rule is modeled.
-7. Retain Option C's mandatory conditional statement and unresolved sanitation envelopes.
-8. Add missing installation/service envelopes for the water heater, pump and POS, plus physical envelopes for the HVAC, panels, tanks, bins and travel cases before interference approval.
-9. Resolve refrigerator door-swing and travel-restraint conflicts F-016 and F-017.
-10. Resolve sink support/counter/opening coordination in F-018.
+4. Complete and explicitly approve `13-EQUIPMENT-INVENTORY.md`; only then restart equipment placement from an empty fixed-shell model. Do not reuse the superseded 90-inch or 60-inch layouts or resize catalog equipment silently.
+5. Represent D1 as a 30-inch nominal movable reserve until the acquired door is measured; retain the Phase 1 X 18–48 position only as a clearly labeled stress-test proxy.
+6. Exclude superseded Option B/C parameters from the active Gate 2 model and review package.
+7. Add missing installation/service envelopes for the water heater, pump and POS, plus physical envelopes for the optional HVAC, panels, tanks, bins and travel cases before interference approval.
+8. Resolve refrigerator door-swing and travel-restraint conflicts F-016 and F-017.
+9. Resolve sink support/counter coordination in F-018.
 
 ## 13. Approval record
 
 | Gate | Status | Approved by | Date | Scope / conditions |
 |---|---|---|---|---|
 | Gate 1 — provisional envelope | APPROVED | Mike | 2026-09-07 | Purchase-selection mockups only; all documented assumptions and `UNKNOWN` geometry retained; no fabrication or purchase release |
+| Phase 2 review — provisional Fabrication Shell | APPROVED FOR GATE 2 COORDINATION | Mike | 2026-09-25 | Option A only; fixed shell and all UNKNOWN/no-cut/no-fabrication controls retained; no donor verification or fabrication release |
+| Phase 2.1 — Option A service-wall topology | APPROVED | Mike | 2026-09-07; scope narrowed 2026-09-25 | Remove/infill W3; new service-window cutout separate from former W3 frame |
+| Phase 2.2 — service-window size and placement | APPROVED | Mike | 2026-09-07 | 60 × 30 maximum rough opening; 36-inch sill; centered in 90-inch work zone with nominal 15-inch end bands |
+| Phase 2.3 — remaining-window disposition | APPROVED | Mike | 2026-09-07; scope narrowed 2026-09-25 | Retain W1 both sides as fixed sealed glazing; remove/infill W2, W3 and W4 for Option A |
+| Phase 2.4 — rear-door leaf conversion | APPROVED | Mike | 2026-09-07; scope narrowed 2026-09-25 | Both leaves remain operable; fill open-air upper portions; place W2-sized fixed window in one Option A-coordinated leaf and finish the other solid |
+| Phase 2.5 — orientation and D1 planning side | APPROVED | Mike | 2026-09-07 | Driver = customer/service window; passenger = non-customer/utility with D1; D1 is 30-inch nominal outer width; reference driver-side door does not establish project location; curb/street labels retired |
+| Phase 2.6 — D1 opening and hinge reserve | APPROVED | Mike | 2026-09-07 | Hold tongue-side jamb; extend 30-inch nominal width toward wheels; open outward; hinge side remains unknown; protect swing and approach/egress clearance for either hinge direction |
+| Phase 2.7 — service-window structural reserves | APPROVED | Mike | 2026-09-07 | Continuous protected header, full-height jamb and sill zones; dimensions/member sizes/connections remain unknown; corner radii remain unknown; no equipment or utility overlap; no fabrication or cut release |
+| Phase 2.8 — finished-interior boundary | APPROVED | Mike | 2026-09-07 | 114 × 56 × 76 inches finished clear; two-inch nominal allowance each side; eight-inch combined floor/roof-ceiling allowance with split unknown; sill measured from finished floor; equipment remains inside clear envelope |
+| Phase 2.9 — hatch and customer-ledge envelopes | APPROVED | Mike | 2026-09-07 | Top-hinged hatch outward/upward; supports/wind restraint/travel latches required; 14–16-inch operating ledge folded or removed for travel; exterior drainage/seal reserve; zero interior intrusion; final hardware and attachments unknown |
+| Phase 2.10 — utility-penetration reserves | APPROVED | Mike | 2026-09-07 | Passenger/non-customer side; no customer-side outlets; potable, waste and shore power separated; exact locations unknown; protect D1, rear doors, running gear/chassis, lighting, structure and service-window reinforcement; reserve zones only |
+| Phase 2.11 — roof and ventilation reserves | APPROVED | Mike | 2026-09-07 | HVAC optional; conditional low-profile reserve only near lateral centerline/axle group; relief/exhaust high passenger side or rear roof; products/openings/coordinates unknown; protect hatch/header; no base roof exit or roof cuts |
+| Phase 2.12 — chassis and floor exclusions | APPROVED | Mike | 2026-09-07 | Frame/crossmembers/wheel wells/suspension clearances protected unknowns; no unverified floor penetrations or equipment dependence; tank planning zones only near axle group; preserve service access; no mount/cut release |
 | Gate 2 — conversion parameters | PENDING | — | — | Required before option geometry construction |
 
 Approval of this register does not verify the future donor trailer and does not release procurement, cutting, fabrication, permitting or construction documentation.

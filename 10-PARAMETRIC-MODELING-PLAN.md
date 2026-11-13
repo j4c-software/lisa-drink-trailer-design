@@ -1,14 +1,16 @@
 # Lisa Drink Trailer — Parametric Modeling and Concept-to-Construction Plan
 
-**Revision:** 1.0 — September 7, 2026  
-**Status:** CANONICAL WORKFLOW  
+**Revision:** 2.0 — September 25, 2026
+**Status:** OPTION A-ONLY CANONICAL WORKFLOW — EQUIPMENT INVENTORY GATE ACTIVE
 **Purpose:** Establish the controlled path from pre-purchase concept design to consistent mockups, trailer selection, measured redesign and eventual construction documentation.
 
 ## 1. Governing principle
 
 The project will no longer rely on independently generated illustrations, elevations or perspective images to establish geometry.
 
-The approved design intent remains governed by the Master Design Spec, Option A/B/C files and Decisions Log. However, future plans, elevations, sections and presentation views must be derived from a single dimensionally controlled 3D master model wherever geometry is represented.
+The approved design intent remains governed by the Master Design Spec, Option A file and Decisions Log. Options B and C are superseded historical references. Future Option A plans, elevations, sections and presentation views must be derived from a single dimensionally controlled 3D master model wherever geometry is represented.
+
+The exterior **120 × 60 × 84-inch** and finished-clear **114 × 56 × 76-inch** envelopes are fixed design restrictions. The model may not enlarge them to solve fit conflicts.
 
 The master model is initially **provisional** because the actual donor trailer has not yet been purchased or measured.
 
@@ -27,7 +29,7 @@ Until an actual trailer is acquired:
 
 1. `01-MASTER-DESIGN-SPEC.md` governs shared design requirements.
 2. `02-DECISIONS-LOG.md` governs approved decisions and supersessions.
-3. `03-OPTION-A.md`, `04-OPTION-B.md`, and `05-OPTION-C.md` govern option-specific design intent.
+3. `03-OPTION-A.md` governs the sole active option-specific design intent; `04-OPTION-B.md` and `05-OPTION-C.md` are history only.
 4. This document governs the modeling and concept-to-construction workflow.
 5. The parametric master model governs geometric consistency once created and approved at the applicable gate.
 6. Existing SVG concept drawings remain approved concept references, but they are not fabrication drawings and are not to override verified model geometry after the parametric master is approved.
@@ -93,9 +95,71 @@ Approval at Gate 1 does not authorize fabrication, structural cutting, procureme
 
 ---
 
-## 4. Phase 2 — Dimensional conversion specification
+## 4. Phase 2 — Provisional fabrication shell definition
 
-Translate the approved written design into explicit geometric parameters.
+Immediately after Gate 1, derive a separate controlled state from the approved provisional envelope:
+
+**Lisa Trailer — Fabrication Shell • PROVISIONAL / NOT FOR FABRICATION**
+
+This step comes before interior placement because the service-window opening, its reinforcement reserve, the wall assembly and the retained structural bands determine the genuinely usable space available to counters, equipment, circulation and utilities.
+
+The model must keep three independently visible and exportable layers:
+
+```text
+FABRICATION SHELL
+|
+|-- Existing retained shell
+|-- Removal / cut geometry
+`-- New reinforced construction
+```
+
+The first and primary feature is the **driver / customer-side** service-window cutout. At provisional maturity, define and visibly classify:
+
+- one Option A opening disposition that retains W1 on both sides as fixed sealed glazing and removes/structurally infills W2, W3 and W4 before locating the new cutout;
+- a rear-door conversion layer that closes both leaves' open-air/barred upper portions, reserves a W2-sized fixed window in one Option A-coordinated leaf, leaves the other leaf solid and preserves both leaves' egress hardware and swing;
+- a common 30-inch nominal D1 on the **passenger / non-customer / utility side** as a purchase-selection assumption, holding the tongue-side jamb, extending toward the wheels and opening outward; keep hinge side unknown and protect swing/approach clearance for either hinge direction until donor verification;
+- the exterior and interior coordinate datums;
+- the design-intent rough opening, initially no greater than the approved 60 × 30-inch concept maximum;
+- proposed cutout X position, sill elevation and remaining front/rear/header bands;
+- candidate cut-line corner radii;
+- assumed wall thickness/curvature and explicit unknown post, rail, seam and roof-load-path zones;
+- reserved volumes for the future header, full-height jambs, sill/bottom member and connections;
+- lift-up hatch frame, hinge, gas-strut, wind-restraint and travel-latch envelopes;
+- customer-ledge attachment, drainage, flashing, seals and finish-return envelopes; and
+- the resulting finished usable interior boundary against which later equipment and option geometry will be tested.
+
+Provisional outputs:
+
+1. exterior fabrication-intent elevation with dimensioned proposed opening;
+2. interior structural-reserve elevation;
+3. schematic sill, jamb and header sections;
+4. retained / remove / new layer legend;
+5. usable-space overlay showing wall, reinforcement, hatch and ledge intrusions; and
+6. a complete VERIFY/UNKNOWN schedule identifying every value that must be replaced after acquisition.
+
+The provisional Fabrication Shell may guide spatial design but may not provide a 1:1 cut file, final reinforcement size, connection detail or fabrication release.
+
+At provisional maturity, the header, both full-height jambs and sill/bottom member are modeled as continuous protected exclusion zones with dimensions marked **UNKNOWN**. Equipment, cabinetry, utilities, hatch hardware and finish-dependent attachments may not enter those zones. Cut-line corner radii also remain **UNKNOWN** until the hatch frame and fabrication method are selected.
+
+Use the approved 114 × 56 × 76-inch finished-clear envelope as the provisional usable-space boundary. Preserve two inches nominal at each sidewall and preserve the eight-inch combined floor-plus-roof/ceiling allowance without assigning its split. Locate the service-window sill from finished floor. Actual assembly layers remain unknown and must replace these allowances after donor survey; conversion geometry may not expand into them.
+
+Model the hatch and customer ledge as exterior-only operating and travel envelopes: top-hinged hatch opening outward/upward; future supports, wind restraint and travel latches; 14–16-inch operating ledge folded or removed for travel; and exterior flashing, seal and drainage reserves. Permit no intrusion into the 56-inch finished-clear interior. Keep exact frame size, hardware locations, loads and attachments unknown until product selection and structural review.
+
+Show a passenger/non-customer-side utility reserve rather than individual penetrations. Keep potable fill, wastewater service and weather-protected shore power separate, and keep the driver/customer wall free of service connections. Exact coordinates remain unknown until structure, equipment and routing are coordinated. Exclude D1 swing/approach, rear doors, running gear/chassis, road lighting, structural members and service-window reinforcement. A provisional reserve does not authorize a hole or cut.
+
+Treat HVAC as optional. Show only a conditional low-profile roof-unit reserve near the lateral centerline and longitudinally near the axle group, not installed equipment. Keep the product, opening and coordinates unknown until operating need, heat load, roof bows, service-hatch/header clearance, road height, condensate and weight balance are verified. Reserve relief/exhaust high on the passenger/utility side or roof toward the rear work zone. Show no base roof hatch and no roof cut; any later authority-required roof exit forces re-coordination.
+
+Keep frame rails, crossmembers, internal wheel wells and tire/suspension travel clearances as protected unknown geometry. Do not place floor penetrations or let equipment/cabinetry depend on assumed empty space. Preserve running-gear service access. Show potable/waste tanks only as low centered planning zones near the axle group, with dimensions, supports and mounts unknown until chassis, capacity and weight verification. No provisional floor hole or mounting coordinate is released.
+
+### Phase 2 review status
+
+The provisional Fabrication Shell is approved as the spatial-control basis. Equipment placement remains separately blocked by the active inventory gate.
+
+---
+
+## 5. Phase 3 — Dimensional conversion specification
+
+**CURRENTLY PAUSED FOR EQUIPMENT INVENTORY.** After the inventory is explicitly approved, translate the approved list into explicit geometric parameters and begin with an empty fixed-shell model. Do not reuse the superseded placement study as a starting layout.
 
 Typical controlled parameters include:
 
@@ -128,7 +192,7 @@ Approve the dimensional parameter register and identify all remaining VERIFY/UNK
 
 ---
 
-## 5. Phase 3 — Parametric master shell
+## 6. Phase 4 — Parametric master shell
 
 Build one code-driven or otherwise reliably parametric 3D shell from the approved Phase 1 parameters.
 
@@ -166,11 +230,9 @@ Verify the empty master shell against the approved provisional parameter registe
 
 ---
 
-## 6. Phase 4 — Option A/B/C configurations
+## 7. Phase 5 — Option A configuration
 
-Build the three approved design options as configurations within the common shell.
-
-Develop and verify one option at a time.
+Build and verify Option A within the fixed common shell. Do not create new B/C configurations.
 
 For each option, derive directly from the model:
 
@@ -180,16 +242,16 @@ For each option, derive directly from the model:
 - front-wall interior elevation
 - rear-wall interior elevation
 
-This produces the required geometric comparison set of:
+This produces the active geometric set of:
 
-- **3 plans**
-- **12 interior elevations**
+- **1 plan**
+- **4 interior elevations**
 
 These views must be orthographic projections of the same model geometry. They must not be independently redrawn or independently interpreted by image generation.
 
 ### Gate 4
 
-For each option, perform a consistency audit covering:
+For Option A, perform a consistency audit covering:
 
 - shell dimensions
 - service-window geometry
@@ -203,13 +265,13 @@ For each option, perform a consistency audit covering:
 - option-specific workflow
 - utility-zone conflicts
 
-Approve each option before presentation views are generated from it.
+Approve Option A before presentation views are generated from it.
 
 ---
 
-## 7. Phase 5 — Controlled presentation mockups
+## 8. Phase 6 — Controlled presentation mockups
 
-After the model passes Gate 4, establish fixed comparison cameras.
+After the model passes Gate 4, establish fixed Option A cameras.
 
 Recommended common views include:
 
@@ -219,7 +281,7 @@ Recommended common views include:
 - front looking rearward
 - bartender/workflow perspective
 
-Corresponding A/B/C views should use matching camera logic, scale and shell geometry.
+All Option A views should use consistent camera logic, scale and shell geometry.
 
 The 3D model controls all hard geometry.
 
@@ -247,7 +309,7 @@ Any presentation image that conflicts with the approved model is rejected regard
 
 ---
 
-## 8. Phase 6 — Trailer purchasing specification
+## 9. Phase 7 — Trailer purchasing specification
 
 Use the approved provisional model to derive a **donor-trailer fit specification**.
 
@@ -261,13 +323,13 @@ The purchasing specification should identify minimum or maximum acceptable value
 - required unobstructed service-wall region
 - acceptable axle/fender relationship
 - structural regions that cannot conflict with the proposed service opening
-- clearance needed for Option A/B/C equipment layouts
+- clearance needed for the Option A equipment layout
 
 The purpose is to evaluate candidate trailers against the conversion design before purchase.
 
 ---
 
-## 9. Phase 7 — Candidate trailer verification before purchase
+## 10. Phase 8 — Candidate trailer verification before purchase
 
 When a candidate trailer is located, do not rely solely on make/model similarity.
 
@@ -292,7 +354,7 @@ This is a purchase-screening tool, not a substitute for engineering or final fie
 
 ---
 
-## 10. Phase 8 — Purchased-trailer survey
+## 11. Phase 9 — Purchased-trailer survey and fabrication-shell reconciliation
 
 After acquisition, replace provisional shell assumptions with a physical survey of the actual trailer.
 
@@ -317,15 +379,26 @@ Create the controlled model state:
 
 Run all approved conversion geometry against the measured shell and resolve any interferences.
 
+Reconcile the provisional Fabrication Shell to the As Measured shell without overwriting either source state. Replace all provisional opening, wall, structure and usable-space assumptions with measured values. Then complete:
+
+1. exterior cut elevation with a single fabricator datum and cut-point table;
+2. interior structural elevation identifying retained, removed and new members;
+3. sill, jamb and header sections through the actual curved wall assembly;
+4. demolition limits and temporary bracing sequence;
+5. opening and reinforcement schedule with material, section, thickness and connection specifications supplied or approved by the responsible engineer/fabricator;
+6. hatch, hinge, strut, latch, ledge, flashing, drainage, seal and finish-return details;
+7. fabrication-ready vector/CAD export at 1:1 units plus a dimensioned PDF control sheet; and
+8. signed release record identifying measured-model revision, Fabrication Shell revision and approving parties.
+
 ### Gate 5 — Design freeze
 
-No construction-document release occurs until the measured model is reconciled and the selected design is frozen.
+No construction-document or structural-cut release occurs until the measured model is reconciled, the Fabrication Shell is coordinated, the selected design is frozen and the service-window reinforcement has responsible engineer/fabricator approval. This gate coordinates with the Master Design Spec's **G5 — Structural cut** hold point.
 
 ---
 
-## 11. Phase 9 — Construction documentation
+## 12. Phase 10 — Construction documentation
 
-After Gate 5, generate or develop the fabrication-document package from the measured model.
+After Gate 5, generate or develop the fabrication-document package from the approved Fabrication Shell, with the As Measured model retained as the immutable existing-condition reference.
 
 Expected documents may include:
 
@@ -351,7 +424,7 @@ Structural modifications, axle/loading verification, electrical compliance, plum
 
 ---
 
-## 12. Modeling-system selection criteria
+## 13. Modeling-system selection criteria
 
 Do not choose the modeling platform primarily because it is convenient on iPad.
 
@@ -369,7 +442,7 @@ Code-driven modeling systems such as FreeCAD scripting, OpenSCAD or comparable p
 
 ---
 
-## 13. iPad role
+## 14. iPad role
 
 The iPad Pro is primarily an approval and review interface in this workflow.
 
@@ -377,7 +450,7 @@ Expected iPad tasks:
 
 - rotate and inspect the 3D model
 - review plan/elevation sheets
-- compare A/B/C configurations
+- review the Option A configuration against the fixed shell
 - mark up conflicts
 - approve/reject design changes
 - review candidate-trailer fit
@@ -386,9 +459,9 @@ The user is not required to manually reproduce the model in an iPad CAD applicat
 
 ---
 
-## 14. Immediate next action
+## 15. Immediate next action
 
-Before any new geometry or presentation rendering is produced, create the **Master Dimensional Parameter Register** for Phases 1 and 2.
+The Phase 2 provisional Fabrication Shell is approved as the fixed spatial-control basis. The immediate task is to complete and explicitly approve `13-EQUIPMENT-INVENTORY.md`. Do not create, revise or optimize equipment placement during this step. After approval, open a clean fixed-shell model with all equipment absent and begin placement from scratch.
 
 The register must expose every material dimensional assumption and label it:
 
@@ -397,17 +470,21 @@ The register must expose every material dimensional assumption and label it:
 - DESIGN ASSUMPTION
 - UNKNOWN
 
-The first review objective is to identify hidden contradictions or unsupported dimensions before they propagate into the parametric master.
+The next review objective is to complete and explicitly approve the equipment inventory without assigning spatial relationships.
 
 ---
 
-## 15. Current release state
+## 16. Current release state
 
-As of September 7, 2026:
+As of September 25, 2026:
 
 - the actual donor trailer has **not** been purchased or physically measured;
 - the Circle J two-horse straight-load platform remains the representative concept basis;
-- existing approved SVG drawings remain valid concept references;
+- Phase 1 / Gate 1 is approved for purchase-selection mockups only;
+- Option A is the sole active design; B/C drawings are historical references only;
+- existing Option A equipment drawings are superseded placement studies and may not drive new work;
 - those drawings are **not** fabrication drawings;
 - future geometry-controlled mockups are to be regenerated from the approved parametric master once built;
-- construction documentation remains blocked until the actual trailer is acquired, surveyed and reconciled through Gate 5.
+- the Phase 2 provisional Fabrication Shell is the approved spatial-control state and defines the Option A service-window design intent plus fixed usable-space boundary;
+- the active review state is equipment inventory only; all equipment and system placement remains unset;
+- construction documentation and structural cutting remain blocked until that state is reconciled to the acquired trailer's survey, completed with approved reinforcement and released through Gate 5.

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
   <title id="title">Phase 1 Provisional Concept Shell Plan</title>
-  <desc id="desc">Plan of the provisional Circle J concept shell showing the 120 by 60 inch exterior body, 114 by 56 inch interior clear envelope, nominal 48 inch tongue, provisional rear-door opening, and photo-estimated running gear. The concept opening arrangement is curb-side W1, 30-inch nominal D1 and W3, with street-side W1, W2 and W4. W1 is one-half W2 width. D1 extends toward the wheels from its held tongue-side jamb. Actual openings and structural geometry remain unknown.</desc>
+  <desc id="desc">Plan of the provisional Circle J concept shell showing the 120 by 60 inch exterior body, 114 by 56 inch interior clear envelope, nominal 48 inch tongue, provisional rear-door opening, and photo-estimated running gear. The passenger non-customer utility side has W1, 30-inch nominal D1 and W3. The driver customer service side has W1, W2 and W4. W1 is one-half W2 width. D1 extends toward the wheels from its held tongue-side jamb. Actual openings and structural geometry remain unknown.</desc>
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#68706d"/>
@@ -20,8 +20,8 @@
   <!-- Direction labels -->
   <text x="225" y="226" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#315b50">FRONT / TONGUE</text>
   <text x="1390" y="185" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#315b50">REAR / DOUBLE DOORS</text>
-  <text x="720" y="215" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#315b50">CURB / CUSTOMER SIDE</text>
-  <text x="720" y="735" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#315b50">STREET / UTILITY SIDE</text>
+  <text x="655" y="215" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#315b50">PASSENGER / NON-CUSTOMER / UTILITY SIDE</text>
+  <text x="720" y="735" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#315b50">DRIVER / CUSTOMER / SERVICE SIDE</text>
 
   <!-- Nominal A-frame and coupler; shape is explicitly provisional -->
   <circle cx="214" cy="480" r="15" fill="#fffdf8" stroke="#2e3232" stroke-width="6"/>
@@ -45,10 +45,10 @@
   <path d="M 520 264 H 596 M 1033 264 H 1350" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
   <path d="M 608 264 H 824" fill="none" stroke="#315b50" stroke-width="12" stroke-linecap="butt"/>
   <line x1="716" y1="250" x2="716" y2="184" stroke="#315b50" stroke-width="3" marker-end="url(#arrow)"/>
-  <text x="716" y="174" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#315b50">D1 OPENS OUTWARD</text>
-  <text x="782" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">CURB CONCEPT: W1 + 30&quot; NOM. D1 + W3 • CLEAR OPENING VERIFY</text>
+  <text x="716" y="174" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#315b50">D1 OUTWARD • HINGE SIDE UNKNOWN</text>
+  <text x="782" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">PASSENGER / UTILITY: W1 + 30&quot; NOM. D1 + W3 • CLEAR OPENING VERIFY</text>
   <path d="M 520 696 H 596 M 658 696 H 810 M 1033 696 H 1350" fill="none" stroke="#b56f4c" stroke-width="9" stroke-linecap="round"/>
-  <text x="807" y="672" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">DRIVER CONCEPT: W1 + W2 + W4 • OPENINGS VERIFY</text>
+  <text x="807" y="672" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#b56f4c">DRIVER / CUSTOMER: W1 + W2 + W4 • OPENINGS VERIFY</text>
 
   <!-- Photo-estimated axle centers; lines stop at the body so unknown internal wheel-well geometry is not implied -->
   <line x1="990" y1="190" x2="990" y2="264" stroke="#b56f4c" stroke-width="3" stroke-dasharray="9 6"/>

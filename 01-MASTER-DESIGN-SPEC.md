@@ -1,10 +1,10 @@
 # Lisa Drink Trailer — Master Design Specification
 
-**Document role:** Authoritative shared design specification for every Lisa Drink Trailer workstream  
-**Status:** APPROVED CONCEPT BASIS — PRE-ACQUISITION / PRE-MEASUREMENT  
-**Revision:** 4.2 — September 7, 2026
-**Selected platform:** Mid-1980s Circle J two-horse, straight-load, bumper-pull trailer  
-**Geographic basis:** California, with San Francisco operation assumed until changed  
+**Document role:** Authoritative shared design specification for every Lisa Drink Trailer workstream
+**Status:** OPTION A ONLY — PERSONAL-USE CONCEPT BASIS — PRE-ACQUISITION / PRE-MEASUREMENT
+**Revision:** 5.10 — September 25, 2026
+**Selected platform:** Mid-1980s Circle J two-horse, straight-load, bumper-pull trailer
+**Use basis:** Personal/private use; no commercial mobile-food operation is in the active scope
 
 ## Canonical authority
 
@@ -12,9 +12,20 @@ This file is the authoritative record for all shared trailer geometry, dimension
 
 Repository authority: the public GitHub repository `j4c-software/lisa-drink-trailer-design` is the sole authoritative project record.
 
-Authority order: **MASTER-DESIGN-SPEC → applicable OPTION FILE → DECISIONS LOG → PRESENTATION SPEC → RENDERING CONTROLS → RENDER BRIEF MATRIX → VISUAL QA REGISTER → chat discussion**.
+Authority order: **MASTER-DESIGN-SPEC → applicable OPTION FILE → DECISIONS LOG → EQUIPMENT INVENTORY → PARAMETRIC MODELING PLAN → PRESENTATION SPEC → RENDERING CONTROLS → RENDER BRIEF MATRIX → VISUAL QA REGISTER → chat discussion**.
 
 If a chat summary conflicts with this file, this file wins. If a rendering conflicts with this file, the rendering is wrong. An approved change must be written into this file and `02-DECISIONS-LOG.md` before further rendering or downstream work.
+
+## September 25, 2026 scope control
+
+This scope control governs the entire document and supersedes conflicting legacy language below:
+
+1. **Option A is the sole active design.** Options B and C are retained only as superseded historical references; do not develop, render, model, specify or procure them.
+2. **The trailer is for personal/private use.** The former San Francisco commercial mobile-food-facility program is archived and inactive. It must be revalidated from current authoritative sources before any future commercial, public-vending or permitted-event use.
+3. **This scope change is not a legal or safety exemption.** Roadworthiness, title/registration, towing limits, structure, electrical, plumbing, fire/life safety, alcohol-service rules and venue-specific conditions still require appropriate review.
+4. **The shell is a fixed design restriction:** maximum exterior body envelope **120 × 60 × 84 inches** and finished clear interior envelope **114 × 56 × 76 inches**. Do not enlarge the shell to solve layout conflicts. A smaller acquired donor requires reduction and recoordination; a larger donor does not enlarge the approved design without a formal revision.
+5. **Personal-use sanitation basis:** retain one commercial drop-in basin integrated into the future cabinetry for shared personal-use handwashing and light washing, plus an adjacent drainable landing/drying surface, cleanable finishes and contained water/waste systems. The exact sink selection, glass rinsing, ice handling and water/waste components remain inventory decisions. They are no longer contingent on commercial health-department approval, but must still fit, function, drain safely and remain serviceable.
+6. **Equipment inventory gate:** all equipment is unplaced. Do not assign walls, zones, order, coordinates, cabinetry or utility routes until `13-EQUIPMENT-INVENTORY.md` is complete and Mike explicitly approves it. All prior Phase 3 placements are superseded studies.
 
 ## How every project chat must use this resource
 
@@ -23,7 +34,7 @@ If a chat summary conflicts with this file, this file wins. If a rendering confl
 3. Treat values marked **VERIFY** as required measurements or decisions.
 4. Record every new verified value in the Master Data Record below, including its source and date.
 5. Never substitute dimensions from another Circle J trailer. Circle J two-horse trailers varied by year, roof, floor, axle, tack-room and warmblood configuration.
-6. Obtain HCD and health-plan approval before construction or equipment installation. Structural openings must be reviewed by the responsible fabricator/engineer before cutting.
+6. Obtain qualified structural/fabrication review before cutting the shell and licensed-trade review where required. Re-establish the applicable state/local approval path before any future commercial or public operation.
 7. Use the locked concept-design envelope in Section 1A for all layouts, future authorized renderings, equipment studies and preliminary calculations. It may be changed only by an explicit revision to this specification and the Decisions Log.
 
 ### Evidence hierarchy
@@ -53,8 +64,8 @@ Use sources in this order:
 | Axles | Tandem axle | WORKING | Seller description/reference photos |
 | Existing systems | Breakaway system, brakes, bearings and lights reportedly serviceable | WORKING | Seller statement; independent inspection required |
 | Existing floor | Reportedly good | WORKING | Material and structural condition unknown |
-| Conversion use | Mobile cocktail-bar trailer | CONFIRMED | Locked project decision |
-| Operating jurisdiction | San Francisco, California | WORKING | Confirm other counties/cities and event use |
+| Conversion use | Personal-use cocktail trailer | CONFIRMED | Locked September 25, 2026 scope |
+| Operating jurisdiction | Private use; location-specific restrictions remain VERIFY | WORKING | No commercial MFF jurisdiction is assumed |
 
 **Identity caution:** Do not call the trailer a LaGrande, Mustang, Riata, Mirage or Runabout without the VIN/data plate or factory documentation. The selected form is the standard vintage Circle J 2H straight-load type.
 
@@ -77,9 +88,9 @@ Use sources in this order:
 | Rear-door opening | **48–54 in W × 72–76 in H** | Fit design to 48 × 72 in until measured |
 | Front employee-support area | **Up to 24 in desired** | Wish-list remainder after the required work zone; no minimum depth and no partition |
 | Floor/deck height above grade | **18–24 in** | Use 24 in for step/access studies |
-| Main work counter | **24 in D × 36 in H** | Standard catalog equipment; either opposite the window (Option A opposite-wall service) or directly beneath it (Options B/C standard-bar service) |
+| Candidate main work counter envelope | **24 in D × 36 in H** | Maximum study envelope only; location and composition UNSET until inventory approval |
 | Clear employee aisle | **30–34 in** | Never less than 30 in |
-| Window-side storage cabinets | **6 in D maximum, projecting outboard below ledge** | Option A opposite-wall service only; interior face stays flush so the aisle remains 32 in |
+| Candidate window-side operating-glass holder | **6 in D maximum study envelope** | WORKING relationship only; target 10–12 glasses transferred from the main reserve during operation. Exact envelope and location remain UNPLACED and must preserve the 30-in minimum aisle |
 | Exterior customer ledge | **14–16 in D in operating mode** | Folding or removable for travel; positively latched in both states; confirm structure, support brackets, accessibility, travel width and customer clearances |
 | Exterior bar window/hatch | **60 in W × 30 in H maximum concept opening** | One centered opening only; engineered frame required |
 | Active regulatory pass-through | **12 × 18 in until written approval permits more** | Use screened/self-closing inserts or internal closures if required |
@@ -98,13 +109,17 @@ Use sources in this order:
 | Loaded tongue-weight target | **12–13%** |
 | Water weight | **8.34 lb/gal** |
 
-### Locked layout consequence
+### Locked width constraint
 
-The 56-inch clear-width arrangement is one **24-inch standard-equipment counter** plus a **32-inch clear aisle**. In Option A, the counter is opposite the window and six-inch storage projects outboard beneath the ledge. In Options B and C, the counter is directly beneath the window and no outboard cabinet is used. Options B and C add shallow illuminated functional back-bars within the verified wall/upper-service envelope; neither may create a floor cabinet or reduce the 32-inch clear aisle. Option B uses an asymmetrical continuous **Linear Gallery** composed around one bartender's forward-to-rear workflow. Option C uses a symmetrical **Twin-Wing Backbar** composed around two equal stations and a shared center. Two conventional full-depth counters are prohibited.
+Any future placement must fit within the 56-inch finished-clear width and preserve an aisle of at least 30 inches. A 24-inch counter with a 32-inch aisle is a dimensional stress test, not an approved wall assignment. Equipment placement and counter composition are UNSET until inventory approval. Former Options B and C relationships are superseded and are not active layout alternatives.
 
 ### Basis and replacement rule
 
 The dimensional starting point is a documented 1989 steel Circle J two-horse straight-load trailer listed as 10 ft long × 5 ft wide × 6.8 ft high, adjusted into a conservative finished-interior envelope. The weight values are planning allowances, not factory ratings. Immediately after acquisition, replace these assumptions with VIN-plate data, measured geometry and certified scale weights through a controlled revision; retain this section in revision history.
+
+### Phase 2 finished-interior boundary
+
+For the provisional Fabrication Shell, the approved **114-inch clear length × 56-inch clear width × 76-inch clear height** is the usable-space boundary for all later equipment and circulation studies. Retain a nominal two-inch allowance at each sidewall between the 60-inch exterior width and 56-inch finished-clear width. Retain the eight-inch combined difference between the 84-inch exterior height and 76-inch finished-clear height without assigning it between floor and roof/ceiling. Measure the service-window sill from the provisional finished-floor datum. Insulation, framing, liner, floor and ceiling layer thicknesses remain **UNKNOWN** until the donor is surveyed; equipment may not consume these reserved allowances.
 
 ## 1B. Locked exterior-photo reference
 
@@ -124,11 +139,11 @@ Exterior concepts shall be shown in a realistic operating setting rather than ag
 
 ## 1C. Locked exterior customer-experience requirements
 
-**Decision status: APPROVED AND LOCKED FOR DESIGN.** Apply these requirements to the common exterior concept used with all three interior options.
+**Decision status: APPROVED AND LOCKED FOR DESIGN.** Apply these requirements to the Option A exterior concept.
 
 ### Service and customer flow
 
-- Organize the single wide service opening with **order/POS at the customer’s right, bartender interaction/preparation at center and finished-drink pickup at the customer’s left**. This preserves the approved physical front/tongue-to-rear workflow and all approved elevations.
+- Preserve the approved customer-facing service flow of **order at the customer’s right, interaction at center and pickup at the customer’s left**. POS and production-equipment locations remain UNSET until inventory approval and new placement.
 - Use small removable `ORDER` and `PICKUP` identifiers rather than additional openings or permanent projecting signs.
 - Position a high-contrast removable menu so approaching guests can read it before reaching the transaction point and without blocking the active customer.
 - Keep customer waste, cup return and water away from both the order and pickup ends; use a separate portable service point.
@@ -195,7 +210,7 @@ Do not include fixed trailer-mounted stools, permanent exterior bottle/glass she
 | Rear treatment | Preserve recognizable double doors with an optional small removable brand mark |
 | Deployable package | Furniture, umbrellas, menu, waste station and portable lights are coordinated loose event equipment |
 
-These selections govern future renderings and presentation sheets for all three interior options unless explicitly revised.
+These selections govern future Option A renderings and presentation sheets unless explicitly revised.
 
 ## 1E. Locked exterior operations, safety and travel elements
 
@@ -204,19 +219,19 @@ These selections govern future renderings and presentation sheets for all three 
 - Support the service hatch with rated gas struts or rigid locking arms and a positive wind-restraint system.
 - Provide a continuous hatch compression gasket, drip rail and controlled end drainage away from customers.
 - Use flush keyed hatch locks plus redundant positive travel latches.
-- Options B and C retain the opposite-side staff door with an illuminated deployable step, grab handle and interior release. Option A assumes no usable street-side door and permanently infills any existing horse/escape door through an engineered, weather-sealed, insulated and finish-matched assembly.
-- Retain rear double doors as functional egress with weather seals and hold-open catches, subject to final life-safety review. They are the primary staff entrance/exit in Option A and secondary egress in Options B and C.
+- Option A uses a retained 30-inch nominal D1 on the **passenger / non-customer / utility side** as the Phase 2 purchase-planning assumption. Hold the Phase 1 tongue-side jamb and extend the nominal width toward the wheels. Model D1 as outward-opening with an illuminated deployable step, grab handle and interior release. The hinge side remains **UNKNOWN** until the donor is verified, so the provisional shell must protect the exterior swing and interior approach/egress clearance for either hinge direction rather than choosing one silently. This does not claim that the representative reference trailer has a passenger-side escape door; its photographed escape door is on the driver side. Actual construction and clear opening remain VERIFY.
+- Retain both rear door leaves as functional outward-opening egress with weather seals, positive latches and hold-open catches, subject to final life-safety review. Close the existing open-air/barred upper portion of each leaf with structural, insulated, weather-sealed and cleanable construction. Reserve a W2-sized fixed window in one leaf and make the other leaf solid; final left/right placement must coordinate with Option A. Reuse the W2 unit only if its measured frame, glazing and condition are suitable; otherwise provide an approved matching replacement.
 - Provide four discreet corner stabilizers, removable ground pads, portable leveling blocks and an exterior level indicator.
 - Provide dedicated secured storage for wheel chocks.
 - Consolidate shore power, potable-water fill and service connections within a lockable non-customer-side utility panel.
 - Place capped and labeled waste servicing on the non-customer side; no exposed service hose during operation.
 - Use a lockable, ventilated charcoal-painted tongue box for approved batteries and protected electrical components.
-- Reserve a low-profile roof HVAC location only after roof structure, clearance and weight balance are verified.
+- HVAC is optional. Preserve only a conditional low-profile roof-unit reserve until operating need, heat load, roof structure, clearance, road height and weight balance are verified; do not depict or procure a unit merely because the reserve exists.
 - Keep required weather-protected mechanical vents minimal and primarily on the non-customer side.
 - Provide separately controlled, shielded staff-entry lighting.
-- Reserve an exterior-accessible fire-extinguisher position near the applicable staff entrance—rear doors for Option A and street-side door for Options B and C—subject to fire-authority review.
+- Reserve an exterior-accessible fire-extinguisher position near the Option A staff entrance—rear doors or passenger-side D1 as final circulation dictates—subject to qualified fire/life-safety review.
 - Coordinate keyed security for the hatch, staff door, utility panel and tongue box.
-- Provide screened or self-closing service-opening inserts when required by the health authority.
+- Treat screened or self-closing service-opening inserts as an optional future addition unless a changed use or venue requires them.
 - Define secured onboard travel storage for the menu, ledge components, portable lights, umbrellas, cords and loose hardware.
 - Preserve all required road marker lights, reflectors, license plate and plate illumination.
 - Use portable venue-managed audio; no permanently mounted exterior speakers.
@@ -232,11 +247,11 @@ These choices change the health classification, equipment, tanks, power, weight 
 | Product scope | Cocktails and supporting nonalcoholic mixers/garnishes | CONFIRMED | Locked design requirement; exact menu remains VERIFY |
 | Food preparation level | Beverage preparation only unless explicitly revised | CONFIRMED | No cooking or general food preparation in base design |
 | Alcohol | Spirits/cocktail service | CONFIRMED | Licensing and service-control model remain VERIFY |
-| Service model | Bartender(s) inside; exterior runner required above 100 guests | LOCKED | No customers inside |
-| Staffing | Maximum two employees inside | LOCKED | One or two bartenders by option; exterior runner does not occupy the trailer |
+| Service model | Option A: bartender inside; exterior support optional for larger private events | LOCKED | No customers inside |
+| Staffing | One primary bartender with occasional second person inside | LOCKED | Exterior support does not occupy the trailer |
 | Throughput | 100 guests, 250 beverages, four hours; single 35–45/hr sustained; two 60–75/hr sustained | LOCKED | Short peaks: single 50–60/hr; two 80–90/hr |
-| Operating locations | Public street; private property; catered events; indoor convention/event halls; multiple counties | VERIFY |  |
-| Service side | Curb/passenger side | LOCKED | Confirm deployed venue geometry without changing the service side |
+| Operating locations | Private property and private events only | LOCKED | Revalidate venue and legal requirements for each location; commercial/public vending is outside active scope |
+| Service side | **Driver / customer side** | LOCKED | Confirm deployed venue geometry without changing the service side |
 | Customer interface | One wide service window; customer-facing order-right/pickup-left; 14–16-in operating ledge | LOCKED | Accessible transaction provision required |
 | Menu temperature control | Ambient and refrigerated cocktail ingredients; no hot holding | LOCKED | Blender is optional; capacity may not depend on frozen drinks |
 | Ice model | Purchased food-grade ice loaded into insulated wells with protected replenishment | LOCKED | No onboard ice maker in base program |
@@ -342,8 +357,8 @@ Take dimensions at floor, counter, shoulder and roof-spring heights; vintage wal
 | Wheel-box length/width/height and locations | TBD |
 | Front tack-area floor and nose geometry | TBD |
 | Rear opening clear width/height | TBD |
-| Existing curb-side opening(s) | TBD |
-| Existing street-side opening(s) | TBD |
+| Existing driver-side opening(s) | TBD |
+| Existing passenger-side opening(s) | TBD |
 | Roof curvature/profile at 6-inch stations | TBD |
 | Wall curvature/profile at proposed service opening | TBD |
 
@@ -397,35 +412,34 @@ Maintain a component schedule with item, quantity, unit weight, total weight and
 - Maintain design reserve rather than designing exactly to GVWR.
 - Perform a documented loaded road test, brake-controller setup and sway assessment before service.
 
-## 6. Locked functional space plan
+## 6. Locked functional requirements — placement unset
 
-**Decision status: LOCKED FOR DESIGN.** Final placement awaits actual dimensions, menu, equipment selection and weight model, but every layout must provide the following functions within the locked dimensional envelope.
+**Decision status: FUNCTIONS LOCKED; PLACEMENT PROHIBITED UNTIL INVENTORY APPROVAL.** The table records required relationships and safety constraints, not locations. Every location is UNSET unless it is part of the fixed shell itself.
 
-| Zone | Preferred location | Key requirements |
+| Function | Placement state | Key requirements |
 | --- | --- | --- |
-| Service/order window | Curb/passenger side | Structural header/jambs; weather closure; health-compliant opening; customer counter |
-| Primary work counter | Layout-dependent: opposite or directly beneath window | One 24-in-deep service line only; equipment sequence follows order-to-handoff workflow |
-| Handwashing | Immediately accessible | Cannot be obstructed; splash separation as required |
-| Warewashing | Within the primary service line; location is layout-dependent | The Option A opposite-wall and Option B one-bartender arrangements group the sink toward the front; Option C centers the shared sink between fixed stations. Basin count, drainboards, splash separation and largest-utensil fit require written approval. |
-| Refrigeration | Low, near axle group | Ventilation, door retention and service access |
-| Potable/waste tanks | Low, centered and near axle group | Fill/drain access; freeze/service access; structural supports |
-| Electrical panel/inverter | Dry service compartment | Required working clearance; protected from plumbing |
-| Battery | Low ventilated/protected compartment | Crash restraint; isolation; service access |
-| Water heater/pump | Plumbing service bay | Leak pan, isolation valves and winterization access |
-| POS/pickup | Service window end | Dry, ergonomic and secure for travel |
-| Chemical storage | Separate low enclosure | No food or utensil co-storage |
-| Employee exit | Option A: rear double doors plus reserved roof escape hatch; Options B/C: street-side door plus rear double doors | Unobstructed paths and required second exit; final configuration requires life-safety approval |
+| Service/order window | Fixed-shell feature: driver/customer side | Structural header/jambs; weather closure; safe cleanable opening; customer counter |
+| Primary work surface | UNSET | Determine only after inventory approval; preserve aisle and service access |
+| Cabinet-integrated single-basin sink application | UNSET / exact product open | Provide one commercial drop-in basin for shared personal-use handwashing and light washing, with an adjacent drainable landing/drying surface in the future countertop; verify cutout, cabinet/service envelope, accessibility, splash control and drainage |
+| Refrigeration | UNSET | Two units requested; ventilation, door retention and service access required |
+| Potable/waste tanks | UNSET | Fill/drain access, freeze/service access and structural supports required |
+| Electrical distribution/inverter | UNSET | Dry, protected and provided with required working clearance |
+| Battery | UNSET | Crash restraint, isolation, ventilation and service access required |
+| Water heater/pump | UNSET | Leak management, isolation valves and winterization access required |
+| POS/pickup | UNSET | Dry, ergonomic and secure for travel if retained in the inventory |
+| Chemical storage | UNSET | Separate liquid-tight enclosure; no food or utensil co-storage |
+| Employee exit | Option A: retained donor side door plus rear double doors as base-shell egress candidates | Keep paths unobstructed; roof exit only if later required by a qualified review or operating condition |
 
 ### 6A. Main cocktail-production and service zone
 
 The former horse compartment is the complete production, sanitation, storage and customer-service zone. It must include:
 
-- One weather-sealed **60 × 30-inch maximum concept bar window/hatch**, uninterrupted exterior drink ledge and visible menu; full-open operation remains subject to SFDPH and structural approval
-- One of the locked option relationships: (a) Option A street/opposite-wall service line opposite an open window with six-inch outboard dry storage; (b) Option B service line directly beneath the window plus an asymmetrical shallow **Linear Gallery** back-bar for one bartender; or (c) Option C two-bartender service line directly beneath the window plus a symmetrical shallow **Twin-Wing Backbar** arranged for balanced access from both stations. Options B and C have no outboard cabinet and preserve the aisle.
+- One weather-sealed **60 × 30-inch maximum concept bar window/hatch**, uninterrupted exterior drink ledge and visible menu; full-open operation remains subject to structural review and safe operating conditions
+- A future equipment layout developed from scratch after inventory approval, with required aisle and egress clearances
 - POS station with protected power and reliable cellular/Wi-Fi connectivity
-- Dedicated, continuously accessible handwashing sink with hot and cold water, soap and paper towels
-- Bartender wash/prep sink and the permit-required warewashing configuration. Sink position follows the approved layout workflow rather than a universally fixed end location. The current two-compartment bases in all options require written health-authority acceptance before procurement or fabrication; otherwise redesign for the required three-compartment arrangement. Option C also requires approval of its compact bowl sizes, drainboard/drying method and two-sided splash separation.
+- One commercial single-basin drop-in sink integrated into the future cabinet countertop for shared personal-use handwashing and light washing, with faucet, soap and paper towels. Provide an adjacent drainable landing/drying surface in the countertop. The former two-compartment and standalone hand sinks are historical references only. Use the Krowne HS-2017 as the current planning basis, then confirm the final product, cutout, rim support, faucet clearance, splash control, drain routing, drying method, below-counter plumbing and removable service access before procurement.
 - Insulated ice well with bottle wells, speed rails, scoop holder and contained drainage
+- Pair the selected working ice/drink well functionally with one shallow, softly illuminated and positively restrained bottle display on the passenger-side production wall, directly above or immediately adjacent. Keep high-use working bottles low in secured rails/wells. Exact position and display envelope remain UNPLACED until the inventory is approved and D1, aisle, wet-zone and reach clearances are modeled.
 - Under-counter refrigeration for mixers, juices, garnishes, wine/beer where offered, and other temperature-controlled ingredients
 - Lockable liquor storage and positively restrained bottle storage for travel
 - Protected glassware storage and drying racks
@@ -438,9 +452,11 @@ The former horse compartment is the complete production, sanitation, storage and
 - GFCI-protected receptacles, correctly sized distribution and shore-power connection; add battery/inverter or generator only if the approved operating model requires it
 - Insulation, mechanical ventilation and cooling adequate for staff, equipment heat and a closed metal shell
 
-### 6B. Front changing/tack area — wish-list employee break/support area
+### 6B. Front changing/tack area — clean glassware priority / support nook secondary
 
-When verified trailer length remains after the required work zone is accommodated, use up to 24 inches of the existing front changing/tack area as an open micro employee break/support nook visible from the work aisle. The 24-inch depth is a wish-list target, not a minimum requirement, and may shrink or disappear rather than displacing required operations, clearances or egress. If provided, it is not overflow beverage preparation or general equipment storage and should include, in priority order as space permits:
+Prioritize enclosed clean storage for the two covered 25-glass commercial racks at the inside front of the trailer. Use a nominal 20 W × 20 D × 24–30 H-inch cabinet only as a fit-test envelope; exact corner, shape and dimensions remain UNPLACED until measured front curvature, structure, D1 approach, aisle and tongue-weight effects are modeled. The cabinet requires positive travel latching and internal rack restraint and must remain separated from chemicals, waste, gas and wet utilities.
+
+Only after the glassware cabinet and required operations fit may remaining front space provide an open micro employee break/support nook visible from the work aisle. The former 24-inch nook depth is a wish-list maximum, not a minimum requirement, and may shrink or disappear. If provided, it should include, in priority order as space permits:
 
 - No partition, curtain or overhead track between the nook and beverage operations
 - Compact built-in seat or fold-down jump seat
@@ -453,13 +469,13 @@ When verified trailer length remains after the required work zone is accommodate
 - Independent or shared conditioned ventilation and low-glare task lighting
 - Optional compact employee-only refrigerated compartment only if the final space, electrical and weight budgets permit it
 
-Chemicals, garbage, dirty utensils and exposed plumbing are prohibited in this area. Electrical equipment may not occupy required employee space or violate service-clearance requirements.
+Chemicals, garbage, dirty utensils, bulk liquor, kegs, gas cylinders, water/waste tanks, batteries and exposed plumbing are prohibited in the clean-glass cabinet or employee-support area. Electrical distribution may remain high and dry at the front operational bulkhead only in a separately protected, accessible compartment that does not occupy required employee space or violate service-clearance requirements.
 
 ### 6C. Locked cross-system design controls
 
 1. **Weight and balance:** Locate water, wastewater, ice, batteries, refrigeration and bulk liquor low and as close to the axle group as practicable. Validate full, partially full and empty operating states.
 2. **One-direction workflow:** Arrange order/payment → ice/bottles → mixing → garnish → handoff without avoidable crossing between workers or between clean and dirty work.
-3. **Sanitation separation:** Provide distinct locations for handwashing, warewashing, beverage production, chemicals, waste and employee belongings.
+3. **Sanitation separation:** For the active personal-use design, the single sink may serve handwashing and light washing at different times; clear and rinse the basin between uses, keep soap/paper towels accessible, and prevent chemicals, waste and employee belongings from contaminating the sink or beverage-production surfaces. A future commercial-use scope would require complete revalidation and may require physically separate fixtures.
 4. **Contained drainage:** Every sink, ice well and condensate-producing appliance must drain to the approved waste system; discharge to the ground is prohibited.
 5. **Travel security:** Bottles, glassware, appliances, doors, drawers, hatches, seating and loose equipment require positive travel restraints.
 6. **Climate control:** Insulation, ventilation and active cooling must be sized for occupied service in the metal trailer, including equipment heat and expected outdoor conditions.
@@ -490,30 +506,32 @@ These functional requirements are locked. Exact appliance models, sink count/con
 - Exclude espresso, cooking, a draft system and onboard ice production from the locked base program.
 - Events above 100 guests require an exterior event runner and protected staged replenishment of purchased food-grade ice, glassware or serviceware, beverages and waste handling.
 - Guest count alone does not establish service capacity. Reduce the accepted event size or simplify the menu when labor-intensive, individually muddled or blended drinks dominate.
-- **Option A:** one primary bartender with occasional inside support. **Option B:** optimized for 75–100 guests and approximately 200 beverages. **Option C:** optimized for 100–125 guests and up to 250 beverages; 150 guests remains conditional as stated above.
+- **Option A:** one primary bartender with occasional inside support. Event counts and throughput are private-event stress-test assumptions, not commercial service-capacity or permit claims.
 
 ### 6E. Single large bar-window control
 
-All layout concepts use one lift-up bar window on the curb/passenger side. The maximum concept rough opening is **60 inches wide × 30 inches high**, centered within the 90-inch main work-zone wall. This retains nominal **15-inch solid wall piers** between the opening and the front work-zone boundary and between the opening and the rear portal.
+Option A uses one lift-up bar-window cutout on the **driver / customer / service side**. Retain W1 on both sides as fixed, sealed glazing in the forward area. Remove W2, W3 and W4 and reconstruct their full former openings as structurally coordinated, insulated, weather-sealed and smooth cleanable infill; do not treat any former window frame as service-window reinforcement or a mounting substrate. The maximum concept rough opening is **60 inches wide × 30 inches high**, centered within the 90-inch main work-zone wall. This retains nominal **15-inch solid wall piers** between the opening and the front work-zone boundary and between the opening and the rear portal.
 
 - Treat 60 inches as a maximum, not a minimum; reduce it if actual post locations, steel condition or engineering require.
 - Do not enlarge or cut the opening until the actual wall/roof structural map is complete.
 - Provide a designed steel header and full-height jamb reinforcement tied into the remaining belt rail, floor/body framing and roof-load path as directed by the responsible engineer/fabricator.
+- In the provisional Fabrication Shell, show the future header, both full-height jambs and sill/bottom member as continuous protected structural-reserve zones around the service opening. Their widths, depths, member sections and connections remain **UNKNOWN** until the donor structure is mapped and the responsible engineer/fabricator supplies or approves them. Keep equipment, cabinetry, utilities, hatch hardware and finish-dependent attachments out of these reserves. Keep cut-line corner radii **UNKNOWN** until the hatch frame and fabrication method are selected. A reserve-zone diagram is not a fabrication detail or cut release.
 - The lift-up hatch, hinges and gas struts do not replace the structural header. Provide positive open-position wind restraint and positive travel latching.
+- Model the Phase 2 hatch and customer ledge as exterior operating/travel envelopes. The hatch is top-hinged and opens outward/upward over the 60 × 30-inch maximum opening; its final cover/frame size remains **UNKNOWN**. Support it with future rated gas struts or locking arms, positive wind restraint and positive travel latches. Model the customer ledge at 14–16 inches deep when operating and folded or removed and positively latched for travel. Neither assembly may intrude into the 56-inch finished-clear interior width. Reserve exterior space for drip control, drainage, flashing and seals. Hardware may not enter the protected structural-reserve zones; final reactions and attachments require engineer/fabricator review.
 - Maintain the 36–40-inch service-counter height. Set the 30-inch opening vertically only after the finished interior height and remaining header band are verified.
-- Use only one 24-inch-deep production/wash counter. Option A places it opposite the opening and uses six-inch outboard storage below the window. Options B and C place it directly beneath the opening and omit the outboard cabinet. Options B and C receive only the approved shallow illuminated functional back-bar—restrained bottle display, enclosed clean-glass storage, lightweight service items and integrated warm lighting—with no floor cabinet and no reduction of the 32-inch nominal aisle. Option B's back-bar is a continuous asymmetrical Linear Gallery aligned to the single-bartender workflow. Option C's back-bar is a centered symmetrical Twin-Wing composition with matched outer glass-storage wings, split station-specific service rails and one central reserve-bottle display. Every option maintains the aisle and clear egress.
+- Any later production/wash counter must respect the 24-inch maximum study depth and required aisle/egress clearances. Its wall assignment and any outboard storage remain UNSET until inventory approval and new placement.
 - Select listed, off-the-shelf sinks, ice wells/cocktail stations, refrigeration and POS components. Do not base a layout on custom-sized operational equipment; only the trailer-specific cabinetry, supports and trim may be fabricated to fit.
 - Provide a 14–16-inch-deep operating exterior customer ledge aligned with the opening, including accessible service position, drainage, load rating, concealed support and positive travel latch; fold or remove it for travel.
-- If the health authority limits the active pass-through, retain the large architectural hatch but install approved screened, self-closing or solid internal panels so only the permitted aperture is open during regulated service.
-- Full 60 × 30-inch open-window operation is prohibited until the applicable authority approves it in writing.
+- If a future commercial or public-use scope limits the active pass-through, retain the large architectural hatch but add compliant internal controls after the applicable approval path is re-established.
+- Full 60 × 30-inch open-window operation remains subject to completed structural review, weather controls and safe private-event setup.
 
-### 6F. Option-placement control
+### 6F. Option A placement hold
 
-The canonical Option A, B and C files state only the approved differences from this master. All common requirements remain in force. Tank, battery, HVAC, side-door and lower-cabinet locations remain subject to structural mapping, catalog-equipment clearances and loaded weight balance.
+`03-OPTION-A.md` is the sole active option file. Options B and C are superseded historical records. No equipment placement currently controls: all wall assignments, sequences, coordinates, cabinetry and utility routing remain unset until the inventory in `13-EQUIPMENT-INVENTORY.md` is explicitly approved. Placement must then restart from an empty fixed-shell model and account for structural mapping, catalog-equipment clearances and loaded weight balance.
 
 ### 6G. Locked common interior design language
 
-**Decision status: APPROVED AND LOCKED FOR ALL THREE LAYOUTS.** Equipment arrangement varies by option; the following character, materials, lighting, storage and travel principles remain common.
+**Decision status: APPROVED AND LOCKED FOR OPTION A.** The following character, materials, lighting, storage and travel principles govern the active design.
 
 | Element | Locked direction |
 |---|---|
@@ -530,11 +548,11 @@ The canonical Option A, B and C files state only the approved differences from t
 | Customer lighting | Concealed, dimmable 2700–3000 K warm window and display lighting |
 | Bartender task lighting | Sealed, high-CRI 3000–3500 K lighting over sinks and preparation surfaces |
 | Ceiling fixtures | Low-profile sealed fixtures; no pendant lights or rotating ceiling fan in the working aisle |
-| Bottle presentation | One restrained, softly illuminated display feature visible through the service window; adapt its exact location to each layout |
+| Bottle presentation | One shallow, restrained, softly illuminated display feature on the passenger-side production wall, directly above or immediately adjacent to the working ice/drink well and visible through the service window; exact envelope and coordinate remain unplaced |
 | Working bottles | Low, secured speed rails/wells; no unrestrained decorative open shelving |
-| Glassware | Enclosed or positively retained storage; no hanging stemware during travel |
+| Glassware | Main reserve in two covered, positively restrained 25-compartment commercial racks prioritized in clean cabinetry at the inside front; exact cabinet geometry remains unplaced. A shallow retained holder beneath the service window may stage 10–12 of those glasses during operation only. No hanging stemware during travel |
 | Serviceware model | Hybrid service: reusable commercial glassware for premium events and premium compostable cups where required |
-| Working glass supply | 48–60 glasses inside in covered commercial racks; protected exterior staging and runner replenishment support the remaining event demand |
+| Working glass supply | Target 50 glasses inside using two 25-compartment full-size Cambro Camracks. Transfer approximately 10–12 to the under-window service holder during operation; return them to the covered racks for travel. Protected exterior staging and runner replenishment support demand beyond the onboard 50 |
 | Menu | One removable, non-digital framed menu panel coordinated with the exterior branding |
 | Break-area closure | Solid top-hung sliding panel with positive operating and travel latches |
 | Audio | No permanently installed sound system; a removable speaker may be used only in a secured operating position and removed for travel |
@@ -546,37 +564,31 @@ The canonical Option A, B and C files state only the approved differences from t
 
 The customer view through the wide window shall remain composed: a clean foreground work surface, bartender activity in the middle plane, one controlled bottle-display feature behind and a warm ceiling glow above. Sanitation equipment remains fully functional but visually subordinate to the hospitality experience.
 
-### 6H. Locked concept systems-coordination zones
+### 6H. Systems inventory and placement hold
 
-**Decision status: LOCKED FOR CONCEPT COORDINATION; exact sizes, mounting and routing remain VERIFY.** Apply these zones to all three options unless an option file states a more specific location.
-
-| System | Locked concept location | Control / verification |
-|---|---|---|
-| Potable-water tank | Below the floor, laterally centered, immediately forward of the axle-group center | VERIFY chassis bay, capacity, supports, road clearance and full/empty weight case |
-| Wastewater tank | Below the floor, laterally centered, immediately aft of the potable tank and near the axle-group center | Minimum governing capacity remains 150% of potable; VERIFY chassis bay, drainage slope and full/empty weight case |
-| Tank service | Divided, lockable exterior utility panel on the street/non-customer side | Potable fill and waste service must be physically separated, noninterchangeable and labeled; exact longitudinal position follows the door/frame map |
-| Water heater, pump, strainer and filter | Enclosed leak-managed plumbing bay directly below or beside the applicable warewashing module | Removable service panel, isolation valves, drainage/winterization access and separation from electrical/food storage required |
-| Shore-power inlet and main disconnect | Weather-protected street-side utility zone | Keep away from potable fill, waste outlet, customer queue and wet plumbing; final 30-A/50-A selection follows load calculation |
-| Battery and inverter/charger | Lockable ventilated charcoal-painted tongue box | Limit battery/inverter role; VERIFY tongue weight, ventilation, protection and cable routing before selection |
-| Interior distribution panel | High, dry and guarded on the open front employee-support wall | Maintain required access without intruding into the employee break area or wet zones |
-| POS power/data | Forward/order end of the service opening | Protected dry receptacle/USB-C, secure cable route and removable travel dock; connectivity remains VERIFY |
-| HVAC | Low-profile roof position near the body centerline and close to the axle group | VERIFY roof structure, hatch/header clearance, height, condensate route, heat load and weight balance |
-| Relief/exhaust ventilation | High on the street-side or roof, toward the rear of the work zone | Avoid the customer opening and staff faces; exact product and penetration remain VERIFY |
-| Staff waste | Enclosed lidded undercounter pull-out(s) within the wash/service line | Separate trash, recycling and a small rigid broken-glass container from clean storage and plumbing; exact bins and clearances remain VERIFY |
-| Cleaning chemicals | Dedicated locked, liquid-tight low compartment at the handwash end | Physically separated from food, ice, clean utensils, employee belongings and electrical components |
-| Fire/life safety | Extinguisher immediately accessible at the staff entrance; emergency light above rear doors; first aid in the break area | Final extinguisher rating, detector requirements, signs and mounting follow authority review |
-| Travel cases | Low commercial transit cases secured to rated floor anchors over/near the axle group during travel only | Remove from the aisle before operation; bottles, glasses, blender, POS and tools may not travel loose |
-| Event furniture and bulk replenishment | Support vehicle or protected exterior event staging | Do not consume the break area or operating aisle; customer waste remains at the separate portable service point |
+**Decision status: ALL SYSTEM COMPONENTS UNPLACED.** Water, waste, electrical, battery/inverter, HVAC/ventilation, POS, chemical storage, waste containers, life-safety equipment and travel restraints remain in `13-EQUIPMENT-INVENTORY.md`. Do not assign mounting zones, cabinets, penetrations or routes until the equipment inventory is explicitly approved. Safety and separation requirements remain mandatory inputs to the later placement study, not current locations.
 
 ### Door and second-egress coordination
 
-Options B and C retain the street-side staff/escape door; its actual position and size remain unknown. Their shallow backwall compositions may stop, break or bridge above the verified opening but may never cover, narrow or obstruct it.
+Option A uses D1 on the **passenger / non-customer / utility side** and the rear double doors as the Phase 2 purchase-planning egress candidates. The service window is on the **driver / customer side**. No equipment, service-window hardware, queue element or storage may cover, narrow or obstruct either opening. The photographed reference door remains on the driver side, so candidate screening must verify that the purchased shell supports the passenger-side planning arrangement or identify the required controlled redesign.
 
-Option A assumes no usable street-side door. If the donor includes a horse/escape door within the 90-inch equipment wall, remove its operating hardware and permanently infill the opening with an engineered structural, weather-sealed, insulated, smooth and finish-matched wall assembly before installing the service line. Rear double doors become the staff entrance and primary exit. Reserve a standard listed **24 × 36-inch minimum roof escape hatch** over the rear-third aisle as the second exit; final hatch product, opening position, roof reinforcement, interior release, labeling, access and coordination with HVAC require HCD, structural and fire/life-safety approval. Do not treat the service window as the second exit unless the reviewing authority approves it in writing.
+No roof escape hatch is included in the Option A base shell while the side door remains. Add a listed **24 × 36-inch minimum** roof exit only if the reviewing authority rejects the retained-door/rear-door arrangement or otherwise requires it. Any later roof-exit location, product, reinforcement, interior release, labeling, access and coordination with HVAC require HCD, structural and fire/life-safety approval. Do not treat the service window as the second exit unless the reviewing authority approves it in writing.
 
-## 7. Regulatory design basis — San Francisco MFF
+### Phase 2 utility-penetration reserves
 
-The final classification must be determined by SFDPH from the exact menu and operating procedure. Do not assume that “drinks only” avoids MFF construction requirements.
+Use the **passenger / non-customer / utility side** for the provisional utility reserve. Keep the driver/customer wall free of utility connections and service outlets. Reserve separate, protected and labeled interfaces for potable-water fill, wastewater service and weather-protected shore power; potable and waste components must remain physically separated and noninterchangeable, and electrical service must remain separated from wet connections. Exact longitudinal and vertical locations remain **UNKNOWN** until structure, equipment and routing are coordinated. No provisional utility zone may overlap D1 swing or approach, either rear door, fenders/wheels/suspension/chassis exclusions, road lighting, mapped structural members or service-window reinforcement reserves. Phase 2 drawings show reserve zones only—not holes or released cut locations.
+
+### Phase 2 roof and ventilation reserves
+
+HVAC remains **OPTIONAL**. Show only a conditional low-profile roof-unit reserve near the lateral roof centerline and longitudinally near the axle group; do not show an installed unit in the base shell. Keep its exact opening, product and coordinates **UNKNOWN** until operating need, heat load, roof bows, hatch/header clearance, road height, condensate route and weight balance are verified. Reserve relief/exhaust generally high on the passenger/utility side or roof toward the rear work zone, with exact product and penetration unknown. Neither reserve may interfere with the raised service hatch or its header/load path. No roof escape hatch is included in the base shell; if an authority later requires one, re-coordinate all roof reserves. Phase 2 shows reserve zones only—not roof cuts.
+
+### Phase 2 chassis and floor exclusions
+
+Treat all frame rails, crossmembers, internal wheel wells and tire/suspension travel-clearance envelopes as protected **UNKNOWN** geometry until the donor is physically mapped. Do not locate floor penetrations, equipment, cabinetry, tanks or attachments by assuming that these spaces are empty. Preserve tire/suspension clearance and running-gear service access. Show potable and wastewater tanks only as low, laterally centered planning zones near the axle group; their sizes, shapes, supports and mounting coordinates remain **UNKNOWN** until chassis bays, process capacity and full/empty weight cases are verified. Phase 2 drawings show exclusion/reserve zones only—not floor holes, brackets or mounting coordinates.
+
+## 7. Archived commercial regulatory basis — inactive
+
+**Status: SUPERSEDED FOR THE ACTIVE PERSONAL-USE DESIGN.** The material in this section preserves the former San Francisco MFF planning basis for traceability only. It is not an active design gate or a current legal determination. Before any future commercial, public-vending or permitted-event operation, revalidate the classification, requirements and approval sequence from current authoritative sources.
 
 ### Approval sequence
 
@@ -707,22 +719,26 @@ Never drain condensate, melted ice or sink waste to the ground. Confirm whether 
 | ID | Equipment | Locked basis of design | Planning dimensions/data | Status |
 | --- | --- | --- | --- | --- |
 | E-02 | Removable blender | Waring BB300S | 7.63 W × 8.38 D × 16 H in; 120 V; 750 W/6.25 A; NSF/ETL | Optional in operation; travel dock required |
-| E-03 | Undercounter refrigerator | Summit FF1843BIF | 17.75 W × 24 D × 34.25 H in; 2.7 cu ft; front breathing; 115 V; ETL-S/NSF-7 | All options |
-| E-05 | Dedicated hand sink | Regency 600HS12HSP with compatible faucet | 11.94 W × 15.56 D × 12.81 H in; 9 × 9 × 5-in bowl; NSF | All options; 12-in module |
+| E-03-1/2 | Two undercounter refrigerators | Two Summit FF1843BIF units | Each 17.75 W × 24 D × 34.25 H in; 2.7 cu ft; front breathing; 115 V; ETL-S/NSF-7 | Quantity requested: two; exact model and storage assignments VERIFY; UNPLACED |
+| E-05 | Former standalone dedicated hand sink | Regency 600HS12HSP historical reference | 11.94 W × 15.56 D × 12.81 H in; 9 × 9 × 5-in bowl; NSF | SUPERSEDED by E-06AB; no separate unit or placement |
+| E-12 | Commercial push-down glass rinser | Krowne Royal Series KR-7GR | 7 W × 7 D in; 6.25 × 6.25-in cutout; stainless drop-in; push-down activation; integrated tailpiece drain; 3/8-in water-feed basis; NSF-2; no electricity | SELECTED and UNPLACED; verify regulator, backflow protection, final drain connection, service access and countertop compatibility before procurement |
+| E-13 | Working cocktail ice bin | Krowne Silver Series 18-18 | 18 W × 18.5 D × 33 H in; 12-in-deep insulated bin; 60-lb capacity; full sliding cover; 1-in drain; no cold plate or electricity; NSF-2 | SELECTED and UNPLACED; verify drainage, loaded weight, restraint, service access and supplemental reserve-ice requirement before procurement |
+| E-14 | Two-faucet direct-draw keg dispenser | 24-in class; Perlick HC24TB-4 planning basis | 23.875 W × 24 D × 34.25 H in; 115 V; 2.3 A; two-sixtel capacity; portable drainer | INCLUDED and UNPLACED; exact commercial/mobile-rated model open; verify selected Cornelius/sixtel keg and coupler clearance and decide whether it replaces either refrigerator |
+| E-15 | Two-product draft/gas system | Configuration TBD | Two faucets/lines/couplers; secured cylinder; regulator; two-way manifold; secondary regulation when pressures differ | REQUIRED SUPPORT and UNPLACED; beverage, keg connection, gas type, pressures, cleaning equipment and restraints remain inventory decisions |
 | E-07 | Water heater | Bosch Tronic 3000 T ES4 | 4-gal mini-tank; 120 V; 1,440 W/12 A | Preliminary; recovery requires review |
 | E-08 | Water pump | SHURflo Aqua King II 4148-153-E75 | 12 VDC; 4.0 gpm free flow; 55 psi shutoff | Preliminary; final fixture calculation required |
 | E-11 | POS | Square Terminal | Compact removable terminal | Confirm connectivity and alcohol-sale workflow |
 
-### Option A and Option B 90-inch equipment line
+### Option A equipment inventory — placement prohibited
 
-**12 hand sink + 36 warewashing + 24 cocktail station + 18 refrigerator = 90 inches.**
+Use `13-EQUIPMENT-INVENTORY.md` as the active equipment-list gate. Quantities and candidate products may be recorded, but no equipment may be assigned to a wall, zone, sequence or coordinate until Mike explicitly approves the complete inventory. The former 90-inch line and later 60-inch redistribution are both superseded placement studies. After inventory approval, placement restarts from an empty fixed-shell model. Exact products, drainage and service clearances remain VERIFY; no procurement is released.
 
 | ID | Equipment | Locked basis of design | Planning dimensions/data | Status |
 | --- | --- | --- | --- | --- |
-| E-06AB | Two-compartment sink with drainboard | Regency 60B2101413RK | 36 W × 18.75 D in; two 10 × 14-in bowls; right drainboard | Verify listing, faucet and agency acceptance before purchase |
-| E-01AB | Cocktail ice bin/station | Regency 600IB1824 | 24 W × 18 D × 33 H in; 22-in insulated bin; 77-lb stated capacity; NSF | Raise/support to final counter relationship; contained drain |
+| E-06AB | Cabinet-integrated single-basin sink application | Commercial drop-in; Krowne HS-2017 planning basis | 20.25 W × 17 D in overall; 18.25 × 15.5-in cutout; 17.75 W × 12.75 D × 7.5-in-deep bowl; 1.5-in drain; adjacent countertop landing/drying surface TBD | INCLUDED and UNPLACED; exact product remains open; verify countertop and cabinet/service envelope, support, plumbing, splash control and travel reinforcement before purchase |
+| E-01AB | Former fixed cocktail ice bin/station | Regency 600IB1824 | 24 W × 18 D × 33 H in; 22-in insulated bin; 77-lb stated capacity; NSF | Superseded historical study equipment only; replaced in the active inventory by the unplaced Krowne 18-18 working ice bin |
 
-### Option C 90-inch equipment line — conditional
+### Superseded Option C 90-inch equipment line — historical reference only
 
 **12 hand sink + 18 Station A + 24 warewashing + 18 Station B + 18 refrigerator = 90 inches.**
 
@@ -733,7 +749,7 @@ Never drain condensate, melted ice or sink waste to the ground. Confirm whether 
 
 ### Performance-specified systems
 
-- HVAC: standard low-profile 120-V rooftop RV/commercial-mobile unit, approximately 9,000–13,500 Btu/h; final model follows measured roof and heat-load calculation.
+- Optional HVAC, if justified: standard low-profile 120-V rooftop RV/commercial-mobile unit, approximately 9,000–13,500 Btu/h; decision and final model follow operating need, measured roof and heat-load calculation.
 - Electrical source: likely 50-A shore service or a documented 30-A load-management scheme; final architecture follows the calculated load schedule.
 - Battery/inverter: limited role only, sized after shore-power and HVAC/water-heater operating rules are set.
 - Potable/waste tanks: baffled and secured low near the axle group; final capacity/shape follows menu, chassis bays, health review and loaded balance.
@@ -795,13 +811,15 @@ Record/design:
 
 All final drawings use the actual measured trailer and include dimensions, material specifications and equipment IDs.
 
+Immediately after the provisional envelope, create a separate controlled model state named **Lisa Trailer — Fabrication Shell**. Its first maturity state is **PROVISIONAL / NOT FOR FABRICATION** and establishes the service-window design-intent opening, structural reserve zones and resulting usable interior volume before equipment or option geometry is placed. It must distinguish existing retained construction, demolition/cut geometry and new reinforced construction. After acquisition, reconcile it to the VIN-specific **As Measured** shell and replace every provisional cut and reinforcement parameter before release. Its primary package is the service-window exterior cut elevation, interior structural elevation, horizontal and vertical sections, opening/reinforcement schedule and fabricator coordinate table. A provisional-shell service-window rectangle may not become a released cut line without measured structure and responsible engineer/fabricator approval.
+
 1. Cover sheet, code/permit basis and equipment schedule
 2. Existing-condition photo survey and structural map
 3. Existing and demolition plans
 4. Proposed floor plan with clearances and workflow
 5. Four exterior elevations and roof plan
 6. Reflected ceiling/lighting/ventilation plan
-7. Dimensioned service-opening and structural reinforcement details
+7. Fabrication Shell service-opening package: dimensioned skin cutout, corner radii, sill/header/jamb reinforcement, connections, hatch/hinge/strut loads, weather sealing, ledge attachment and structural signoff
 8. Chassis equipment/tank mounting plan
 9. Weight-and-balance plan with component centers and scale results
 10. Plumbing plan, riser/P&ID and tank schedule
@@ -820,11 +838,11 @@ All final drawings use the actual measured trailer and include dimensions, mater
 | G1 — Donor acceptance | Title/VIN, roadworthiness inspection, structural survey and as-purchased scale ticket |
 | G2 — Measured design basis | Completed Master Data Record, 3D/2D measured survey and stripped scale ticket |
 | G3 — Concept freeze | Mockup-approved layout, equipment schedule, power/water demand and preliminary weight balance |
-| G4 — Permit release | HCD path confirmed; SFDPH plan approval; SFFD and location referrals identified |
+| G4 — Applicable approvals | For active personal use: verify registration/title, venue conditions and any location-specific requirements; re-establish commercial approvals only if use changes |
 | G5 — Structural cut | Approved reinforcement detail and fabricator/engineer signoff |
 | G6 — Close-in | Concealed structural, electrical, plumbing and insulation photo/inspection record |
 | G7 — Commissioning | Final wet scale, axle/tongue weights, systems tests, sanitation test and punch list |
-| G8 — Operations | HCD insignia, health permit/final inspection, fire clearance, registration, insurance and SOPs |
+| G8 — Personal operation | Registration, insurance, roadworthiness, safe-system commissioning, alcohol-service controls and operating SOPs complete; commercial permits are inactive unless use changes |
 
 ## 16. Commissioning tests
 
@@ -866,16 +884,18 @@ All final drawings use the actual measured trailer and include dimensions, mater
 | O-01 | Confirm whether the 1985 Sebastopol unit is the purchased donor | Mike | G1 | Open |
 | O-02 | Capture VIN/data plate, axle tags and title | TBD | G1 | Open |
 | O-03 | Define exact cocktail/nonalcoholic menu and alcohol service-control/licensing model | Mike | G0 | Spirits/cocktail use confirmed; details open |
-| O-04 | Obtain written SFDPH MFF classification | TBD | G4 | Open |
-| O-05 | Confirm HCD alteration/conversion and insignia route before work | TBD | G4 | Open |
+| O-04 | Revalidate SFDPH MFF classification only if commercial/public use is proposed | TBD | Future scope | Archived/inactive |
+| O-05 | Revalidate HCD alteration/conversion route if applicable to the acquired donor or future use | TBD | G1/G4 | Limited to applicability check |
 | O-06 | Establish actual dimensions and structural-member map | Fabricator | G2 | Open |
 | O-07 | Establish stripped and loaded weight model | Designer/engineer | G3 | Open |
 | O-08 | Select tow vehicle and verify combined ratings | Mike | G3 | Open |
 | O-09 | Finalize procurement equipment and utilities from the locked concept basis | TBD | G3 | Open |
-| O-10 | Confirm vending locations, commissary and restroom access | TBD | G4 | Open |
-| O-11 | Confirm structural and health approval for the 60 × 30-inch single bar window and any required internal pass-through controls | Designer/engineer | G4/G5 | Open |
+| O-10 | Confirm vending, commissary and commercial restroom requirements only if commercial/public use is proposed | TBD | Future scope | Archived/inactive |
+| O-11 | Confirm structural approval for the 60 × 30-inch single bar window; revalidate health pass-through controls only if use changes | Designer/engineer | G5 | Structural review open; health review inactive |
 
-## 19. Authoritative external references
+## 19. Archived commercial references — refresh before reuse
+
+These links document the former commercial basis. They are not active personal-use design requirements and may become outdated; verify current sources before relying on them for a changed use.
 
 - [San Francisco Mobile Food Facility unified application](https://www.sf.gov/sites/default/files/2024-06/MFF%20Unified%20Application.pdf)
 - [San Francisco construction requirements for mobile food facilities](https://www.sf.gov/sites/default/files/2023-07/MFF_Construction_Requirements.pdf)

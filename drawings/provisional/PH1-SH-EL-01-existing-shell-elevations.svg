@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1300" viewBox="0 0 1800 1300" role="img" aria-labelledby="title desc">
   <title id="title">Phase 1 Provisional Concept Shell Exterior Elevations</title>
-  <desc id="desc">Four orthographic exterior elevations of the provisional Circle J concept shell: curb side, street side, front, and rear. The concept-only opening arrangement places a 30-inch nominal outer-width door on the passenger side, W2 on the driver side, and W1 on both sides. Actual door position, construction and clear opening remain unknown. The removable spare wheel is intentionally omitted; no conversion or fabrication modifications are shown.</desc>
+  <desc id="desc">Four orthographic exterior elevations of the provisional Circle J concept shell: passenger non-customer utility side, driver customer service side, front, and rear. The concept-only opening arrangement places a 30-inch nominal outer-width door on the passenger utility side, W2 on the driver customer side, and W1 on both sides. Actual door position, construction and clear opening remain unknown. The removable spare wheel is intentionally omitted; no conversion or fabrication modifications are shown.</desc>
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#68706d"/>
@@ -23,9 +23,9 @@
   <text x="72" y="119" class="t" font-size="18">CONCEPT OPENING ARRANGEMENT • D1 30&quot; NOMINAL • ACTUAL POSITION / CLEAR OPENING UNKNOWN • SPARE OMITTED</text>
   <line x1="72" y1="143" x2="1728" y2="143" stroke="#b56f4c" stroke-width="5"/>
 
-  <!-- CURB / PASSENGER SIDE: scale 4.5 px/in, front at x=260, rear at x=800 -->
+  <!-- PASSENGER / NON-CUSTOMER / UTILITY SIDE: scale 4.5 px/in, front at x=260, rear at x=800 -->
   <g id="curb-elevation">
-    <text x="70" y="184" class="t view">01 • CURB / PASSENGER SIDE • FRONT RIGHT</text>
+    <text x="70" y="184" class="t view">01 • PASSENGER / NON-CUSTOMER / UTILITY SIDE • FRONT RIGHT</text>
     <g transform="translate(1060 0) scale(-1 1)">
     <path d="M260 230 Q275 204 315 204 H765 Q800 204 800 230 V577 H282 Q260 565 260 535 Z" class="outline"/>
     <path d="M260 230 Q275 204 315 204 H765 Q800 204 800 230 H260 Z" class="roof"/>
@@ -58,12 +58,12 @@
     <line x1="225" y1="204" x2="225" y2="571" class="dim"/>
     <line x1="214" y1="204" x2="248" y2="204" class="ext"/><line x1="214" y1="571" x2="248" y2="571" class="ext"/>
     <text x="202" y="390" class="t gray label" text-anchor="middle" transform="rotate(-90 202 390)">81.6&quot; BODY HEIGHT • LISTED</text>
-    <text x="95" y="644" class="t rust small">CURB CONCEPT: W1 + 30&quot; NOM. D1 + W3 • D1 EXTENDS TOWARD WHEELS • CLEAR OPENING VERIFY</text>
+    <text x="95" y="644" class="t rust small">PASSENGER / UTILITY: W1 + 30&quot; NOM. D1 + W3 • D1 EXTENDS TOWARD WHEELS • CLEAR OPENING VERIFY</text>
   </g>
 
-  <!-- STREET / DRIVER SIDE -->
+  <!-- DRIVER / CUSTOMER / SERVICE SIDE -->
   <g id="street-elevation">
-    <text x="70" y="704" class="t view">02 • STREET / DRIVER SIDE • FRONT LEFT</text>
+    <text x="70" y="704" class="t view">02 • DRIVER / CUSTOMER / SERVICE SIDE • FRONT LEFT</text>
     <path d="M260 750 Q275 724 315 724 H765 Q800 724 800 750 V1097 H282 Q260 1085 260 1055 Z" class="outline"/>
     <path d="M260 750 Q275 724 315 724 H765 Q800 724 800 750 H260 Z" class="roof"/>
     <path d="M260 868 H800 M260 925 H800" class="trim"/>

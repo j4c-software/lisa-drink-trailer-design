@@ -1,11 +1,11 @@
 # Lisa Drink Trailer — Rendering Controls
 
-**Revision:** 2.4 — September 7, 2026
-**Status:** LOCKED CONTROLS; CONTROLLED RENDERING AUTHORIZED WITH ASSET-SPECIFIC HOLDS
+**Revision:** 2.8 — September 25, 2026
+**Status:** OPTION A-ONLY CONTROLS; ALL EQUIPMENT PLACEMENT ON INVENTORY HOLD
 
 ## Release gate
 
-Mike explicitly released the project-wide rendering hold on September 7, 2026. Rendering may now proceed only after the applicable canonical files have been checked. This release does not override Option A's engineered door-infill/roof-egress requirements, Option C's mandatory health-authority condition, equipment/geometry controls or fabrication prohibitions.
+The September 25 scope revision authorizes future design production for **Option A only** and supersedes Options B and C. Do not render installed equipment or imply equipment placement until `13-EQUIPMENT-INVENTORY.md` is explicitly approved and a new layout is developed from an empty fixed-shell model. Inventory boards may show isolated products without spatial relationships. The fixed shell may not be enlarged to resolve conflicts.
 
 Immediately before any authorized rendering, read in full:
 
@@ -29,7 +29,7 @@ Every future image request shall be assembled in this order:
 
 1. Common trailer/scene brief
 2. Applicable exterior or interior material brief
-3. Applicable Option A, B or C overlay
+3. Option A overlay
 4. Applicable view/camera brief
 5. Operating or travel-state brief
 6. Common prohibitions
@@ -44,7 +44,7 @@ Create an original conceptual visualization of a restored vintage Circle J two-h
 - Warm-ivory painted body
 - Muted copper-colored **paint** on the roof cap, fenders and one restrained horizontal stripe
 - Dark-charcoal chassis, wheels and operating hardware
-- One curb-side top-hinged service hatch, maximum concept size 60 × 30 inches, with restrained dark supports and warm concealed underside light
+- One driver/customer-side top-hinged service hatch, maximum concept size 60 × 30 inches, with restrained dark supports and warm concealed underside light
 - One 14–16-inch-deep customer ledge with medium-tone sealed-wood appearance over a commercial exterior substrate
 - Restrained removable branding and one removable menu near the order end
 - Two matching compact oval caged bulkhead lights in matte charcoal, approximately 5 inches wide × 8 inches tall, with vertically ribbed frosted glass and soft glare-controlled 2700–3000 K illumination; use `renders/approved/exterior-lighting/EXT-LIGHT-02-caged-oval-bulkhead.png` as the visual-direction reference only
@@ -57,7 +57,7 @@ Create an original conceptual visualization of a restored vintage Circle J two-h
 
 ## Common interior scene brief
 
-Create an original concept interior within the locked 9 ft 6 in clear length, 56-inch clear width and approximately 6 ft 4 in–6 ft 8 in clear height. Preserve one 24-inch-deep production line and a 32-inch nominal clear aisle. Show the curved trailer shell honestly; do not enlarge the room or use impossible wide-angle distortion.
+Create an original concept interior within the locked 9 ft 6 in clear length, 56-inch clear width and approximately 6 ft 4 in–6 ft 8 in clear height. Until inventory approval, show the fixed shell without installed equipment, production counters or utility components. Show the curved trailer shell honestly; do not enlarge the room or use impossible wide-angle distortion.
 
 - Satin copper-colored painted curved ceiling—paint, not copper metal
 - Warm-ivory smooth washable walls
@@ -66,27 +66,25 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 - No. 4 brushed stainless active counters
 - Commercial slip-resistant wood-look resilient sheet flooring, not planks
 - Warm 2700–3000 K customer/display light and sealed 3000–3500 K high-CRI work light
-- One controlled softly illuminated bottle-display feature
-- Enclosed or positively retained glass storage
+- Bottle-display and glass-storage locations UNSET; do not depict them as installed
 - Wish-list open employee break/support nook, up to 24 inches when verified space permits, with no partition, curtain or overhead track; do not depict 24 inches as a guaranteed minimum
 - Rear double doors preserved as clear egress: primary staff entry/exit for Option A and secondary egress for Options B/C
-- High dry electrical panel on the open front employee-support wall
+- Electrical distribution location UNSET; do not depict a panel before placement restarts
 - No pendant lights, chandelier, rotating fan, hanging stemware, loose decorative bottles, residential cabinetry or hidden sanitation equipment
 
 ## Option overlays
 
 ### Option A — Opposite-Wall Service Bar
 
-- Curb/window wall remains visually open with six-inch outboard dry storage below the ledge and a flush interior face.
-- Entire 90-inch production line is on the street/opposite wall, front to rear: 12-inch hand sink; 36-inch two-compartment sink/right drainboard; 24-inch Regency cocktail station; 18-inch Summit refrigerator.
-- Restrained bottle display and enclosed clean-glass storage are above the opposite-wall line, separated from dirty sink activity.
-- POS is on a protected removable/deployable mount at the forward/order end of the window.
+- Driver/customer window wall remains visually open; cabinetry and storage locations are UNSET.
+- All equipment is UNPLACED. Do not depict a passenger-wall sequence, a front-wall refrigerator, an ice-bin relationship or any other installed equipment arrangement. D1 remains a shell stress-test proxy pending donor measurement.
+- Bottle display, glass storage and POS are UNPLACED; do not depict them as installed.
 - Show one primary bartender only unless a specific brief requests occasional assistance.
-- Show no operating street-side door. Depict a continuous finish-matched infilled wall behind the full equipment line; do not leave visible door seams, hinges, latch hardware or a narrowed equipment run.
-- Show a standard flush 24 × 36-inch minimum roof escape hatch over the rear-third aisle as a concept element, coordinated away from the HVAC zone. Add **VERIFY / APPROVAL REQUIRED** in presentation layout rather than text inside the rendering.
+- Retain passenger-side D1 with its complete opening, swing, step, handle and egress envelopes. Do not cover or narrow it with equipment or backbar elements.
+- Do not show a roof escape hatch in the base shell. Add one only if later required by the approved life-safety configuration.
 - Rear double doors are the staff entrance and primary exit; keep their path clear.
 
-### Option B — Single-Bartender Linear Gallery
+### Superseded Option B — historical reference; no production
 
 - Entire 90-inch production line sits beneath the service window, front to rear: 12-inch hand sink; 36-inch two-compartment sink/right drainboard; 24-inch Regency cocktail station; 18-inch Summit refrigerator.
 - Opposite wall uses one low, long, asymmetrical Linear Gallery: continuous horizontal warm-light datum, working-bottle display aligned with production, adjacent enclosed clean-glass storage and shallow lightweight service rail.
@@ -94,7 +92,7 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 - Show one bartender and an order-to-pickup workflow with minimal backtracking.
 - If a comparable-trailer staff door is visible, treat its location as a working proxy and add a presentation overlay labeled **VERIFY**; break or bridge the gallery without obstructing the opening.
 
-### Option C — Two-Bartender Twin-Wing Backbar
+### Superseded Option C — historical reference; no production
 
 - Entire 90-inch production line sits beneath the service window, front to rear: 12-inch hand sink; 18-inch Station A containing a centered 12-inch Regency ice unit; 24-inch centered Krowne two-compartment sink; 18-inch Station B containing a centered 12-inch Regency ice unit; 18-inch Summit refrigerator.
 - Show splash separation on both sides of the centered shared sink.
@@ -110,24 +108,24 @@ Create an original concept interior within the locked 9 ft 6 in clear length, 56
 | ID | Camera and composition | State and required content |
 |---|---|---|
 | `COVER-EX-01` | Approved `EX-01` angle; 3:2 landscape; trailer dominant with clean negative space for title | Operating exterior with warm glow but interior equipment visually non-specific so no option is favored; no identifiable option backwall |
-| `A/B/C-EX-01` | Front-curb three-quarter, approximately 35 mm equivalent, 5 ft 2 in eye height; full body, tongue, wheels and hatch in frame | Operating state; option-specific work relationship may be visible through hatch; identical courtyard, weather, exposure, seating and customer density |
-| `A/B/C-EX-02` | Nearly square to service opening, approximately 35–40 mm equivalent; camera far enough back to show ledge, apron, queue edge and seating | Operating state; customer-facing order-right, interaction center and pickup-left readable; A/B use one bartender, C uses two; accessible transaction area unobstructed |
-| `B/C-EX-03` | Rear-street three-quarter at same eye height and tonal treatment as `EX-01` | Operating utility side; working proxy staff door labeled later **VERIFY**, divided utility panel, tongue box and stabilizers visible; no hoses across paths |
-| `A/B/C-IN-01` | Centered at rear portal, approximately 22–24 mm equivalent, 5 ft eye height, corrected verticals; 3:2 landscape | Operating state; both long walls and the open front break/support nook legible; preserve 32-inch aisle. Option A shows the continuous infilled street wall and roof escape hatch. |
-| `A/B/C-IN-02` | Centered at the front edge of the open break/support nook, same lens, eye height, exposure and crop as `IN-01` | Operating state; rear egress visible; defining opposite wall legible. Option A shows no street-side door. |
-| `A/B/C-DT-01` | Close three-quarter detail of hatch/ledge, no exaggerated macro distortion | Operating state; raised hatch, positive wind restraint, deployed ledge/supports, drip control and warm light; no customer-side utilities |
-| `A/B/C-DT-02` | Close interior/exterior travel-preparation detail appropriate to option | Travel state; hatch/ledge latched, counters and rails empty, doors closed, portable items in low restrained cases; no loose bottles, glasses, blender or POS |
+| `A-EX-01` | Front-driver-side three-quarter, approximately 35 mm equivalent, 5 ft 2 in eye height; full body, tongue, wheels and hatch in frame | Operating state; Option A work relationship may be visible through hatch; approved courtyard, weather, exposure, seating and customer density |
+| `A-EX-02` | Nearly square to service opening, approximately 35–40 mm equivalent; camera far enough back to show ledge, apron, queue edge and seating | Operating state; customer-facing order-right, interaction center and pickup-left readable; one primary bartender; accessible transaction area unobstructed |
+| `A-EX-03` | Rear-passenger-side three-quarter at same eye height and tonal treatment as `EX-01` | Operating utility side; D1 labeled **VERIFY**, divided utility panel, tongue box and stabilizers visible; no hoses across paths |
+| `A-IN-01` | Centered at rear portal, approximately 22–24 mm equivalent, 5 ft eye height, corrected verticals; 3:2 landscape | HOLD: fixed-shell orientation only; do not render installed equipment before inventory approval and new placement. |
+| `A-IN-02` | Centered at the front edge of the open shell, same lens, eye height, exposure and crop as `IN-01` | HOLD: fixed-shell orientation only; do not render installed equipment before inventory approval and new placement. |
+| `A-DT-01` | Close three-quarter detail of hatch/ledge, no exaggerated macro distortion | Operating state; raised hatch, positive wind restraint, deployed ledge/supports, drip control and warm light; no customer-side utilities |
+| `A-DT-02` | Close interior/exterior travel-preparation detail | Travel state; hatch/ledge latched, counters empty, doors closed, portable items in low restrained cases; no loose bottles, glasses, blender or POS |
 
 ## Image inventory and release status
 
 | Asset group | Count | Current status |
 |---|---:|---|
-| Common cover exterior | 1 | **AUTHORIZED** |
-| Option A exterior/customer/detail images | 4 (`EX-01`, `EX-02`, `DT-01`, `DT-02`) | **AUTHORIZED; street-side door is absent or finish-matched infill** |
-| Option A interior perspectives | 2 (`IN-01`, `IN-02`) | **AUTHORIZED; show continuous infill, rear staff entrance and reserved roof escape hatch** |
-| Option B exterior/customer/interior/detail images | 7 | **AUTHORIZED; proxy staff-door position remains VERIFY** |
-| Option C exterior/customer/interior/detail images | 7 | **AUTHORIZED with required conditional labeling; proxy staff-door position remains VERIFY** |
-| Plans and four elevations per option | 15 precision graphics: three plans plus twelve elevations | **APPROVED FOR CONCEPT/PRESENTATION USE: all 15 approved unchanged; not fabrication drawings or image generation** |
+| Common cover exterior | 1 | Existing approved image retained; **NEW CANDIDATES BLOCKED pending orientation review** |
+| Option A exterior/customer/detail images | 4 (`EX-01`, `EX-02`, `DT-01`, `DT-02`) | **BLOCKED pending Phase 2 retained-door shell revision** |
+| Option A interior perspectives | 2 (`IN-01`, `IN-02`) | **BLOCKED pending explicit inventory approval and a new placement study from an empty shell** |
+| Option B exterior/customer/interior/detail images | 7 | **BLOCKED pending Phase 2 orientation-controlled shell and regenerated graphics** |
+| Option C exterior/customer/interior/detail images | 7 | **BLOCKED pending Phase 2 orientation-controlled shell and regenerated graphics; required conditional labeling remains** |
+| Plans and four elevations per option | 15 precision graphics: three plans plus twelve elevations | **SUPERSEDED AS ORIENTATION-CONTROLLED GRAPHICS; equipment arithmetic remains reference-only pending regeneration** |
 
 Page 22 may reuse the approved same-angle option images and plans specifically for direct comparison. Page 23 uses the selected option's approved view only after the recommendation is set.
 
@@ -153,24 +151,23 @@ Complete and retain this checklist for every generated candidate. A single faile
 - [ ] Correct operating or travel state recorded
 - [ ] Vintage Circle J two-horse straight-load bumper-pull massing retained
 - [ ] Locked concept envelope appears credible; no enlarged body or aisle
-- [ ] One curb-side service hatch only; opening no larger than the approved concept maximum
+- [ ] One driver/customer-side service hatch only; opening no larger than the approved concept maximum
 - [ ] Rear double doors and curved roof character retained where visible
-- [ ] Door treatment matches the option: no street door/continuous infill in A; measured or visibly annotated comparable proxy door in B/C
+- [ ] Passenger-side D1 is retained in every option and remains unobstructed; its unverified geometry is visibly annotated **VERIFY**
 
 ### Layout and equipment
 
-- [ ] Correct option-specific 90-inch sequence
-- [ ] Dedicated hand sink visible where the view should show it
-- [ ] Correct two-compartment sink form and conditional status
-- [ ] Correct number and size relationship of cocktail stations
-- [ ] One 18-inch undercounter refrigerator in the correct position
-- [ ] POS appears only at the forward/order location in operating views
-- [ ] 32-inch nominal aisle and clear rear egress remain credible
+- [ ] No installed equipment or implied equipment sequence appears before inventory approval
+- [ ] Any equipment shown is isolated on an inventory board and labeled UNPLACED
+- [ ] The inventory board matches `13-EQUIPMENT-INVENTORY.md` and distinguishes selected, candidate and open items
+- [ ] No open inventory choice is resolved by the image
+- [ ] POS is not assigned a location
+- [ ] Fixed-shell egress remains clear; aisle geometry is deferred until placement restarts
 - [ ] No custom operational equipment or unapproved appliance added
 
 ### Option identity
 
-- [ ] A: opposite-wall service line, open window wall and six-inch outboard storage
+- [ ] A: fixed shell and open window wall only; equipment relationship remains unset
 - [ ] B: asymmetrical continuous Linear Gallery; one bartender
 - [ ] C: symmetrical Twin-Wing Backbar, centered sink and two distinct bartender stations
 - [ ] One restrained bottle-display feature only
@@ -197,7 +194,7 @@ Complete and retain this checklist for every generated candidate. A single faile
 ### Required presentation overlays
 
 - [ ] Exterior image receives **Conceptual Exterior** in page layout
-- [ ] Option A affected page identifies engineered street-door infill and roof-escape approval requirement
+- [ ] Option A affected page identifies retained passenger-side D1 and the equipment-wall coordination hold; no base roof hatch
 - [ ] Option C image/page receives **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED**
 - [ ] Any working proxy door receives **VERIFY**
 - [ ] Externally sourced references are recorded in the page's `[Sources]` notes block
@@ -208,7 +205,7 @@ The renderer may visualize the approved design. It may not:
 
 - Invent, resize, substitute or omit equipment
 - Move equipment, sinks, POS, refrigeration, exits or storage
-- Change the 90-inch equipment arithmetic
+- Reuse or imply any superseded Phase 3 equipment arithmetic, sequence, coordinates or wall assignment
 - Change trailer geometry, proportions, roof form, doors, fenders or tongue
 - Add, remove, enlarge or relocate openings
 - Enlarge the service window beyond the approved maximum
@@ -228,13 +225,13 @@ If an approved design cannot be rendered without violating a control, stop and r
 - Use one 60 × 30-inch maximum service hatch with nominal 15-inch solid side piers.
 - Show the 14–16-inch operating customer ledge and its travel logic where relevant.
 - Use the catalog forms and dimensions named in the canonical equipment basis or a documented equal approved in the files.
-- Option A: equipment on the street/opposite longitudinal wall; six-inch outboard storage below the window. The rear wall is the double-door wall and never contains the 90-inch equipment line.
+- Option A: all equipment placement is intentionally unset. Only fixed-shell architecture and approved non-equipment features may be rendered until the inventory gate is released.
 - Option B: equipment below the window; an asymmetrical, continuous **Linear Gallery** opposite, following the single-bartender workflow with one horizontal warm-light datum, one working-bottle display, adjacent enclosed glass storage and a lightweight service rail. No floor cabinet or aisle reduction.
 - Option C: two stations around the centered conditional sink; a symmetrical **Twin-Wing Backbar** opposite, with matched enclosed-glass wings, split station-specific rails, one central reserve-bottle display and a stronger vertical center. No floor cabinet or aisle reduction.
 - Options A and B may show their 36-inch two-compartment concept sink, but captions may not imply that the configuration is permit-approved. Option C retains its conspicuous future-permission statement.
 - Show the front employee break/support area and all exits without inventing trailer length.
-- Show utility zones only where the canonical concept coordination locates them: tanks centered below floor near the axle group, divided utility service on the street side, dry distribution at the front operational bulkhead, battery/inverter in the tongue box, roof HVAC near the axle/body center and life-safety equipment at the exits.
-- Do not invent the staff-door location in Options B/C. If the proxy form is used before donor measurement, mark the door position **VERIFY**. Option A has no operating street-side door; show a continuous finish-matched infilled wall and the reserved roof escape concept.
+- Do not show installed utilities or imply tank, distribution, battery, HVAC or life-safety equipment locations before inventory approval and new placement. Fixed-shell protected reserves may be shown only as non-equipment constraints.
+- Use the Phase 2 purchase-planning D1 on the passenger/utility side in every option and mark its unverified geometry **VERIFY**. Retain the door and show no base roof hatch.
 
 ## Interior visual controls
 
@@ -252,7 +249,7 @@ If an approved design cannot be rendered without violating a control, stop and r
 ## Exterior and setting controls
 
 - Label exterior presentation images only **Conceptual Exterior**.
-- Use the approved clean vintage hospitality exterior and common exterior design for all three options.
+- Use the approved clean vintage hospitality exterior for Option A.
 - Depict a realistic event setting with nearby coordinated seating, a visible accessible route and an understandable customer-facing order-right/pickup-left flow.
 - Show deployable furniture, menu, waste station, lighting and shade as loose event equipment, not permanently attached construction.
 - Keep utility connections and staff support away from the customer queue and accessible route.
@@ -274,10 +271,10 @@ If an approved design cannot be rendered without violating a control, stop and r
 
 ## Fixed interior camera handedness and equipment reading
 
-- `IN-01`, rear looking toward the tongue/front: curb/service wall is image-right; street/opposite wall is image-left. Near-to-far equipment order is the reverse of the physical front-to-rear schedule.
-- `IN-02`, open front break/support nook looking toward the rear doors: curb/service wall is image-left; street/opposite wall is image-right. Near-to-far equipment order matches the physical front-to-rear schedule.
-- Options A/B, `IN-01` near-to-far equipment: refrigerator → 24-inch cocktail station → 36-inch two-compartment sink/right drainboard → 12-inch hand sink.
-- Options A/B, `IN-02` near-to-far equipment: 12-inch hand sink → 36-inch two-compartment sink/right drainboard → 24-inch cocktail station → refrigerator.
+- `IN-01`, rear looking toward the tongue/front: driver/customer/service wall is image-right; passenger/utility/opposite wall is image-left. Near-to-far equipment order is the reverse of the physical front-to-rear schedule.
+- `IN-02`, open front break/support nook looking toward the rear doors: driver/customer/service wall is image-left; passenger/utility/opposite wall is image-right. Near-to-far equipment order matches the physical front-to-rear schedule.
+- Option A `IN-01`: equipment sequence UNSET; do not produce a placed-equipment interior view.
+- Option A `IN-02`: equipment sequence UNSET; do not produce a placed-equipment interior view.
 - Option C, `IN-01` near-to-far equipment: refrigerator → Station B → centered 24-inch sink → Station A → hand sink.
 - Option C, `IN-02` near-to-far equipment: hand sink → Station A → centered 24-inch sink → Station B → refrigerator.
 - Never mirror a candidate to repair an order/pickup label; mirroring reverses the approved trailer handedness and equipment geometry.

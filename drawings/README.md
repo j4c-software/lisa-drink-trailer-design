@@ -3,19 +3,25 @@
 **Status:** REVISED CONTROLLED GRAPHICS — open break-area direction incorporated; not for fabrication
 **Generated from:** authoritative specifications on September 7, 2026
 
+**September 25 scope control:** Option A is the sole active design. Existing Option B/C drawings are superseded historical references and receive no new production. The Phase 2 shell and all regenerated graphics must remain within the fixed 120 × 60 × 84-inch exterior and 114 × 56 × 76-inch finished-clear envelopes.
+
 This directory contains the three `PL-01` concept plans and twelve `EL-01` through `EL-04` interior elevations required by the presentation specification.
 
 It also contains the provisional Phase 1 shell-definition drawings used for purchase-selection study before a donor trailer is acquired:
 
 - `provisional/PH1-SH-PL-01-shell-plan.svg` — provisional concept-shell plan with photo-estimated running gear and explicitly unverified opening arrangement;
-- `provisional/PH1-SH-EL-01-existing-shell-elevations.svg` — curb, street, front and rear exterior concept-shell elevations;
+- `provisional/PH1-SH-EL-01-existing-shell-elevations.svg` — passenger/utility, driver/customer, front and rear exterior concept-shell elevations;
 - `provisional/PH1-SH-SE-01-shell-cutaway.svg` — transverse and longitudinal cutaways comparing the approved exterior and finished-clear interior planning envelopes while keeping assembly build-ups unresolved.
 
-The Phase 1 opening convention is curb/passenger W1 + D1 + W3 and street/driver W1 + W2 + W4. D1 is drawn at 30 inches nominal outer width by holding its tongue-side jamb and extending toward the wheels; its actual side, position and clear opening remain unknown. W1 is drawn at one-half W2's width on both sides, with a visible gap between W1 and D1. The passenger-side elevation is intentionally shown with the tongue facing right; the plan retains its standard tongue-left datum. These are visualization choices only and do not verify donor openings or revise the approved Option A/B/C rules.
+The Phase 2 review package is under `provisional/phase2/`. It contains six Option A shell SVG/PNG sheets plus `PH2-FS-SCHEDULE-01.md`. The package is **APPROVED FOR GATE 2 COORDINATION** while remaining **PROVISIONAL — NOT FOR FABRICATION**. It excludes equipment placement, final member sizes, connections, corner radii, released holes and exterior-skin cut coordinates.
 
-The shell plan distinguishes D1 from the window openings and indicates outward opening for D1 and both rear door leaves. Swing direction is conceptual until actual hinges, leaves and clearances are measured.
+The first Gate 2 fit study is under `provisional/phase3/`. It is **SUPERSEDED — DO NOT USE FOR PLACEMENT** and is retained only to document the failed 90-inch line and the later abandoned 60-inch redistribution. No equipment drawing currently controls. Complete and approve `13-EQUIPMENT-INVENTORY.md`, then restart placement from an empty fixed-shell model.
 
-The curb- and street-side elevations show the fender as an open, continuous tandem-wheel arch. Its front and rear legs terminate at the same height, and the inner opening preserves visible clearance above and beside both tires, matching the close reference view of photo 001. Exact radii and clearances remain photo-estimated.
+The Phase 1 opening convention is **passenger/non-customer/utility: W1 + D1 + W3** and **driver/customer/service: W1 + W2 + W4**. D1 is drawn at 30 inches nominal outer width by holding its tongue-side jamb and extending toward the wheels; its actual position and clear opening remain unknown. W1 is drawn at one-half W2's width on both sides, with a visible gap between W1 and D1. The passenger-side elevation is intentionally shown with the tongue facing right; the plan retains its standard tongue-left datum. These are visualization choices only and do not verify donor openings.
+
+The shell plan distinguishes D1 from the window openings and indicates outward opening for D1 and both rear door leaves. D1's hinge side remains unknown; Phase 2 protects the exterior swing and interior approach/egress envelope for either hinge direction until actual hinges, leaf and clearances are measured.
+
+The passenger- and driver-side elevations show the fender as an open, continuous tandem-wheel arch. Its front and rear legs terminate at the same height, and the inner opening preserves visible clearance above and beside both tires, matching the close reference view of photo 001. Exact radii and clearances remain photo-estimated.
 
 The removable spare wheel visible in the reference photographs is intentionally omitted from the provisional exterior elevations. Its observed location remains documented in the reference-photo survey.
 
@@ -31,15 +37,15 @@ The Option files remain the authoritative geometry until Mike approves these vec
 
 ## View convention
 
-- `PL-01`: front/tongue is left, rear double doors are right, curb/service wall is top and street/opposite wall is bottom.
-- `EL-01`: interior elevation looking toward the curb/service wall. Because the viewer is inside, the exterior customer sees the order/pickup positions reversed: ORDER right and PICKUP left.
-- `EL-02`: interior elevation looking toward the street/opposite wall.
+- `PL-01`: front/tongue is left and rear double doors are right. Every side must be labeled by both physical side and function: driver/customer/service or passenger/non-customer/utility.
+- `EL-01`: interior elevation looking toward the driver/customer/service wall. Because the viewer is inside, the exterior customer sees the order/pickup positions reversed: ORDER right and PICKUP left.
+- `EL-02`: interior elevation looking toward the passenger/non-customer/utility wall.
 - `EL-03`: open front employee break/support wall looking toward the tongue; no partition.
 - `EL-04`: rear wall looking toward the double doors.
 
 ## Drawing inventory
 
-| Option | Plan | Curb/service | Street/opposite | Open front break area | Rear doors |
+| Option | Plan | Driver/customer/service | Passenger/utility/opposite | Open front break area | Rear doors |
 |---|---|---|---|---|---|
 | A | `concept/A-PL-01.svg` | `concept/A-EL-01-curb-service.svg` | `concept/A-EL-02-street-opposite.svg` | `concept/A-EL-03-front-partition.svg` | `concept/A-EL-04-rear-doors.svg` |
 | B | `concept/B-PL-01.svg` | `concept/B-EL-01-curb-service.svg` | `concept/B-EL-02-street-opposite.svg` | `concept/B-EL-03-front-partition.svg` | `concept/B-EL-04-rear-doors.svg` |
@@ -47,12 +53,16 @@ The Option files remain the authoritative geometry until Mike approves these vec
 
 ## Approval record
 
-Mike's later September 7, 2026 direction supersedes the partition content in the previously approved SVG set. The three plans and all three `EL-03` views now show the employee break/support nook open to the work aisle. Options A and B remain **APPROVED CONCEPT** bases. Option C remains an **APPROVED CONDITIONAL CONCEPT** and retains the future-written-health-authority-permission requirement. All drawings remain not for fabrication and retain their verification notes.
+Mike's later September 7, 2026 direction superseded the partition content in the previously approved SVG set. The historical plans and `EL-03` views show the employee break/support nook open to the work aisle. Under the September 25 scope, only Option A remains active and it must be regenerated after Phase 2 shell approval; B/C drawings are superseded. All drawings remain not for fabrication and retain their verification notes.
+
+Mike's subsequent Phase 2 direction restores the retained donor side door in Option A and removes the automatic roof-hatch assumption. The committed Option A plan/elevations that show a former-door infill or roof hatch are therefore superseded and must not drive new renderings or equipment placement. They will be replaced after the Phase 2 opening-disposition and usable-space approvals are complete.
+
+Mike's September 7 Phase 2 orientation approval also establishes **driver side = customer/service side** and **passenger side = non-customer/utility side**, with D1 on the passenger side. The existing Option A concept SVGs were drawn under the former side assignment and must be regenerated after Phase 2 shell approval before further rendering or interior placement. Existing B/C graphics are superseded historical references only.
 
 ## Controls
 
 - These drawings visualize the approved concept envelope and equipment arithmetic; they are not permit, construction or fabrication drawings.
-- `A-PL-01.svg` was corrected on September 7, 2026 to show the locked 24 × 36-inch minimum roof-hatch proxy in the rear-third aisle; exact product, coordinates, reinforcement and approval remain VERIFY.
+- The former Option A roof-hatch proxy is superseded. No roof hatch is included in the base shell; add one only if later required by the reviewing authority.
 - Dimensions remain concept assumptions until the acquired trailer is measured.
 - Options A and B retain the conditional 36-inch two-compartment sink basis.
 - Every Option C drawing carries the mandatory future-written-health-authority-permission condition.

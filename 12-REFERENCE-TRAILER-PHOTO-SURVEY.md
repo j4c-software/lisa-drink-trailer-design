@@ -1,6 +1,6 @@
 # Lisa Drink Trailer — Locked Reference Trailer Photo and Plan Survey
 
-**Revision:** 0.6 — September 7, 2026
+**Revision:** 0.7 — September 7, 2026
 **Status:** SUPPORTING EVIDENCE — NOT DESIGN AUTHORITY / NOT A FIELD SURVEY
 **Reference:** 1989 Circle J two-horse straight-load bumper-pull, Horse Trailer Trader stock 54738
 **Purpose:** Record observable shell, running-gear, opening and structural cues for the provisional Phase 1 model without misrepresenting raster photographs as measured donor geometry
@@ -20,14 +20,14 @@ Perspective, lens distortion, low resolution, occlusion and unknown measurement 
 
 The five Horse Trailer Trader photographs are preserved as reference copies in `references/photos/horse-trailer-trader-54738/`, with their original URLs and provenance retained below. They remain supporting evidence and are not approved as presentation artwork. The secondary Pinterest plan was inspected from its original URL and is not copied into the repository.
 
-The photographed reference shows a street/driver-side door. The Phase 1 provisional concept drawings intentionally use a different, explicitly unverified opening arrangement: D1 on the curb/passenger side at 30 inches nominal outer width, W2 on the street/driver side and W1 on both sides. The 30-inch D1 is extended toward the wheels from a held tongue-side jamb. That working drawing convention does not reinterpret the photographs or establish the future donor trailer's door side, position, construction or clear opening.
+The photographed reference shows a driver-side door. The Phase 1 provisional concept drawings intentionally use a different, explicitly unverified opening arrangement: D1 on the **passenger/non-customer/utility side** at 30 inches nominal outer width, W2 on the **driver/customer side** and W1 on both sides. The 30-inch D1 is extended toward the wheels from a held tongue-side jamb. That working drawing convention does not reinterpret the photographs or establish the future donor trailer's door position, construction or clear opening.
 
 ## 2. Photo index and walk-around sequence
 
 | Photo | Listing view | Principal evidence |
 |---|---|---|
-| [001](references/photos/horse-trailer-trader-54738/1989_Circle_J_001.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_001.jpg)) | Near-orthographic curb/passenger-side profile; tongue left, rear right | Body-length scaling, axle centers, axle spacing, tire diameter, longitudinal fender envelope, curb-side windows, roof/body seam and lower frame relationship |
-| [002](references/photos/horse-trailer-trader-54738/1989_Circle_J_002.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_002.jpg)) | Close oblique street/driver-side view looking toward the rear | Existing forward side/escape door, large upper opening, door swing, wall rails, rear portal and fender relationship |
+| [001](references/photos/horse-trailer-trader-54738/1989_Circle_J_001.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_001.jpg)) | Near-orthographic passenger-side profile; tongue left, rear right | Body-length scaling, axle centers, axle spacing, tire diameter, longitudinal fender envelope, passenger-side windows, roof/body seam and lower frame relationship |
+| [002](references/photos/horse-trailer-trader-54738/1989_Circle_J_002.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_002.jpg)) | Close oblique driver-side view looking toward the rear | Existing forward side/escape door, large upper opening, door swing, wall rails, rear portal and fender relationship |
 | [003](references/photos/horse-trailer-trader-54738/1989_Circle_J_003.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_003.jpg)) | Front three-quarter view | Broad front face, rounded front corners, curved roof cap, front windows, A-frame relationship and side-to-front transitions |
 | [004](references/photos/horse-trailer-trader-54738/1989_Circle_J_004.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_004.jpg)) | Rear view with double doors closed | Approximate body-to-fender width ratio, rear portal, split rear doors, roof/rear corner radii, hinges, lights, license plate and spare-tire projection |
 | [005](references/photos/horse-trailer-trader-54738/1989_Circle_J_005.jpg) ([original](https://cdn.horsetrailertrader.com/trailer-images/54738/1989_Circle_J_005.jpg)) | Rear view with both doors open | Interior width character, center stall divider, roof bows, interior wall framing cues, floor/mat condition and rear-door swing envelope |
@@ -45,11 +45,11 @@ The photographed reference shows a street/driver-side door. The Phase 1 provisio
 | Hitch type | Bumper pull — LISTED and OBSERVED | Representative A-frame/tongue form |
 | Manger | Present — LISTED | Original horse-use feature; conversion geometry still requires donor inspection |
 
-## 4. Photo 001 — curb/passenger-side profile
+## 4. Photo 001 — passenger-side profile
 
 ### Direct observations
 
-- The visible side is the side without the forward personnel/escape door; it is the best reference for the proposed curb/customer wall.
+- The visible side is the passenger side without the photographed forward personnel/escape door. In the approved Phase 2 orientation this is the non-customer/utility side and receives D1 as a purchase-planning assumption.
 - The front body is not square in plan. The side panel rolls into a rounded front corner before meeting the broad front face.
 - The colored roof cap is a distinct assembly above the steel wall, separated by a continuous eave/trim seam.
 - The roof cap has rounded front and rear corners and a shallow crown. Its exact transverse radius and construction cannot be measured.
@@ -94,10 +94,10 @@ The same 120-inch profile scale supports provisional outer-opening envelopes. Th
 ### Conversion implications
 
 - A 60-inch service opening centered in the canonical 90-inch work zone is not simply an enlargement of the visible large rear window. It extends farther forward than the reference window and would interact with existing seams/posts that remain unknown.
-- The curb-side large window is visual evidence of a likely opening region, not evidence that a 60 × 30-inch structural cut is feasible.
+- The passenger-side large window is visual evidence of an existing opening region, not evidence that a 60 × 30-inch structural cut is feasible.
 - The front axle sits beneath the latter portion of the canonical equipment/service zone; heavy equipment and tank placement cannot be evaluated without internal wheel-well and frame mapping.
 
-## 5. Photo 002 — street/driver-side oblique view
+## 5. Photo 002 — driver-side oblique view
 
 ### Direct observations
 
@@ -112,16 +112,16 @@ The same 120-inch profile scale supports provisional outer-opening envelopes. Th
 
 ### Conversion implications
 
-- Options B and C must treat the retained street-side door as a real interruption, not a small symbolic notch in a continuous backbar.
+- The representative trailer's driver-side door is a real interruption, not a small symbolic notch in a continuous wall. The Phase 2 purchase-planning shell deliberately moves D1 to the passenger/utility side; that choice is a donor-selection/design assumption, not an observation from this photograph.
 - The door swing, latch, threshold, step, grab handle and interior release need their own operating and egress volumes.
 - The photograph cannot establish whether the door falls wholly inside the desired front support remainder, crosses the target boundary near X = 24 inches in the 114-inch test shell, or occupies the controlling main work zone. That position remains a candidate-measurement priority.
-- Option A's permanent infill assumption requires a measured door/frame map and engineered replacement load path; the photo does not support a flush cosmetic infill alone.
+- A candidate that retains this photographed driver-side arrangement would constrain the utility/backbar wall and would require a controlled fit review against the Phase 2 passenger-side D1 assumption.
 
 ### Photo-scaled door envelope
 
-Mapping the visible street-side wall to the listed 120-inch body suggests an outer door-frame envelope from approximately X 15 to X 38 inches aft of the front body datum. The corresponding visible envelope is approximately 22 ±4 inches wide and 72 ±4 inches high. The small upper door-window aperture appears approximately 5–7 inches wide × 9–11 inches high.
+Mapping the visible driver-side wall to the listed 120-inch body suggests an outer door-frame envelope from approximately X 15 to X 38 inches aft of the front body datum. The corresponding visible envelope is approximately 22 ±4 inches wide and 72 ±4 inches high. The small upper door-window aperture appears approximately 5–7 inches wide × 9–11 inches high.
 
-These are deliberately low-confidence outer-envelope estimates from a highly oblique image. They do not establish clear opening, rough opening, threshold height, frame section, door thickness or swing clearance. In the 114-inch test shell, the estimate suggests that the door likely crosses the target X = 24-inch front-remainder/work-zone boundary. That boundary is not required and must move with verified interior length, but the door remains a direct constraint for Options B and C.
+These are deliberately low-confidence outer-envelope estimates from a highly oblique image. They do not establish clear opening, rough opening, threshold height, frame section, door thickness or swing clearance. In the 114-inch test shell, the estimate suggests that the photographed driver-side door likely crosses the target X = 24-inch front-remainder/work-zone boundary. That boundary is not required and must move with verified interior length. The Phase 2 purchase-planning shell avoids this constraint by placing D1 on the passenger/utility side, subject to candidate verification.
 
 ## 6. Photo 003 — front three-quarter view
 
@@ -165,6 +165,10 @@ Using the listed 60-inch body width and 81.6-inch body height as separate scale 
 ### Rear-opening caution
 
 The photo estimate supports the current conservative 48 × 72-inch provisional clear opening but does not verify it. Perspective, portal thickness, door overlap and unclear measurement conventions prevent a defensible clear-opening dimension. Retain 48 × 72 inches from the Master Design Spec until the candidate is measured.
+
+### Phase 2 conversion direction
+
+Retain both leaves as outward-opening doors. Reconstruct both visible open/barred upper zones as insulated, weather-sealed and cleanable door panels, reserving a W2-sized fixed window in one leaf and a solid panel in the other. The selected interior option controls which leaf receives the window. Before reusing W2, verify its frame, glazing, seals and added door-leaf weight; otherwise use an approved matching replacement. Preserve and verify the portal, hinges, center overlap, latches and hold-open capacity rather than treating the upper infill as cosmetic work.
 
 ## 8. Photo 005 — rear with doors open
 
@@ -237,7 +241,7 @@ The Pinterest drawing cannot check wheel placement. It shows a side-mounted spar
 | Overall width over fenders | 84 maximum clearance envelope | Approximately 78 PHOTO-ESTIMATED | Show both: 78 reference estimate and 84 design-clearance maximum |
 | Fender longitudinal envelope | Approximately 47–120 | Approximately 47–120 PHOTO-ESTIMATED | Use only in the reference-geometry layer; corrected to retain visible tire-to-fender clearance |
 | Interior wheel-well envelope | TBD | Not visible well enough | Remain UNKNOWN |
-| Street-side door position/size | TBD | Outer frame approximately X 15–38 and 22 ±4 W × 72 ±4 H PHOTO-ESTIMATED | Show only in reference-estimate layer; clear opening remains UNKNOWN and blocks B/C backbar release |
+| Driver-side reference door position/size | TBD | Outer frame approximately X 15–38 and 22 ±4 W × 72 ±4 H PHOTO-ESTIMATED | Show only in reference-estimate layer; clear opening remains UNKNOWN and does not establish Phase 2 D1 location |
 | Rear opening | 48 × 72 conservative | Visible portal approximately 50 W × 78 H; two approximately 25-inch leaves PHOTO-ESTIMATED | Retain conservative clear-opening assumption; model leaves and outward swing separately |
 | Roof profile/radius | TBD | Shallow crown and rounded corners OBSERVED | Form may be shown qualitatively; all radii remain UNKNOWN |
 | Wall posts/ribs | TBD | Several cues OBSERVED; positions unsupported | Remain UNKNOWN |
@@ -255,8 +259,8 @@ The photo walk-around increases the priority of these candidate checks:
 6. Axle spacing, tire outside diameter, tire width, track width and hub-face dimension.
 7. Fender leading/trailing edges, maximum projection and clearance to full tire travel.
 8. Interior wheel-well length, height, projection and relation to axle centers.
-9. Street-side door jambs from front body/floor datums, clear opening and full swing.
-10. Every curb-side window/opening jamb from front and floor datums.
+9. Driver-side reference-door jambs from front body/floor datums, clear opening and full swing.
+10. Every passenger-side window/opening jamb from front and floor datums.
 11. Wall posts, belt rails, headers, roof bows and rear-portal sections.
 12. Rear-door portal and true clear opening with both doors secured open.
 13. Spare-tire and any other removable projection included in travel width.
@@ -270,14 +274,14 @@ The photo walk-around increases the priority of these candidate checks:
 - Use approximately 29-inch tire outside diameter only as a visible reference proxy.
 - Show approximately 78 inches over reference fenders while retaining the independent 84-inch maximum planning envelope.
 - Do not create internal wheel wells from the fender outline.
-- Keep the street-side door, roof bows, wall posts and underfloor frame as unresolved/no-fit zones until measured.
+- Keep the photographed driver-side door, roof bows, wall posts and underfloor frame as unresolved/no-fit zones until measured.
 - Keep the 48-inch tongue as the conservative design assumption, but annotate that the reference photo appears shorter.
 - Keep the Pinterest R875/420 mm nose construction out of the Circle J reference layer; retain it only as a clearly named alternate precedent for future comparison.
 - Any candidate fit evaluation must replace photo-derived axle, fender, tire, tongue and opening estimates with supplied measurements before classification.
 
 ## 13. Survey conclusion
 
-The five reference photographs are adequate to establish the representative visual form: broad rounded front, shallow crowned roof cap, tandem axles concentrated toward the rear, a long shared fender, one forward street-side escape door, large upper side openings and rear double doors.
+The five reference photographs are adequate to establish the representative visual form: broad rounded front, shallow crowned roof cap, tandem axles concentrated toward the rear, a long shared fender, one forward driver-side escape door, large upper side openings and rear double doors.
 
 They are not adequate to establish internal wheel wells, structural-member positions, exact door/window openings, roof radii, frame geometry or fabrication dimensions. The Phase 1 model may now show a clearly labeled reference running-gear layer, but those objects must remain replaceable parameters with visible uncertainty and hard downstream holds.
 

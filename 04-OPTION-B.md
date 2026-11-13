@@ -1,12 +1,14 @@
 # Lisa Drink Trailer — Option B
 
-**Revision:** 1.7 — September 7, 2026
-**Status:** CANONICAL OPTION DIFFERENCES  
+**Revision:** 1.9 — September 25, 2026
+**Status:** SUPERSEDED — HISTORICAL REFERENCE ONLY
 **Name:** Single-Bartender Window Bar — Linear Gallery
 
 This file states only Option B differences. All requirements in `01-MASTER-DESIGN-SPEC.md` remain in force.
 
-Direction for every plan, elevation and rendering: **front = tongue**, **rear = double doors**, **curb = service-window side**, and **street = opposite/staff side**.
+> **Scope supersession — September 25, 2026:** Option A is the sole active design. Do not create new Option B models, drawings, renderings, presentation pages, equipment coordination or procurement work. Retain this file only to preserve the design history.
+
+Direction for every plan, elevation and rendering: **front = tongue**, **rear = double doors**, **driver side = customer/service-window side**, and **passenger side = non-customer/utility/opposite-wall side**. D1 is on the passenger/utility side. Do not use `curb` or `street` as side labels.
 
 ## Approved differences
 
@@ -49,9 +51,9 @@ The backwall may not include a floor cabinet, full-depth counter, sink, refriger
 - Place the water heater, pump, strainer and filter in a leak-managed service bay below the 36-inch sink/drainboard module in the under-window line.
 - Use the enclosed base at the 12-inch hand-sink end for the dedicated liquid-tight chemical compartment, separated from plumbing and clean storage.
 - Use the remaining verified volume below the drainboard for lidded trash/recycling pull-outs and a small rigid broken-glass container; exact catalog bins remain VERIFY.
-- Route sink, ice-well and refrigeration drainage through the floor to the centered underfloor waste system; all exterior service remains on the street side.
+- Route sink, ice-well and refrigeration drainage through the floor to the centered underfloor waste system; all exterior service remains on the passenger/utility side.
 - Place the dry electrical distribution panel high on the open front employee-support wall; do not place it in the Linear Gallery or wet line.
-- Place the extinguisher at the retained street-side staff door and the emergency light above the rear double doors.
+- Place the extinguisher at the retained passenger-side staff door and the emergency light above the rear double doors.
 - Break, stop or bridge the shallow Linear Gallery around the verified staff-door opening without reducing door clearance or egress.
 - Secure removable transit cases low over the axle zone during travel and remove them from the aisle before operation.
 
@@ -70,7 +72,7 @@ These layouts control all Option B technical graphics and renderings.
 ### Plan view
 
 ```text
-                         CURB / CUSTOMER SIDE
+                    DRIVER / CUSTOMER / SERVICE SIDE
 ┌──────────────┬───────────────────────────────────────────────┐
 │ FRONT BREAK  │ [HAND][36" SINK][24" ICE][18" REFRIGERATOR] │
 │ AREA — 24"   │        90" UNDER-WINDOW SERVICE LINE         │
@@ -81,13 +83,13 @@ These layouts control all Option B technical graphics and renderings.
 │ STAFF DOOR   │  ASYMMETRICAL LINEAR GALLERY BACKBAR         │
 │ — VERIFY     │  BREAK / BRIDGE AROUND DOOR AS REQUIRED      │
 └──────────────┴───────────────────────────────────────────────┘
-                         STREET / UTILITY SIDE
+               PASSENGER / NON-CUSTOMER / UTILITY SIDE
 
         UNDERFLOOR: POTABLE TANK → AXLE ZONE → WASTE TANK
         TONGUE BOX: BATTERY / INVERTER / CORDS / CHOCKS
 ```
 
-### B1 — Curb/service wall
+### B1 — Driver/customer/service wall
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -101,9 +103,9 @@ These layouts control all Option B technical graphics and renderings.
 └──────────────────────────────────────────────────────────────┘
 ```
 
-**View convention:** B1 is viewed from inside the trailer looking toward the curb wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
+**View convention:** B1 is viewed from inside the trailer looking toward the driver/customer wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
 
-### B2 — Street-side Linear Gallery
+### B2 — Passenger/utility-side Linear Gallery
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐

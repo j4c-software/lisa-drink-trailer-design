@@ -58,7 +58,7 @@
 
   <!-- Longitudinal cutaway -->
   <text x="1035" y="205" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#315b50">SECTION B–B • LONGITUDINAL CUTAWAY</text>
-  <text x="1035" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">CURB SIDE REMOVED • FRONT / TONGUE AT LEFT</text>
+  <text x="1035" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#68706d">DRIVER / CUSTOMER SIDE REMOVED • FRONT / TONGUE AT LEFT</text>
 
   <!-- 120 L x 84 H exterior; same 5 px/in -->
   <path d="M690 700 V330 Q690 280 740 280 H1290 V700 Z" fill="#f4efe5" stroke="#2e3232" stroke-width="6"/>

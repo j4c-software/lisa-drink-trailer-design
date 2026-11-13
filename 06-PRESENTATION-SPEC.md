@@ -1,14 +1,30 @@
 # Lisa Drink Trailer — Presentation Specification
 
-**Revision:** 2.2 — September 7, 2026
-**Status:** LOCKED PRESENTATION PLAN; CONTROLLED VISUAL PRODUCTION AUTHORIZED  
+**Revision:** 2.5 — September 25, 2026
+**Status:** OPTION A-ONLY PRESENTATION PLAN; EQUIPMENT VISUALS ON INVENTORY HOLD
 **Format:** US Letter, 8.5 × 11 inches
 
 ## Presentation objective
 
-Create a concise client-facing concept package that makes the three options visually comparable and decision-ready. The package is approximately **75–85% visual**. Prose is brief and supports the visuals rather than repeating them.
+Create a concise client-facing concept package that communicates the selected Option A personal-use design and its fixed-shell constraints. The package is approximately **75–85% visual**. Prose is brief and supports the visuals rather than repeating them.
 
-**Communication job:** By the end, the client should be able to select Option A, B or C because the package shows the customer experience, bartender workflow, operating capacity, constraints and genuine design differences on equal terms.
+**Communication job:** By the end, the client should understand Option A's customer experience, bartender workflow, private-event planning basis, fixed-shell constraints and next verification steps.
+
+## September 25 active package — nine pages
+
+This map supersedes the former 24-page option-comparison package. Options B and C receive no new presentation production.
+
+| Page | Purpose | Primary visual/content |
+|---:|---|---|
+| 1 | Cover | Option A exterior hero; personal-use cocktail trailer; **Conceptual Exterior** |
+| 2 | Scope and fixed shell | Personal/private use, Option A only, 120 × 60 × 84 exterior and 114 × 56 × 76 clear-interior limits |
+| 3 | Option A overview | Fixed shell, open service window, one-primary-bartender intent and current inventory-first reset |
+| 4 | Interior shell | Empty-shell interior view with fixed openings; no installed equipment before inventory approval |
+| 5 | Exterior and service | `A-EX-01` plus operating hatch/ledge detail |
+| 6 | Customer experience | `A-EX-02`; order-right/pickup-left, clear apron and loose event seating |
+| 7 | Shell and future workflow | Fixed-shell plan with D1 and egress reserves; equipment placement intentionally withheld pending inventory approval |
+| 8 | Equipment and materials | Unplaced inventory board drawn from `13-EQUIPMENT-INVENTORY.md`; show selected products and open decisions without implying a layout |
+| 9 | Next steps | Inventory approval, new placement study, donor verification, structural review and measured-model handoff |
 
 ## Locked sheet and graphic system
 
@@ -30,15 +46,15 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 
 | ID | View | Locked composition |
 |---|---|---|
-| `EX-01` | Service-side exterior hero | Front-curb three-quarter, approximately 35 mm equivalent, eye height about 5 ft 2 in, early-evening event setting; whole trailer, tongue and service hatch legible |
+| `EX-01` | Service-side exterior hero | Front-driver-side three-quarter, approximately 35 mm equivalent, eye height about 5 ft 2 in, early-evening event setting; whole trailer, tongue and service hatch legible |
 | `EX-02` | Customer-at-window | Near-square service-side view, approximately 35–40 mm equivalent; customer-facing order-right, interaction center, pickup-left, accessible transaction area and nearby seating visible |
-| `EX-03` | Street/utility-side exterior | Rear-street three-quarter; staff door, divided utility service, tongue box, stabilizers and non-customer circulation visible; all unverified door positions labeled **VERIFY** |
-| `IN-01` | Rear-to-front interior | Camera centered at rear portal, approximately 22–24 mm equivalent, verticals corrected; work line, window, opposite wall and open front break/support nook visible |
-| `IN-02` | Front-to-rear interior | Camera centered at the front edge of the open break/support nook, same lens/eye height as `IN-01`; service line and rear egress visible |
-| `PL-01` | Concept plan | Orthographic top-down; fixed 9 ft 6 in × 56 in interior envelope, front/rear and curb/street labeled; equipment modules, aisle, door hold, utilities and travel zone shown |
-| `EL-01` | Curb-wall interior elevation | Flat orthographic elevation showing service opening/ledge and applicable under-window equipment or outboard storage |
-| `EL-02` | Street-wall interior elevation | Flat orthographic elevation showing Option A service line, Option B Linear Gallery or Option C Twin-Wing Backbar |
-| `EL-03` | Open front break-area elevation | Flat elevation showing the high dry electrical panel, cubbies, mirror, folding hooks, water/charging/first-aid shelf and fold-down seat; no partition |
+| `EX-03` | Passenger/utility-side exterior | Rear-passenger-side three-quarter; D1, divided utility service, tongue box, stabilizers and non-customer circulation visible; all unverified door positions labeled **VERIFY** |
+| `IN-01` | Rear-to-front interior | On hold until inventory approval; later camera centered at rear portal with fixed shell and approved equipment layout visible |
+| `IN-02` | Front-to-rear interior | On hold until inventory approval; later matched reverse camera with fixed shell and approved equipment layout visible |
+| `PL-01` | Fixed-shell plan | Orthographic top-down; fixed 9 ft 6 in × 56 in interior envelope, shell openings and sides labeled; no equipment modules or utility placement before inventory approval |
+| `EL-01` | Driver/customer-wall shell elevation | Flat orthographic elevation of fixed-shell service opening/ledge only; no installed equipment |
+| `EL-02` | Passenger/utility-wall shell elevation | Flat orthographic elevation showing protected D1 opening only; no installed equipment |
+| `EL-03` | Open front shell elevation | Flat elevation of the unpartitioned front area; do not show installed equipment, storage or utility assignments before inventory approval |
 | `EL-04` | Rear-door elevation | Flat elevation showing double doors, emergency light, ventilation provision and clear egress |
 | `DT-01` | Operating-state detail | Hatch raised, ledge deployed, operating restraints engaged and customer light active |
 | `DT-02` | Travel-state detail | Hatch/ledge latched, counters clear, glass/bottles/tools removed or docked and transit cases secured low |
@@ -48,10 +64,12 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 - Generate or draw each option's `EX-01`, `EX-02`, `IN-01`, `IN-02` and `PL-01` from identical camera/view definitions.
 - Option-specific differences come only from the Master and Option files. Exterior paint, setting, weather, time, seating and customer count remain the same.
 - Interior `IN-01` and `IN-02` views use the same camera height, lens, crop and exposure across A, B and C.
-- In every `IN-01` rear-to-front view, curb/service wall is image-right and street/opposite wall is image-left. In every `IN-02` front-to-rear view, curb/service wall is image-left and street/opposite wall is image-right. Do not mirror these views.
-- Orthographic plans and elevations use the same scale and datum. Show Option A's engineered street-door infill and reserved roof escape hatch; do not disguise Option C's conditional sink basis.
+- In every `IN-01` rear-to-front view, the driver/customer/service wall is image-right and the passenger/utility/opposite wall is image-left. In every `IN-02` front-to-rear view, the driver/customer/service wall is image-left and the passenger/utility/opposite wall is image-right. Do not mirror these views.
+- Orthographic Option A plans and elevations use the same scale and datum. Show retained passenger-side D1 and no base roof hatch.
 
-## Locked 24-page content and visual-production map
+## Superseded 24-page comparison map — historical reference only
+
+The following legacy map is retained for decision history. Do not produce pages 10–24 or any new Option B/C asset from it.
 
 | Page | Audience-facing takeaway/title | Primary visual production | Minimal visible copy and required controls |
 |---:|---|---|---|
@@ -61,9 +79,9 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 | 4 | **Option A keeps the service window visually open** | Option A `IN-01` hero with a small `PL-01` inset | Name: **Opposite-Wall Service Bar**. Three short differentiators: open window wall; opposite-wall production; six-inch outboard storage. |
 | 5 | **The exterior remains an inviting bar—not a concession window** | Option A `EX-01` plus small `DT-01` ledge/hatch detail | **Conceptual Exterior**. Call out warm layered light, restrained branding, removable menu and accessible transaction zone. |
 | 6 | **Guests see the bartender and the room beyond** | Option A `EX-02` in realistic early-evening setting with queue, cocktail tables and seating | Customer-facing order-right/pickup-left labels; clear service apron; seating 6–10 ft away. Keep customer count visually uncrowded. |
-| 7 | **A separates customer presentation from production** | Large Option A `PL-01` with one workflow trace and compact underfloor utility inset | Equipment arithmetic, 32-in aisle, break area, tanks and travel zone. Show engineered street-door infill, rear staff entrance and reserved roof escape hatch. |
+| 7 | **A separates customer presentation from production** | Large Option A `PL-01` with one workflow trace and compact underfloor utility inset | Equipment arithmetic, 32-in aisle, break area, tanks and travel zone. Show retained passenger-side D1, rear doors and the Phase 2 equipment-line coordination hold. |
 | 8 | **The opposite wall carries the complete working bar** | Option A `IN-02` plus `EL-01`/`EL-02` strips | Identify hand sink, two-compartment sink, cocktail station, refrigerator, glass storage and bottle display. Two-compartment configuration remains conditional on written acceptance. |
-| 9 | **Option A offers the clearest customer view with a dedicated equipment wall** | Material palette plus `DT-02` travel-state detail and two-column advantages/limitations | Advantages: open view, hospitality presence, outboard light storage and uninterrupted equipment wall. Limitations: engineered door infill, roof escape approval and longest cross-aisle reach. No recommendation language. |
+| 9 | **Option A offers the clearest customer view with a dedicated equipment wall** | Material palette plus `DT-02` travel-state detail and two-column advantages/limitations | Advantages: open view, hospitality presence and outboard light storage. Limitations: passenger-side D1 interrupts the opposite-wall equipment zone; longest cross-aisle reach. No recommendation language. |
 | 10 | **Option B makes one bartender's movement short and intuitive** | Option B `IN-01` hero with small `PL-01` inset | Name: **Single-Bartender Linear Gallery**. Three differentiators: under-window service line; one-direction workflow; asymmetrical backbar. |
 | 11 | **A standard bar relationship puts service directly at the window** | Option B `EX-01` plus small `DT-01` detail | **Conceptual Exterior**. Show the same common exterior while allowing the under-window line to read through the opening. |
 | 12 | **One bartender owns the interaction from order through pickup** | Option B `EX-02` with one bartender and realistic nearby seating | Customer-facing order-right, production-center and pickup-left; accessible transaction and menu visibility. Do not imply two-person capacity. |
@@ -90,7 +108,7 @@ Use these IDs consistently in briefs, filenames, page plans and QA. Mike release
 - Do not render tanks or underfloor equipment through opaque surfaces. Show their zones only in plans, cutaway details or technical overlays.
 - Do not show loose bottles, glassware, tools, appliances or transit cases in travel-state views.
 - Every Option C page from 16 through 21 carries **FUTURE WRITTEN HEALTH-AUTHORITY PERMISSION REQUIRED** in a consistent footer line.
-- Option A pages 4 and 7–9 identify the engineered street-door infill, rear-door staff entry and conditional roof-escape solution.
+- Option A pages 4 and 7–9 identify retained passenger-side D1, rear-door egress and the unresolved equipment-wall coordination. No roof hatch appears unless later required by the reviewing authority.
 - Pages 22 and 23 may compare conditional status but may not imply permit approval.
 
 ## Preproduction acceptance checklist
@@ -101,13 +119,13 @@ Before releasing rendering, confirm:
 2. Letter-landscape orientation and graphic system are approved. **COMPLETE**
 3. The recommendation criteria and whether Page 23 names a preferred option are approved.
 4. Every required view has one locked camera definition and option/state assignment. **COMPLETE**
-5. All plans/elevations reconcile with current equipment arithmetic, doors, utilities and aisle controls. **COMPLETE — ALL 15 SVG DRAWINGS APPROVED UNCHANGED BY MIKE ON SEPTEMBER 7, 2026**
+5. All plans/elevations reconcile with current equipment arithmetic, doors, utilities and aisle controls. **REOPENED — side labels and Option A door/roof content must be regenerated from the approved Phase 2 orientation**
 6. Source/reference rights are known for every externally obtained photograph. **COMPLETE — Mike confirmed the selected external reference photographs are free to use and require no license clearance; retain source notes**
 7. The rendering hold is explicitly released by Mike. **COMPLETE — September 7, 2026; asset-specific blocks remain**
 
-`A/B/C-EX-02` are released for controlled candidate production with customer-facing **ORDER right / PICKUP left**, preserving the front/tongue order end, rear pickup end and approved elevations.
+Historical note: the former `A/B/C-EX-02` set was released with customer-facing **ORDER right / PICKUP left**. Under the current scope, only `A-EX-02` may return to controlled production after Phase 2 reconciliation.
 
-## Locked 24-page structure
+## Superseded 24-page structure — historical reference only
 
 | Page | Content |
 | ---: | --- |
@@ -145,8 +163,8 @@ Each option uses the same six page titles, hierarchy and approximate content den
 1. **Concept Overview:** hero view, concise idea statement and defining differences.
 2. **Exterior Design:** service-side exterior, hatch/ledge relationship, common exterior language and the label **Conceptual Exterior**.
 3. **Customer Experience:** realistic event setting, nearby seating, queue, order/pickup sequence, accessibility and evening lighting.
-4. **Interior Layout & Workflow:** dimensioned concept plan, equipment modules, aisle, exits and order-to-handoff workflow.
-5. **Interior Design & Equipment:** interior longitudinal and reverse/opposite-wall views using the actual approved equipment forms.
+4. **Interior Layout & Workflow:** fixed-shell plan and exits only until inventory approval; add equipment modules and workflow only after new placement is approved.
+5. **Interior Design & Equipment:** unplaced equipment inventory board until the placed interior views are reauthorized.
 6. **Materials / Details / Concept Summary:** finish palette, critical travel/operating details, advantages, limitations and option-specific condition.
 
 ## Locked comparison method
@@ -157,8 +175,8 @@ Each option uses the same six page titles, hierarchy and approximate content den
 - Page 22 places the most decision-relevant same-angle views side by side and identifies only genuine option differences.
 - Page 23 states the recommendation, the operating rationale and any condition without changing or embellishing the alternatives.
 - Interior comparisons must make the approved backwall identities legible: Option B is the asymmetrical, continuous **Linear Gallery** for one bartender; Option C is the centered, symmetrical **Twin-Wing Backbar** for two bartenders.
-- Plans and interior elevations must identify the concept utility zones, staff door, rear egress, travel-case location and all **VERIFY** holds without depicting unverified custom-fit equipment.
-- Option A pages must disclose the engineered street-door infill and the roof-escape approval requirement.
+- Before inventory approval, plans and interior elevations show fixed-shell openings and protected structural areas only. Utility, travel-case and equipment locations remain unset.
+- Option A pages must disclose retained passenger-side D1 and the resulting equipment-wall coordination hold; a roof exit is shown only if later required by the reviewing authority.
 
 ## Graphic and copy controls
 
@@ -173,4 +191,4 @@ Each option uses the same six page titles, hierarchy and approximate content den
 
 ## Production gate
 
-Canonical concept-spec review was approved September 6, 2026, and Mike released the project-wide rendering hold September 7, 2026. Controlled visual production may proceed after the applicable canonical files and `07-RENDERING-CONTROLS.md` are checked. Option A must show its engineered street-door infill and reserved roof escape hatch; Option C retains its mandatory conditional statement.
+The September 25 scope revision limits all new presentation work to Option A. Driver = customer/service; passenger = non-customer/utility with D1. No presentation asset may show placed equipment until `13-EQUIPMENT-INVENTORY.md` is explicitly approved and placement is restarted from an empty fixed-shell model. Superseded Phase 3 layouts may appear only as clearly labeled historical studies. Options B and C receive no new production.

@@ -1,13 +1,15 @@
 # Lisa Drink Trailer — Visual QA Register
 
-**Revision:** 1.12 — September 7, 2026
-**Status:** CANONICAL VISUAL ACCEPTANCE RECORD
+**Revision:** 1.14 — September 25, 2026
+**Status:** OPTION A-ONLY VISUAL ACCEPTANCE RECORD — EQUIPMENT PLACEMENT HOLD
 
 No generated image is approved merely because it appears in chat. An image may enter the presentation only when its exact candidate record is marked **APPROVED FOR PRESENTATION**.
 
-Pre-render reconciliation on September 7, 2026 found and corrected Option A wall terminology, fixed the handedness and visible near-to-far equipment sequence for both interior camera directions, and reconciled the B/C asset counts. Mike resolved the customer-side direction by preserving the elevations and approving **ORDER right / PICKUP left**; `A/B/C-EX-02` are released for controlled candidate production.
+**Scope revision:** Option A is the sole active design. Options B and C and their assets are retained only as historical decision evidence and may not be used for new production. Previously approved Option A vectors must be regenerated from the Phase 2 shell before further side-dependent use.
 
-The three SVG concept plans and twelve SVG interior elevations were generated from the authoritative Option files and passed file-count, XML-validity, required-label and representative visual checks. Mike's later September 7, 2026 direction removed the front partition from all three options; the plans and EL-03 views now show an open employee break/support nook. Options A and B remain approved concept bases; Option C remains conditional and retains its mandatory future-written-health-authority-permission statement. None are fabrication drawings.
+Pre-render reconciliation on September 7, 2026 found and corrected Option A wall terminology and the handedness and visible near-to-far equipment sequence for both interior camera directions. Mike resolved the customer-side direction by preserving **ORDER right / PICKUP left**. The former A/B/C release is superseded; only Option A may return to controlled candidate production after Phase 2 reconciliation.
+
+The three historical SVG concept plans and twelve historical SVG interior elevations passed their original checks. The September 25 scope change supersedes all B/C production and requires the active Option A set to be regenerated from the Phase 2 shell. None are fabrication drawings.
 
 ## Status vocabulary
 
@@ -53,9 +55,9 @@ Intermediate generated attempts `exec-45d5f4e5-0e57-45dc-9f5f-c90fd85383c9.png` 
 
 | Drawing set | Count | Status | Reason/control |
 |---|---:|---|---|
-| Option A: `A-PL-01`, `A-EL-01`–`A-EL-04` | 5 | **APPROVED FOR PRESENTATION** | Mike approved unchanged; verification and non-fabrication controls remain. |
-| Option B: `B-PL-01`, `B-EL-01`–`B-EL-04` | 5 | **APPROVED FOR PRESENTATION** | Mike approved unchanged; Linear Gallery and open opposite lower wall preserve the 32-inch aisle. |
-| Option C: `C-PL-01`, `C-EL-01`–`C-EL-04` | 5 | **APPROVED FOR PRESENTATION — CONDITIONAL** | Mike approved unchanged; Twin-Wing Backbar and open opposite lower wall preserve the 32-inch aisle; mandatory future written health-authority permission remains. |
+| Option A: `A-PL-01`, `A-EL-01`–`A-EL-04` | 5 | **HISTORICAL APPROVAL — REGENERATE FROM PHASE 2** | Do not use for new side-dependent production until reconciled to the approved shell. |
+| Option B: `B-PL-01`, `B-EL-01`–`B-EL-04` | 5 | **SUPERSEDED — REFERENCE ONLY** | No new Option B production. |
+| Option C: `C-PL-01`, `C-EL-01`–`C-EL-04` | 5 | **SUPERSEDED — REFERENCE ONLY** | No new Option C production. |
 
 ## Approved component visual directions
 
@@ -91,8 +93,8 @@ Use **PASS**, **FAIL**, or **N/A** for each technical column. Any **FAIL** requi
 
 - `exec-39ae8ac6-f10d-4c95-b2bc-809f41dd701d.png`, `exec-813f0e0e-5840-4fd8-bdc3-de24935e30a5.png` and `exec-206f9d10-dac7-4f93-8609-7110aa580beb.png` are rejected development studies: the sequence was obscured or the interior read wider than the 56-inch clear-width basis.
 - Current review candidate: `renders/candidates/A-IN-01-dark-narrow-floor-01.png`, generated with the built-in image tool. Governing references: `A-PL-01`, `A-EL-01`, `A-EL-02`, `A-EL-03`, the approved cover palette and Mike's starting interior mood reference.
-- Visible checks for the next revision: rear-to-front orientation; far wall is the open front/tongue employee support nook; one 24-inch image-left work line; narrow aisle; image-right service opening with exterior wood ledge; high dry panel; cubbies, mirror, hooks and fold-down seat; no partition or track; roof escape hatch; darker charcoal/green interior and dark commercial sheet floor.
-- Dimensional status: visual proportion candidate only. The rendering cannot verify the exact 56-inch clear width, 24-inch counter depth, 32-inch aisle, 90-inch run or individual module dimensions; the approved plan/elevations remain dimensional authority.
+- Visible checks for the next revision: rear-to-front orientation; far wall is the open front/tongue employee support nook; one 24-inch image-left work line; narrow aisle; image-right service opening with exterior wood ledge; high dry panel; cubbies, mirror, hooks and fold-down seat; no partition or track; no base roof hatch; darker charcoal/green interior and dark commercial sheet floor.
+- Dimensional status: visual proportion candidate only. It cannot verify the 56-inch clear width, aisle or any equipment layout. The Phase 3 placement study is superseded, and no equipment plan/elevation controls until the inventory is approved and placement restarts from scratch.
 - Status: **CANDIDATE** awaiting Mike's visual approval and complete equipment-sequence review; not yet approved for presentation.
 - Latest generation source: `exec-d8c15669-030b-46e8-8c3c-6daa31344c2d.png`.
 

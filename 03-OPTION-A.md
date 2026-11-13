@@ -1,79 +1,77 @@
 # Lisa Drink Trailer — Option A
 
-**Revision:** 1.8 — September 7, 2026
-**Status:** CANONICAL OPTION DIFFERENCES  
+**Revision:** 2.13 — September 25, 2026
+**Status:** SOLE ACTIVE DESIGN — EQUIPMENT INVENTORY IN PROGRESS / ALL EQUIPMENT UNPLACED
 **Name:** Open Window / Opposite-Wall Service Bar
 
 This file states only Option A differences. All requirements in `01-MASTER-DESIGN-SPEC.md` remain in force.
 
-Direction for every plan, elevation and rendering: **front = tongue**, **rear = double doors**, **curb = service-window side**, and **street = opposite/service-equipment side**.
+## Current scope
+
+- Option A is the only active design. Options B and C are superseded historical references.
+- “Open Window / Opposite-Wall Service Bar” remains the historical Option A name only; it does not authorize an equipment-wall assignment during the inventory hold.
+- The trailer is designed for personal/private use, not public vending or commercial mobile-food-facility operation.
+- The fixed shell envelope is a hard design restriction: 120 × 60 × 84 inches exterior and 114 × 56 × 76 inches finished clear. Do not enlarge the shell or its usable boundary to make equipment fit.
+- Former commercial health/permit conditions are not active design gates. Continue safe potable/waste separation, contained drainage, cleanable surfaces, electrical protection, fire safety, roadworthiness and structural review.
+
+Direction for every plan, elevation and rendering: **front = tongue**, **rear = double doors**, **driver side = customer/service-window side**, and **passenger side = non-customer/utility/opposite-wall side**. D1 is on the passenger/utility side. Do not use `curb` or `street` as side labels.
 
 ## Approved differences
 
-- Place the entire 90-inch equipment line on the wall opposite the service window.
-- Equipment sequence: 12-inch hand sink + 36-inch two-compartment sink/drainboard + 24-inch cocktail station + 18-inch refrigerator.
-- The 36-inch two-compartment sink is the locked concept basis. Do not procure it or release the counter until the health authority accepts the two-compartment procedure; otherwise redesign the 90-inch line.
+- Stop all equipment placement while the list is completed. `13-EQUIPMENT-INVENTORY.md` is the active equipment gate.
+- The requested inventory currently includes one commercial single-basin drop-in sink integrated into the future cabinetry for shared personal-use handwashing and light washing, with an adjacent countertop landing/drying surface; one selected Krowne KR-7GR commercial push-down glass rinser; one selected Krowne 18-18 working ice bin; two refrigerators; and one 24-inch two-faucet direct-draw dispenser for two sixtel or Cornelius kegs. The dispenser's draft/gas package is also required. All remain unplaced. The sink uses the Krowne HS-2017 envelope as a planning basis while the exact product, cabinet/service envelope, keg-dispenser model, beverages, keg connections, gas system and any refrigerator replacement remain subject to inventory review.
+- The former 90-inch line and later 60-inch redistribution are both **SUPERSEDED**. Their wall assignments, sequence, coordinates, arithmetic and equipment relationships do not control future work.
+- After Mike explicitly approves the inventory, restart placement from an empty fixed-shell model.
 - Keep the wide window wall visually open with minimum interior occupation below the opening.
-- Provide six-inch-deep fixed storage cabinets that project outboard beneath the customer ledge; keep the interior face flush so the 32-inch aisle remains clear.
-- Limit the six-inch cabinets to lightweight dry goods, menus, napkins and positively retained small tools.
-- Place the POS on a protected swing/deployable mount at the forward/order end of the window.
-- Use the refrigerator top at the rear as the garnish/blender/finishing and pickup transition.
-- Locate the restrained illuminated bottle display and enclosed clean-glass storage above the street/opposite-wall line, separated from exposed dirty sink activity.
+- Use a split glassware strategy without establishing final cabinetry: prioritize the 50-glass onboard reserve in two covered 25-compartment commercial racks stacked in clean cabinetry at the inside front, and test a maximum 6-inch-deep retained holder beneath the service window for 10–12 operating glasses transferred from those racks. Empty and secure the holder for travel. Reject it if later placement cannot preserve the 30-inch aisle and open-window character.
+- Retain a tentative five-module space budget for later testing: 36-inch wet cabinet, 18-inch ice bin, 18-inch general refrigerator, 24-inch keg dispenser and nominal 20-inch stacked glass-rack cabinet. The working test treats the keg dispenser as the second refrigerated appliance, but the requested second general refrigerator remains in the inventory until explicitly removed. The 116-inch combined frontage proves this is not an approved single-line layout.
+- POS, refrigeration, ice and bottle-display locations remain UNPLACED. Exact glass-rack cabinets, the under-window holder envelope and all coordinates also remain UNPLACED pending the later fit test.
+- The front clean-glass cabinet has priority over the optional employee-support nook. Use a nominal 20 W × 20 D × 24–30 H-inch envelope for fit testing only; exact corner and construction remain open. Do not combine this clean storage with tanks, kegs, bulk liquor, batteries, gas cylinders, chemicals, waste or exposed plumbing.
+- Pair the Krowne 18-18 working ice/drink well with one shallow, restrained illuminated bottle display on the passenger-side production wall, directly above or immediately adjacent and visible through the service window. Keep working bottles low in secured rails/wells. The relationship is approved, but exact position and display dimensions remain UNPLACED pending the later D1, aisle, wet-zone, reach and drainage fit test.
 
 ## Operating intent
 
 - One primary bartender with occasional inside assistance.
 - Best suited to flexible hospitality presentation and an unobstructed customer view through the window.
 - Standard design basis remains 100 guests/250 beverages/four hours with exterior runner support above 100 guests.
+- This capacity is a private-event design stress test, not a commercial service or permitting claim.
 
-## Systems placement
+## Systems inventory controls
 
-- Place the water heater, pump, strainer and filter in a leak-managed service bay below the 36-inch sink/drainboard module.
-- Use the enclosed base at the 12-inch hand-sink end for the dedicated liquid-tight chemical compartment, separated from plumbing and clean storage.
-- Use the remaining verified volume below the drainboard for lidded trash/recycling pull-outs and a small rigid broken-glass container; exact catalog bins remain VERIFY.
-- Route sink, ice-well and refrigeration drainage through the floor to the centered underfloor waste system; no customer-side discharge or exposed hose.
-- Place the dry electrical distribution panel high on the open front employee-support wall and route shore power from the street-side utility zone.
-- Use the rear double doors as the staff entrance/primary exit; place the extinguisher immediately accessible there and the emergency light above the opening.
-- Assume no usable street-side door. Permanently infill any existing horse/escape door with an engineered, weather-sealed, insulated and interior-finish-matched wall assembly before installing the continuous service line.
-- Reserve a standard listed 24 × 36-inch minimum roof escape hatch over the rear-third aisle as the second egress, subject to final product selection, roof mapping, reinforcement, access and authority approval.
-- Secure removable transit cases low over the axle zone during travel and remove them from the aisle before operation.
+- Inventory the water heater, pump, strainer, filter, tanks, electrical distribution, battery/inverter, HVAC and all associated service envelopes before placement.
+- Inventory chemical storage, trash/recycling and broken-glass containment as distinct functions; exact products remain VERIFY.
+- Keep all plumbing, drainage and electrical routes UNSET until the approved equipment list establishes loads and connections. No waste may discharge to the ground.
+- Keep extinguisher and emergency-light product selections in the inventory; final mounting locations remain UNSET.
+- Retain the donor side door with its full operating, egress, step, grab-handle and interior-release envelopes. Its actual side, position and clear opening remain VERIFY.
+- Do not include a roof escape hatch in the base shell while the side door and rear doors remain the egress candidates. Add a listed 24 × 36-inch minimum roof exit only if later required by the approved life-safety configuration.
+- Do not test a new equipment layout until the inventory is explicitly approved.
 
-## Travel state
+## Travel-state requirements
 
-- The street/opposite-wall equipment line remains installed.
-- Window-side ledge folds/removes; outboard cabinet doors latch.
+- Window-side ledge folds/removes; any later cabinetry requires positive travel latches.
 - Open shelves and counters are empty.
-- Bottles, glass racks, blender, tools, POS and display objects travel in labeled low docks or approved support-vehicle cases.
+- Every selected item will require a defined travel restraint or removal plan after placement is approved.
+- Equipment travel locations and restraints are currently UNSET.
 
-## Authoritative plan and interior elevations
+## Plan and elevation control
 
-**Drawing direction:** Mike's September 7, 2026 instruction removes the front partition and opens the employee break/support nook to the work aisle. The five Option A SVG concept drawings incorporate that direction. They remain for concept and presentation use, not fabrication; all verification and agency-approval notes remain.
+No equipment plan or elevation currently controls. The Phase 3 package and older Option A concept drawings are superseded placement studies retained for traceability only. Do not copy equipment positions from them.
 
-These layouts control all Option A technical graphics and renderings. They incorporate the later approved decision that Option A has no usable street-side door: any donor-trailer door in the equipment-line area is permanently infilled. The rear double doors are the primary staff entrance/exit, and the reserved roof escape hatch is the conditional second egress.
+The next equipment plan begins as an empty fixed-shell model only after `13-EQUIPMENT-INVENTORY.md` is explicitly approved.
 
 ### Plan view
 
 ```text
-                         CURB / CUSTOMER SIDE
-┌──────────────┬───────────────────────────────────────────────┐
-│ FRONT BREAK  │  6" OUTBOARD STORAGE + 60" SERVICE OPENING   │
-│ AREA — 24"   │  ORDER/POS → CUSTOMER LEDGE → PICKUP          │
-│              │                                               │
-│ DRY ELECTRIC │              32" CLEAR AISLE                  │
-│ PANEL        │     TRAVEL CASES HERE ONLY WHILE TOWING       │
-│              │                                               │
-│ FOLD-DOWN    │ [HAND][36" SINK][24" ICE][18" REFRIGERATOR]  │
-│ SEAT • OPEN  │          90" STREET-SIDE SERVICE LINE         │
-└──────────────┴───────────────────────────────────────────────┘
-                         STREET / UTILITY SIDE
-
-        STREET-SIDE DONOR DOOR: ENGINEERED PERMANENT INFILL
-        ROOF: RESERVED 24 × 36" MINIMUM ESCAPE HATCH
-        UNDERFLOOR: POTABLE TANK → AXLE ZONE → WASTE TANK
-        TONGUE BOX: BATTERY / INVERTER / CORDS / CHOCKS
+┌──────────────────────────────────────────────────────────────┐
+│                 FIXED SHELL — EQUIPMENT EMPTY               │
+│                                                              │
+│      EQUIPMENT PLACEMENT INTENTIONALLY WITHHELD              │
+│      COMPLETE + APPROVE 13-EQUIPMENT-INVENTORY.md            │
+│      THEN PLACE ALL ITEMS FROM SCRATCH                       │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### A1 — Curb/service wall
+### A1 — Driver/customer/service wall
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -81,25 +79,23 @@ These layouts control all Option A technical graphics and renderings. They incor
 │                                                              │
 │ [ ORDER / POS ] ─── 14–16" CUSTOMER LEDGE ─── [ PICKUP ]    │
 │                                                              │
-│ [ 6" OUTBOARD DRY STORAGE — FLUSH INTERIOR FACE ]            │
+│ [ EQUIPMENT / CABINETRY PLACEMENT INTENTIONALLY BLANK ]      │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-**View convention:** A1 is viewed from inside the trailer looking toward the curb wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
+**View convention:** A1 is viewed from inside the trailer looking toward the driver/customer wall. From outside at the customer side, the physical positions read in reverse: **ORDER right / PICKUP left**.
 
-### A2 — Street/opposite wall
+### A2 — Passenger/utility/opposite wall
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│ [ SOAP/TOWELS ] [ ENCLOSED GLASS ] [ ILLUMINATED BOTTLES ]  │
+│             NO EQUIPMENT PLACEMENT IS ACTIVE                 │
 │                                                              │
-│ ───────────────── STAINLESS WORK COUNTER ─────────────────── │
+│          WALL ASSIGNMENTS + SEQUENCE + COORDINATES           │
+│                    ARE INTENTIONALLY UNSET                    │
 │                                                              │
-│ [12 HAND][36 TWO-SINK/DRAIN][24 ICE][18 REFRIGERATION]      │
-│ [CHEMICAL][PLUMBING + WATER][WASTE BINS][REFRIGERATION]      │
-│                                                              │
-│ ENGINEERED, INSULATED, FINISH-MATCHED FORMER-DOOR INFILL     │
+│          SEE 13-EQUIPMENT-INVENTORY.md                       │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -109,11 +105,9 @@ These layouts control all Option A technical graphics and renderings. They incor
 ┌──────────────────────────────────────────────────────────────┐
 │                    COPPER-COLORED PAINTED CEILING            │
 │                                                              │
-│ [ HIGH DRY ELECTRICAL PANEL ]   [ LOCKABLE CUBBIES ]        │
+│            EQUIPMENT + STORAGE PLACEMENT UNSET               │
 │                                                              │
-│ OPEN BREAK AREA: FOLD-DOWN SEAT / CUBBIES / HOOKS / MIRROR  │
-│ DRINKING WATER / CHARGING / FIRST AID / PAPERWORK            │
-│                                                              │
+│       FIXED-SHELL FRONT AREA RETAINED FOR LATER STUDY        │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -121,15 +115,14 @@ These layouts control all Option A technical graphics and renderings. They incor
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│ [ HIGH RELIEF VENT — VERIFY ]       [ EMERGENCY LIGHT ]     │
-│                                                              │
 │                  FUNCTIONAL DOUBLE REAR DOORS                │
 │                                                              │
 │             WEATHER SEALS / HOLD-OPEN CATCHES               │
 │                                                              │
 │              CLEAR PRIMARY STAFF EGRESS / ENTRY              │
+│        EQUIPMENT + LIFE-SAFETY MOUNTING LOCATIONS UNSET      │
 └──────────────────────────────────────────────────────────────┘
 
- SECOND EGRESS: RESERVED LISTED 24 × 36" MINIMUM ROOF HATCH
- — PRODUCT, REINFORCEMENT, ACCESS AND AUTHORITY APPROVAL VERIFY
+ BASE EGRESS CANDIDATES: RETAINED SIDE DOOR + REAR DOORS
+ — FINAL CONFIGURATION / SEPARATION REQUIRE AUTHORITY APPROVAL
 ```
